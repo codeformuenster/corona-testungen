@@ -1,11 +1,11 @@
-name:
+name: Scrape source
 
 on:
   push:
     branches:
       - main
-#  schedule:
-#    - cron: '30 6-19 * * 1-5'
+  schedule:
+    - cron: '30 6-19 * * 1-5'
 
 jobs:
   staging:
@@ -14,14 +14,25 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-node@v2
         with:
-          python-version: '3.9'
+          node-version: '14'
 
-      - name: Install dependencies (TODO add package caching)
+      - uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          npm ci
 
       - name: Execute scraper
         run: |
-          python scrape.py
+          node scrape.js
+
+      - name: Check if the data changed
+        run: |
+          git diff --exit-code data.json
