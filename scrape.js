@@ -46,7 +46,7 @@ const loadData = async () => {
         case 4:
           if (parts[0] === "Ärztehaus Mondstraße") {
             name = parts.slice(0, 3).join(", ");
-            address = "Mondstrasse 179 - 181";
+            address = "Mondstrasse 179";
           } else if (parts[0] === "Stefan Marschalleck") {
             name = parts[0];
             address = parts[1];
