@@ -36,11 +36,14 @@ const loadData = async () => {
           [name, address, info] = parts;
           if (name === "Dr. Christine Hellwig" && address === "Hoher Heckenweg") {
             address = "Hoher Heckenweg 92B"
-          }
-          if (name === "Dr. Bernd Unbehaun" && address.includes("(")) {
+          } else if (name === "Dr. Bernd Unbehaun" && address.includes("(")) {
             const address_new = address.slice(0, address.indexOf("(") - 1)
             info = `${address.slice(address.indexOf("("))}, ${info}`
             address = address_new
+          } else if (name === "Gemeinschaftspraxis Dr. Wehmeyer") {
+            name = `${name}, ${address}`;
+            address = info;
+            info = "";
           }
           break;
         case 4:
@@ -55,6 +58,9 @@ const loadData = async () => {
             name = parts[0];
             address = parts[1];
             info = parts[3];
+          } else if (parts[0] === "Hausarztpraxis An Der Wolbecker") {
+            name = parts.slice(0, 3).join(", ");
+            address = parts[3];
           } else {
             info = parts[parts.length - 1];
             address = parts[parts.length - 2];
@@ -113,7 +119,7 @@ const execute = async () => {
   try {
     const sites = await loadData();
     // console.log(sites);
-    writeFile("./data.json", JSON.stringify(sites), (error) => {
+    writeFile("./data.json", JSON.stringify(sites, null, 2), (error) => {
       if (error) {
         console.log(error);
         throw error;
