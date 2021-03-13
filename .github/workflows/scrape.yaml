@@ -49,6 +49,8 @@ jobs:
           git checkout -t origin/gh-pages
 
           mv corona-testungen-muenster-extracted.json corona-testungen-muenster-geo.json
+          d=$(TZ='Europe/Berlin' date +"%d.%m.%+4Y %H:%M")
+          sed -i "s|<time datetime=.*|<time datetime=\"$(date -Iseconds)\">$d</time>|" index.html
 
           # add everything
           git add -A
