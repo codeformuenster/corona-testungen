@@ -41,7 +41,7 @@ jobs:
           git diff --exit-code data.json corona-testungen-muenster-extracted.json
 
       - name: Update gh-pages branch
-        if: steps.update-required.outputs.changes != '0'
+        # if: steps.update-required.outputs.changes != '0'
         run: |
           # checkout gh-pages branch
           git remote set-branches --add origin gh-pages
