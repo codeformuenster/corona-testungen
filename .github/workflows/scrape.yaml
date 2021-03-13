@@ -41,7 +41,7 @@ jobs:
           git diff --exit-code data.json corona-testungen-muenster-extracted.json
 
       - name: Update gh-pages branch
-        # if: steps.update-required.outputs.changes != '0'
+        if: steps.update-required.outputs.changes != '0'
         run: |
           mv corona-testungen-muenster-extracted.json /tmp/corona-testungen-muenster-geo.json
           # checkout gh-pages branch
