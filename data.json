@@ -1,385 +1,457 @@
 [
   {
-    "name": "Testcenter",
-    "address": "Am Hawerkamp 29a",
-    "info": "<a href=\"https://15minutentest.de/muenster\" target=\"_blank\" title=\"öffnet Seite in neuem Fenster\" class=\"extern\">15minutentest.de/muenster</a>"
-  },
-  {
-    "name": "Drive-In am HIT-Markt",
-    "address": "Geringhoffstraße 44",
-    "info": "<a href=\"https://testanddrive.de\" target=\"_blank\" title=\"öffnet Seite in neuem Fenster\" class=\"extern\">testanddrive.de</a>"
-  },
-  {
-    "name": "Gemeinschaftspraxis, Dr. Rolf Surmann",
-    "address": "Windthorststraße 8",
-    "info": "Tel. 0251/58800 (ab 22.3.)"
-  },
-  {
-    "name": "Thomas Backhaus",
-    "address": "Windthorststr. 16",
-    "info": "Tel. 0251/46881"
-  },
-  {
-    "name": "Frauenärzte Windhorststraße",
-    "address": "Windthorststraße 16",
-    "info": "Tel. 0251/46576 (Barrierefreie Testungen)"
-  },
-  {
-    "name": "Dr. Claus-Dietmer Richter",
-    "address": "Windthorststraße 65",
-    "info": "Tel. 0251/43377"
-  },
-  {
-    "name": "Gemeinschaftspraxis Dr. Cathrin Meyer-Tassler, Dr. Barbara Stöckmann",
-    "address": "Salzstraße 29",
-    "info": "Tel. 0251/43570"
-  },
-  {
-    "name": "Dr. Arndt Möllers",
-    "address": "Salzstraße 54",
-    "info": "Tel. 0251/44629"
-  },
-  {
-    "name": "Infektiologische Praxisgemeinschaft, Dr. Heiner Busch, Dr. Stefan Christensen",
+    "name": "Adler Apotheke",
     "address": "Salzstraße 58",
-    "info": "Tel. 0251/98 700 0"
-  },
-  {
-    "name": "Praxis Kiepenkerl, Dr. Ralf Becker, Christiane Beiske, Dr. Andrea Karsch, Dr. Christina Niebuhr",
-    "address": "Bogenstraße 15-16",
-    "info": "Tel. 0251/98163840"
-  },
-  {
-    "name": "Dr. Hubertus Egbring",
-    "address": "Rothenburg 49",
-    "info": "Tel. 0251/47517"
-  },
-  {
-    "name": "HNO münsterland, Dr. Eikenbusch und Dr. Hermann",
-    "address": "Bült 13",
-    "info": "Tel. 0251/56399 info@hno-muensterland.de"
-  },
-  {
-    "name": "Dermatologie MS, Dr. Anja Brinkmann",
-    "address": "Hohenzollernring 10-12",
-    "info": "termine@dermatologie.ms"
-  },
-  {
-    "name": "Praxis Mauritztor, Margitta Orgaß-Krüger",
-    "address": "Warendorfer Straße 3",
-    "info": "Tel. 0251/42244"
-  },
-  {
-    "name": "Gemeinschaftspraxis Münster-Mauritz, Dr. Viktor Egen, Dr. Christina und Dr. Bernd Fallenberg",
-    "address": "Warendorfer Straße 77",
-    "info": "Tel. 0251/36663"
-  },
-  {
-    "name": "HNO Zentrum Münsterland",
-    "address": "Warendorfer Str. 97",
-    "info": "Tel. 0251/3900450"
-  },
-  {
-    "name": "Dermatologische Gemeinschaftspraxis, Dr. Ottilie Rödder-Wehrmann, Prof. Wolfgang Wehrmann",
-    "address": "Warendorfer Straße 183",
-    "info": "Tel. 0251/35051"
-  },
-  {
-    "name": "MVZ Medicum Münster, Dr. Tanja Heuerman, Dr. Michael Verpoort, Dorothee Mühlberger",
-    "address": "Warendorfer Straße 185",
-    "info": "Tel. 0251/23938020"
-  },
-  {
-    "name": "Hausarztzentrum Münster",
-    "address": "Schaumburgstr. 1",
-    "info": "Tel. 0251/43018 oder 0251/64333"
-  },
-  {
-    "name": "Dr. Thomas Duda",
-    "address": "Bohlweg 59",
-    "info": "Tel. 0251/2303811"
-  },
-  {
-    "name": "Dr. Sabine Ludt",
-    "address": "Kanalstraße 15",
-    "info": "Tel. 0251/2301990"
-  },
-  {
-    "name": "Praxis Piusallee, Dr. Tim Hartwig",
-    "address": "Piusallee 30",
-    "info": "Tel. 0251/45013"
-  },
-  {
-    "name": "Dr. Christine Hellwig",
-    "address": "Hoher Heckenweg 92B",
-    "info": "Tel. 0251-233661"
-  },
-  {
-    "name": "Gemeinschaftspraxis Dr. Wehmeyer, Dr. Westrick",
-    "address": "Cheruskerring 73",
-    "info": ""
-  },
-  {
-    "name": "Gemeinschaftspraxis Am Kreuztor",
-    "address": "Am Kreuztor 6",
-    "info": "Tel. 0251/270040"
-  },
-  {
-    "name": "Dr. Carsten Schriek",
-    "address": "Gertrudenstr. 29",
-    "info": "Tel. 0251/53096910"
-  },
-  {
-    "name": "Gemeinschaftspraxis im Kreuzviertel, Dr. Jürgen Diehle und Maika Stranghöner",
-    "address": "Altumstraße 15",
-    "info": "Tel. 0251/293329"
-  },
-  {
-    "name": "Gemeinschaftspraxis Dr. Sonja Susewind, Dr. Sylvia Tjan-Schäpsmeier",
-    "address": "Nordstraße 20",
-    "info": "Tel. 0251/293081"
-  },
-  {
-    "name": "Hausärztlich-Internistisches Arztzentrum im Kreuzviertel, Dr. Maria Schäper, Dr. Bassam Willenborg",
-    "address": "Raesfeldstr. 15",
-    "info": "Tel. 0251/9225150"
-  },
-  {
-    "name": "Hausarzt in Münster, Dres. Dalmis, Grossekettler, Stöckmann",
-    "address": "Lazarett Strasse 3"
-  },
-  {
-    "name": "Dr. Dörte Rasch",
-    "address": "Scharnhorststr. 46",
-    "info": "Tel. 0251/533262"
-  },
-  {
-    "name": "Hausarztpraxis auf der Geist, Marcus Kleinhans, Dr. Armin Schuster, Dr. Cornelia Werbick",
-    "address": "Metzer Straße 59",
-    "info": "Tel. 0251/9862200 (ab 15.3.)"
-  },
-  {
-    "name": "Praxis Dr. Peter Münster",
-    "address": "Kappenberger Damm 16",
-    "info": "0251/73926. Keine Anmeldung erforderlich."
-  },
-  {
-    "name": "Dr. Irina Hamm",
-    "address": "Alfred-Krupp-Weg 3",
-    "info": "Tel. 0251-1625941"
-  },
-  {
-    "name": "MVZ Medicum Münster, Thomas Post, Dr. Anne Waltering, Dr. Martin Ostermann",
-    "address": "Hogenbergstraße 15",
-    "info": "Tel. 0251/787330"
-  },
-  {
-    "name": "HNO am Ludgeriplatz, Frau Dr. med. A. Glitz, Dr. med. K. Garmann",
-    "address": "Hammer Str. 7",
-    "info": "Tel. 0251/531213"
-  },
-  {
-    "name": "Dr. Chawki Soueilleh",
-    "address": "Friedrich-Ebert-Str. 134",
-    "info": "Tel. 0251/775332"
-  },
-  {
-    "name": "Ärztehaus Mondstraße, Dr. Matthias Döring, Dr. Karen Steinhaus",
-    "address": "Mondstrasse 179",
-    "info": "mail@aerztehaus-mondstrasse.de"
-  },
-  {
-    "name": "Dr. Felicitas Runte",
-    "address": "Wolbeckerstraße 21",
-    "info": "Tel. 0251/60476"
-  },
-  {
-    "name": "Hausarztpraxis An Der Wolbecker, Marcus Bisping, Marcel Lammers",
-    "address": "Wolbecker Straße 67"
-  },
-  {
-    "name": "HNO im Hansaviertel, Frau Dr. K. Landmann-Heinz, Frau Dr. med. K. Suthues",
-    "address": "Wolbecker Str. 75",
-    "info": "Tel. 0251/664866"
-  },
-  {
-    "name": "Hausarztpraxis am Hansaring, Birgit Aufderhaar-Wölke, Dr. Daniel Wölke",
-    "address": "Hansaring 67",
-    "info": "Tel. 0251/64273"
-  },
-  {
-    "name": "Dr. Ulrike Schmitz-Nahrath",
-    "address": "Kötterstraße 1",
-    "info": "Tel. 0251/9277055"
-  },
-  {
-    "name": "Dr. Martina Terstiege",
-    "address": "Westerheide 22",
-    "info": "Tel. 0251-1442874 (ab 15.3.)"
-  },
-  {
-    "name": "Medicum Münster, Dr. Peter Hamann",
-    "address": "Handorfer Str. 10",
-    "info": "Tel. 0251/324481"
-  },
-  {
-    "name": "MVZ Medicum Münster, Dr. Hendrik Oen, Dr. Mathias Oen, Dr. Mayke Austermann, Dr. Hans-Jürgen Rauba",
-    "address": "Handorferstrasse 20",
-    "info": "ohne Anmeldung"
-  },
-  {
-    "name": "Dr. Martina Hoppe, Dr. Nicola Lüpke",
-    "address": "Reinerskamp 1",
-    "info": "Tel. 0251/23938020"
-  },
-  {
-    "name": "EP Dr. Veronika Engelbertz von Eiff",
-    "address": "Idenbrockplatz 24",
-    "info": "Tel. 0251/213340"
-  },
-  {
-    "name": "Gemeinschaftspraxis Dr. Derya Önaldi-Mohr",
-    "address": "Idenbrockplatz 28",
-    "info": "Tel. 0157/58201653"
-  },
-  {
-    "name": "Georg Wünstel",
-    "address": "Neuer Heidkamp 12",
-    "info": "Tel. 0251/211615"
-  },
-  {
-    "name": "Dr. Carsten Borchard",
-    "address": "Grevener Straße 440",
-    "info": "Tel. 0251/213032"
-  },
-  {
-    "name": "Gemeinschaftspraxis Dres. Fuchs &amp; Hieronymus",
-    "address": "Gartenstiege 1",
-    "info": "Tel. 02533/2022"
-  },
-  {
-    "name": "Stefan Marschalleck",
-    "address": "Davertstraße 55",
-    "info": "Tel. 02501/58160 und 02501/9639735 marschalleck@muenster.de"
-  },
-  {
-    "name": "Anne Lodde",
-    "address": "Davertstr. 48",
-    "info": "Tel. 02501/3514"
+    "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/414710\">0251/414710</a>"
   },
   {
     "name": "Allgemeinmedizinische Praxis Dr. Wolf-Ulrich Mader &amp; Dr. Stefan Blüggel",
     "address": "Theodor-Storm-Straße 2",
-    "info": "Tel. 02501/262626"
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02501/262626\">02501/262626</a>"
   },
   {
-    "name": "Dr. Michael Speidel",
-    "address": "Ringstrasse 151",
-    "info": "Tel. 02501/2043 (ab 29.3.)"
+    "name": "Anne Lodde",
+    "address": "Davertstraße 48",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:praxis@lodde-lodde.de\">praxis@lodde-lodde.de</a>, <a href=\"tel:02501/3514\">02501/3514</a>"
   },
   {
-    "name": "Gemeinschaftspraxis Dr. Sabine Adolf, Dr. Dr. Katja Kemmerling, Dr. Silke Niepagenkemper",
-    "address": "Marktallee 11",
-    "info": "Tel. 02501/2196"
-  },
-  {
-    "name": "Gemeinschaftspraxis Dr. Gabriele Fuchs, Harald Kuiper, Dr. Miriam Kempin",
-    "address": "Marktallee 19",
-    "info": "Tel. 02501/6055"
-  },
-  {
-    "name": "Praxis für Kinder- und Jugendmedizin, Burkhard Frase, Dr. Catrin Schulze Höping",
-    "address": "Marktallee 53",
-    "info": "Tel. 02501/44840"
-  },
-  {
-    "name": "HNO münsterland, Dr. Schwering, Dr. Meuth",
-    "address": "Westfalenstrasse 132",
-    "info": "Tel. 02501/3009 info@hno-muensterland.de"
-  },
-  {
-    "name": "Dr. Bernd Unbehaun",
-    "address": "Münsterstraße 3",
-    "info": "(nur eigene Patienten, ab 13.3.)"
-  },
-  {
-    "name": "Dr. Wolfgang Zeeden",
-    "address": "Albersloher Weg 419",
-    "info": "Tel. 0251/614883"
-  },
-  {
-    "name": "Gemeinschaftspraxis Dr. Timo Altenkämper, Dr. Christina Mosler, Dr. Achim Schick",
-    "address": "Albersloher Weg 467",
-    "info": "Tel. 0251/61328"
-  },
-  {
-    "name": "Dr. Domingos Schrader",
-    "address": "Münsterstraße 9",
-    "info": "Tel. 02506-1264"
-  },
-  {
-    "name": "Praxis Pommernstraße, Dr. Johannes Fühner, Julia Hegge",
-    "address": "Pommernstrasse 4",
-    "info": "Tel. 0251/61141"
-  },
-  {
-    "name": "Gemeinschaftspraxis Dr. Kleine Wortmann / Liebig-Kleine Wortmann",
-    "address": "Hiltruper Str. 6",
-    "info": "Tel. 02506/440"
-  },
-  {
-    "name": "Adler Apotheke",
-    "address": "Salzstraße 58",
-    "info": "Tel. 0251/414710"
-  },
-  {
-    "name": "Kiepenkerl Apotheke",
-    "address": "Bergstraße 10",
-    "info": "Tel. 0251/46964  (ab 15.3.)"
-  },
-  {
-    "name": "Jahreszeiten Apotheke",
-    "address": "Catharina-Müller-Straße 2",
-    "info": "Tel. 0251/2705027"
+    "name": "Ärztehaus Mondstraße, Dr. Matthias Döring, Dr. Karen Steinhaus",
+    "address": "Mondstraße 179",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:mail@aerztehaus-mondstrasse.de\">mail@aerztehaus-mondstrasse.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.aerztehaus-mondstrasse.de/\">https://www.aerztehaus-mondstrasse.de/</a>"
   },
   {
     "name": "Burg Apotheke",
-    "address": "Burgstr. 31",
-    "info": "Tel. 0251/524276"
-  },
-  {
-    "name": "St. Georg Apotheke",
-    "address": "Hammer Straße 13",
-    "info": "Tel. 0251/531480"
-  },
-  {
-    "name": "Süd-Apotheke",
-    "address": "Hammer Straße 101",
-    "info": "Tel. 0251/7774880"
-  },
-  {
-    "name": "Hansa-Apotheke",
-    "address": "Wolbecker Straße 65",
-    "info": "Tel. 0251/64498 (ab 15.3.)"
-  },
-  {
-    "name": "Margareten-Apotheke und Park-Apotheke in den Räumlichkeiten der „Alten Apotheke“",
-    "address": "Wolbecker Straße 304",
-    "info": "Tel. 0251/381237 oder 0251/314756"
+    "address": "Burgstraße 31",
+    "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251-524276\">0251-524276</a>"
   },
   {
     "name": "Coerde-Apotheke",
     "address": "Hamannplatz 11",
-    "info": "Tel. 0251/247171"
+    "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/247171\">0251/247171</a>"
+  },
+  {
+    "name": "Dermatologie MS, Dr. Anja Brinkmann",
+    "address": "Hohenzollernring 10",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:termine@dermatologie.ms\">termine@dermatologie.ms</a>"
+  },
+  {
+    "name": "Dermatologische Gemeinschaftspraxis, Dr. Ottilie Rödder-Wehrmann, Prof. Wolfgang Wehrmann",
+    "address": "Warendorfer Straße 183",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/35051\">0251/35051</a>"
+  },
+  {
+    "name": "Dr. Bernd Unbehaun",
+    "address": "Münsterstraße 3",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patient*innen, ab 13.03.21"
+  },
+  {
+    "name": "Dr. Carsten Borchard",
+    "address": "Grevener Straße 440",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/213032\">0251/213032</a>"
+  },
+  {
+    "name": "Dr. Carsten Schriek",
+    "address": "Gertrudenstraße 29",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/53096910\">0251/53096910</a>"
+  },
+  {
+    "name": "Dr. Chawki Soueilleh",
+    "address": "Friedrich-Ebert-Straße 134",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/775332\">0251/775332</a>"
+  },
+  {
+    "name": "Dr. Christine Hellwig",
+    "address": "Hoher Heckenweg 92",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-233661\">0251-233661</a>"
+  },
+  {
+    "name": "Dr. Claus-Dietmer Richter",
+    "address": "Windthorststraße 65",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/43377\">0251/43377</a>"
+  },
+  {
+    "name": "Dr. Domingos Schrader",
+    "address": "Münsterstraße 9",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02506-1264\">02506-1264</a>"
+  },
+  {
+    "name": "Dr. Dörte Rasch",
+    "address": "Scharnhorststraße 46",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/533262\">0251/533262</a>"
+  },
+  {
+    "name": "Dr. Felicitas Runte",
+    "address": "Wolbecker Straße 21",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-60476\">0251-60476</a>"
+  },
+  {
+    "name": "Dr. Hubertus Egbring",
+    "address": "Rothenburg 49",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/47517\">0251/47517</a>"
+  },
+  {
+    "name": "Dr. Irina Hamm",
+    "address": "Alfred-Krupp-Weg 3",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-1625941\">0251-1625941</a>"
+  },
+  {
+    "name": "Dr. Martina Terstiege",
+    "address": "Westerheide 22",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: ab 15.03.21, <a href=\"tel:0251-1442874\">0251-1442874</a>"
+  },
+  {
+    "name": "Dr. med. Arndt Möllers",
+    "address": "Salzstraße 54",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: Interessierte sollen sich vorher telefonisch oder online anmelden, <a href=\"tel:0251-44629\">0251-44629</a>"
+  },
+  {
+    "name": "Dr. med. Christian Berg",
+    "address": "Auf dem Dorn 21",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt"
+  },
+  {
+    "name": "Dr. med. Olaf Heinemann-Vechtel",
+    "address": "Windthorststraße 31",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@praxis-heinemann-vechtel.de\">info@praxis-heinemann-vechtel.de</a>, <a href=\"tel:0251/56354\">0251/56354</a>"
+  },
+  {
+    "name": "Dr. Michael Speidel",
+    "address": "Ringstraße 151",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patient*innen ab 29.03.21, <a href=\"tel:02501/2043\">02501/2043</a>"
+  },
+  {
+    "name": "Dr. Sabine Ludt",
+    "address": "Kanalstraße 15",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt"
+  },
+  {
+    "name": "Dr. Thomas Duda",
+    "address": "Bohlweg 59",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt"
+  },
+  {
+    "name": "Dr. Ulrike Schmitz-Nahrath",
+    "address": "Kötterstraße 1",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/9277055\">0251/9277055</a>"
+  },
+  {
+    "name": "Dr. Wolfgang Zeeden",
+    "address": "Albersloher Weg 419",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/614883\">0251/614883</a>"
+  },
+  {
+    "name": "Drive-In am HIT-Markt",
+    "address": "Geringhoffstraße 44",
+    "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://testanddrive.de/\">https://testanddrive.de/</a>"
+  },
+  {
+    "name": "EP Dr. Veronika Engelbertz von Eiff",
+    "address": "Idenbrockplatz 24",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-213340\">0251-213340</a>"
+  },
+  {
+    "name": "Frauenärzte Windhorststraße",
+    "address": "Windthorststraße 16",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: Barrierefreie Testungen, <a href=\"tel:0251 46576\">0251 46576</a>"
+  },
+  {
+    "name": "Gemeinschaftspraxis Am Kreuztor",
+    "address": "Am Kreuztor 6",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251 270040\">0251 270040</a>"
+  },
+  {
+    "name": "Gemeinschaftspraxis Dr Dröge und Dr. Stahl",
+    "address": "Am Burloh 95",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/211447\">0251/211447</a>"
+  },
+  {
+    "name": "Gemeinschaftspraxis Dr. Cathrin Meyer-Tassler, Dr. Barbara Stöckmann",
+    "address": "Salzstraße 29",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/43570\">0251/43570</a>"
+  },
+  {
+    "name": "Gemeinschaftspraxis Dr. Derya Önaldi-Mohr",
+    "address": "Idenbrockplatz 28",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0157/58201653\">0157/58201653</a>"
+  },
+  {
+    "name": "Gemeinschaftspraxis Dr. Gabriele Fuchs, Harald Kuiper",
+    "address": "Marktallee 19",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/6055\">0251/6055</a>"
+  },
+  {
+    "name": "Gemeinschaftspraxis Dr. Kleine Wortmann, Dr. Liebig-Kleine Wortmann",
+    "address": "Hiltruper Straße 6",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:praxiskleinewortmann@t-online.de\">praxiskleinewortmann@t-online.de</a>"
+  },
+  {
+    "name": "Gemeinschaftspraxis Dr. Sabine Adolf, Dr. Dr. Katja Kemmerling, Dr. Silke Niepagenkemper",
+    "address": "Marktallee 11",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02501/2196\">02501/2196</a>"
+  },
+  {
+    "name": "Gemeinschaftspraxis Dr. Sonja Susewind, Dr. Sylvia Tjan-Schäpsmeier",
+    "address": "Nordstraße 20",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/293081\">0251/293081</a>"
+  },
+  {
+    "name": "Gemeinschaftspraxis Dr. Timo Altenkämper, Dr. Christina Mosler, Dr. Achim Schick",
+    "address": "Albersloher Weg 467",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/61328\">0251/61328</a>"
+  },
+  {
+    "name": "Gemeinschaftspraxis Dr. Wehmeyer, Dr. Westrick",
+    "address": "Cheruskerring 73",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt"
+  },
+  {
+    "name": "Gemeinschaftspraxis Dres. Fuchs &amp; Hieronymus",
+    "address": "Gartenstiege 1",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02533/2022\">02533/2022</a>"
+  },
+  {
+    "name": "Gemeinschaftspraxis für Kinder- &amp; Jugendmedizin Münster, Dr. Karolin Groth, Dr. Rasmus Jürgens, Dr. Judith Wendt",
+    "address": "Dieckmannstraße 200",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/86 10 46 oder  0251/87 14 877\">0251/86 10 46 oder  0251/87 14 877</a>"
+  },
+  {
+    "name": "Gemeinschaftspraxis im Kreuzviertel, Dr. Jürgen Diehle und Dr. Horst Fatum",
+    "address": "Altumstraße 15",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/293329\">0251/293329</a>"
+  },
+  {
+    "name": "Gemeinschaftspraxis Münster-Mauritz, Dr. Viktor Egen, Dr. Christina und Dr. Bernd Fallenberg",
+    "address": "Warendorfer Straße 77",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/36663\">0251/36663</a>"
+  },
+  {
+    "name": "Gemeinschaftspraxis, Dr. Rolf Surmann",
+    "address": "Windthorststraße 8",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: ab 22.03.21, <a href=\"tel:0251/58800\">0251/58800</a>"
+  },
+  {
+    "name": "Georg Wünstel",
+    "address": "Neuer Heidkamp 12",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/211615\">0251/211615</a>"
+  },
+  {
+    "name": "Hansa-Apotheke",
+    "address": "Wolbecker Straße 65",
+    "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/64498\">0251/64498</a>"
+  },
+  {
+    "name": "Hausarzt in Münster, Dres. Dalmis, Grossekettler, Stöckmann",
+    "address": "Lazarettstraße 3",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt"
+  },
+  {
+    "name": "Hausärztlich-Internistisches Arztzentrum im Kreuzviertel, Dr. Maria Schäper, Dr. Bassam Willenborg",
+    "address": "Raesfeldstraße 15",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/9225150\">0251/9225150</a>"
+  },
+  {
+    "name": "Hausarztpraxis am Hansaring, Birgit Aufderhaar-Wölke, Dr. Daniel Wölke",
+    "address": "Hansaring 67",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/64273\">0251/64273</a>"
+  },
+  {
+    "name": "Hausarztpraxis An Der Wolbecker, Dr. med. Marcus Bisping, Marcel Lammers",
+    "address": "Wolbecker Straße 67",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt"
+  },
+  {
+    "name": "Hausarztpraxis auf der Geist, Marcus Kleinhans, Dr. Armin Schuster, Dr. Cornelia Werbick",
+    "address": "Metzer Straße 59",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: ab 15.03.21"
+  },
+  {
+    "name": "Hausarztpraxis Salzstraße, Dr. Schirmer-Tolic und Kenkel",
+    "address": "Salzstraße 58",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/44686\">0251/44686</a>"
+  },
+  {
+    "name": "Hausarztzentrum Münster",
+    "address": "Schaumburgstraße 1",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-43018 oder -64333\">0251-43018 oder -64333</a>"
+  },
+  {
+    "name": "Hausarztzentrum Münster-Süd, <br /><br />Dr. Martin Burger - Dr. Wolfgang Lütteken - Martin Borgmann - Dr. Sven Hengesbach - Dr. Karin Wieners - Dr. Marcel Volland<br /><br />",
+    "address": "Hammer Straße 99",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:praxis@docmuenster.de\">praxis@docmuenster.de</a>, <a href=\"tel:0251/9720840\">0251/9720840</a>"
+  },
+  {
+    "name": "HNO am Ludgeriplatz",
+    "address": "Hammer Straße 7",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/531213\">0251/531213</a>"
+  },
+  {
+    "name": "HNO im Hansaviertel",
+    "address": "Wolbecker Straße 75",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info-hno-im-hansaviertel@web.de\">info-hno-im-hansaviertel@web.de</a>, <a href=\"tel:0251/664866\">0251/664866</a>"
+  },
+  {
+    "name": "HNO münsterland, Dr. Eikenbusch und Dr. Hermann",
+    "address": "Bült 13",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@hno-muensterland.de\">info@hno-muensterland.de</a>, <a href=\"tel:0251/56399\">0251/56399</a>"
+  },
+  {
+    "name": "HNO münsterland, Dr. Schwering, Dr. Meuth",
+    "address": "Westfalenstraße 132",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@hno-muensterland.de\">info@hno-muensterland.de</a>, <a href=\"tel:02501/3009\">02501/3009</a>"
+  },
+  {
+    "name": "HNO Zentrum Münsterland, <br /><br />Dr. med. B. Hustert , Prof. Dr. med. R. Heermann<br /><br />",
+    "address": "Warendorfer Straße 97",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/39004518\">0251/39004518</a>"
   },
   {
     "name": "Hubertus-Apotheke Handorf",
     "address": "Handorfer Straße 4",
-    "info": "Tel. 0251/328955"
+    "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/328955\">0251/328955</a>"
+  },
+  {
+    "name": "Infektiologische Praxisgemeinschaft, Dr. Heiner Busch, Dr. Stefan Christensen",
+    "address": "Salzstraße 58",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/98 700 0\">0251/98 700 0</a>"
+  },
+  {
+    "name": "Jahreszeiten Apotheke",
+    "address": "Catharina-Müller-Straße 2",
+    "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/2705027\">0251/2705027</a>"
   },
   {
     "name": "Kiepenkerl Apotheke",
-    "address": "Meesenstiege 54a",
-    "info": "Tel. 01501/921577 (ab 15.3.)"
+    "address": "Bergstraße 10",
+    "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: ab 15.03.21, <a href=\"tel:0251/46964\">0251/46964</a>"
+  },
+  {
+    "name": "Kiepenkerl Apotheke",
+    "address": "Meesenstiege 54",
+    "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: ab 15.03.21, <a href=\"tel:01501/921577\">01501/921577</a>"
+  },
+  {
+    "name": "Margareten-Apotheke und Park-Apotheke in den Räumlichkeiten der „Alten Apotheke“",
+    "address": "Wolbecker Straße 304",
+    "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/381237 oder 0251/314756\">0251/381237 oder 0251/314756</a>"
+  },
+  {
+    "name": "Marien Apotheke",
+    "address": "Piusallee 122",
+    "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: ab 15.03.21, <a href=\"tel:0251/2301239\">0251/2301239</a>"
+  },
+  {
+    "name": "MVZ Medicum Münster, Dr. Hendrik Oen, Dr. Mayke Austermann, Dr. Hans-Jürgen Rauba",
+    "address": "Handorfer Straße 20",
+    "info": "Anmeldung nicht erforderlich, Arzt"
+  },
+  {
+    "name": "MVZ Medicum Münster, Dr. Martina Hoppe, Dr. Nicola Lüpke",
+    "address": "Reinerskamp 1",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/23938020\">0251/23938020</a>"
+  },
+  {
+    "name": "MVZ Medicum Münster, Dr. Peter Hamann",
+    "address": "Handorfer Straße 10",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/324481\">0251/324481</a>"
+  },
+  {
+    "name": "MVZ Medicum Münster, Dr. Tanja Heuerman, Dr. Michael Verpoort, Dorothee Mühlberger",
+    "address": "Warendorfer Straße 185",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt"
+  },
+  {
+    "name": "MVZ Medicum Münster, Thomas Post, Dr. Anne Waltering, Dr. Martin Ostermann",
+    "address": "Hogenbergstraße 15",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/787330\">0251/787330</a>"
+  },
+  {
+    "name": "Praxis Dr. Peter Münster",
+    "address": "Kappenberger Damm 16",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: Keine Anmeldung erforderlich, <a href=\"tel:0251/73926\">0251/73926</a>"
+  },
+  {
+    "name": "Praxis Dr. Rainer Preuth",
+    "address": "Cheruskerring 92",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/294086\">0251/294086</a>"
+  },
+  {
+    "name": "Praxis für Innere Medizin",
+    "address": "Sprickmannplatz 2",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/212120\">0251/212120</a>"
+  },
+  {
+    "name": "Praxis für Kinder- und Jugendmedizin, Burkhard Frase, Dr. Catrin Schulze Höping",
+    "address": "Marktallee 53",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02501/44840\">02501/44840</a>"
+  },
+  {
+    "name": "Praxis Hohenzollernhaus, Dr. Jörn Günther",
+    "address": "Hohenzollernring 49",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:Info.praxis.hohenzollernhaus@gmail.com\">Info.praxis.hohenzollernhaus@gmail.com</a>, <a href=\"tel:0251/13326366\">0251/13326366</a>"
+  },
+  {
+    "name": "Praxis Kiepenkerl, Dr. Ralf Becker, Christiane Beiske, Dr. Andrea Karsch, Dr. Christina Niebuhr",
+    "address": "Bogenstraße 15",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt"
+  },
+  {
+    "name": "Praxis Mauritztor, Margitta Orgaß-Krüger",
+    "address": "Warendorfer Straße 3",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/42244\">0251/42244</a>"
+  },
+  {
+    "name": "Praxis Piusallee, Dr. Tim Hartwig",
+    "address": "Piusallee 30",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt"
+  },
+  {
+    "name": "Praxis Pommernstraße, Dr. Johannes Fühner, Julia Hegge",
+    "address": "Pommernstraße 4",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/61141\">0251/61141</a>"
+  },
+  {
+    "name": "Praxisgemeinschaft am Coerdemarkt, Dr. Martin Holtmeier und Ha Kim",
+    "address": "Hamannplatz 23",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/249999\">0251/249999</a>"
+  },
+  {
+    "name": "Praxisplus, Dr. Hildegard Quaing, Dr. Christoph Albers, Dr. Martina Robert, Dr. Brigitte Borchard",
+    "address": "Steinfurter Straße 56",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/295888\">0251/295888</a>"
+  },
+  {
+    "name": "St. Georg Apotheke",
+    "address": "Hammer Straße 13",
+    "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/531480\">0251/531480</a>"
+  },
+  {
+    "name": "Stefan Marschalleck",
+    "address": "Davertstraße 55",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:marschalleck@muenster.de\">marschalleck@muenster.de</a>"
+  },
+  {
+    "name": "Süd-Apotheke",
+    "address": "Hammer Straße 101",
+    "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/7774880\">0251/7774880</a>"
+  },
+  {
+    "name": "Testcenter Am Hawerkamp",
+    "address": "Am Hawerkamp 29",
+    "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://15minutentest.de/muenster/\">https://15minutentest.de/muenster/</a>"
+  },
+  {
+    "name": "Thomas Backhaus",
+    "address": "Windthorststraße 16",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/46881\">0251/46881</a>"
+  },
+  {
+    "name": "Vital Apotheke",
+    "address": "Dieckmannstraße 200",
+    "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Herr Nils Hellenbrand, <a href=\"mailto:info@vital-apotheke-muenster.de\">info@vital-apotheke-muenster.de</a>, <a href=\"tel:0251/8725006\">0251/8725006</a>"
+  },
+  {
+    "name": "Zentrum für Diabetes und Gefäßerkrankungen Münster, Dr. Dirk Lammers, Dr. Harald Pohlmeier, Dr. Ludger Rose",
+    "address": "Hohenzollernring 70",
+    "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:termine@diabetes-muenster.de\">termine@diabetes-muenster.de</a>, <a href=\"tel:0251/935 2300\">0251/935 2300</a>"
   }
 ]
