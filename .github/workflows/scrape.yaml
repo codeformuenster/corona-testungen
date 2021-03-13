@@ -43,12 +43,13 @@ jobs:
       - name: Update gh-pages branch
         # if: steps.update-required.outputs.changes != '0'
         run: |
+          mv corona-testungen-muenster-extracted.json /tmp/corona-testungen-muenster-geo.json
           # checkout gh-pages branch
           git remote set-branches --add origin gh-pages
           git fetch
           git checkout -t origin/gh-pages
 
-          mv corona-testungen-muenster-extracted.json corona-testungen-muenster-geo.json
+          mv /tmp/corona-testungen-muenster-geo.json corona-testungen-muenster-geo.json
           d=$(TZ='Europe/Berlin' date +"%d.%m.%+4Y %H:%M")
           sed -i "s|<time datetime=.*|<time datetime=\"$(date -Iseconds)\">$d</time>|" index.html
 
