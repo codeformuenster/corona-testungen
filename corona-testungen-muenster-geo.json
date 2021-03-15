@@ -64,6 +64,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Augenarztpraxis Dr. Baumgart und Dr. Heinrich",
+        "address": "Arnheimweg 53",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:Augenarztpraxis.dr.baumgart@live.de\">Augenarztpraxis.dr.baumgart@live.de</a>, <a href=\"tel:0251/868600\">0251/868600</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5747495806936,
+          51.9645796418674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Burg Apotheke",
         "address": "Burgstraße 31",
         "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251-524276\">0251-524276</a>"
@@ -124,6 +139,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Dr. Anne Lodde und Dr. Maximilian Lodde",
+        "address": "Davertstraße 48",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:www.lodde-odde.de\">www.lodde-odde.de</a>, <a href=\"tel:02501/3514\">02501/3514</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60576922168165,
+          51.883369270445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dr. Bernd Unbehaun",
         "address": "Münsterstraße 3",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patient*innen, ab 13.03.21"
@@ -139,9 +169,39 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Dr. Birte Klare",
+        "address": "Besselweg 247",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@hausarzt-gievenbeck.de\">info@hausarzt-gievenbeck.de</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57781883209376,
+          51.970623193698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dr. Carsten Borchard",
         "address": "Grevener Straße 440",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/213032\">0251/213032</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61356564419269,
+          51.9968105165942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Carsten Borchard",
+        "address": "Grevener Straße 440",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@praxisklinik-borchard.de\">info@praxisklinik-borchard.de</a>, <a href=\"tel:0251/213032\">0251/213032</a>"
       },
       "geometry": {
         "type": "Point",
@@ -291,7 +351,7 @@
       "properties": {
         "name": "Dr. Martina Terstiege",
         "address": "Westerheide 22",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: ab 15.03.21, <a href=\"tel:0251-1442874\">0251-1442874</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-1442874\">0251-1442874</a>"
       },
       "geometry": {
         "type": "Point",
@@ -358,6 +418,21 @@
         "coordinates": [
           7.66436920236167,
           51.906357493988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Philip Bangen",
+        "address": "Bodelschwinghstraße 15",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:philip@bangen.de\">philip@bangen.de</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64266059753638,
+          51.9060281811562
         ]
       }
     },
@@ -499,6 +574,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Gemeinschaftspraxis Dr. Bonenkamp und Dr. Scheppokat",
+        "address": "Arnheimweg 9",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@bonenkamp-scheppokat.de\">info@bonenkamp-scheppokat.de</a>, <a href=\"tel:0251/8712010\">0251/8712010</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57896978226999,
+          51.966914538395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Gemeinschaftspraxis Dr. Cathrin Meyer-Tassler, Dr. Barbara Stöckmann",
         "address": "Salzstraße 29",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/43570\">0251/43570</a>"
@@ -529,6 +619,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Gemeinschaftspraxis Dr. Felden, Dr. Grütters, Dr. Schirpenbach",
+        "address": "Görlitzer Straße 18",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:Felden.ms@t-online.de\">Felden.ms@t-online.de</a>, <a href=\"tel:0251/24490\">0251/24490</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64082345332346,
+          51.9913916177821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Gemeinschaftspraxis Dr. Gabriele Fuchs, Harald Kuiper",
         "address": "Marktallee 19",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/6055\">0251/6055</a>"
@@ -538,6 +643,21 @@
         "coordinates": [
           7.64043836687847,
           51.9035567842641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinschaftspraxis Dr. Heimann, Dr. Grönefeld",
+        "address": "Gartenstiege 10",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@aerzte-ms.de\">info@aerzte-ms.de</a>, <a href=\"tel:02533/3001\">02533/3001</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.56060629758799,
+          51.997119279963
         ]
       }
     },
@@ -628,6 +748,21 @@
         "coordinates": [
           7.56044886528943,
           51.9983941694651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinschaftspraxis für Hämatologie und Onkologie",
+        "address": "Düesbergweg 128",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:Liersch@onkologie-muenster.de\">Liersch@onkologie-muenster.de</a>, <a href=\"tel:0251/9764530\">0251/9764530</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61558707194825,
+          51.9322023679419
         ]
       }
     },
@@ -786,7 +921,7 @@
       "properties": {
         "name": "Hausarztpraxis auf der Geist, Marcus Kleinhans, Dr. Armin Schuster, Dr. Cornelia Werbick",
         "address": "Metzer Straße 59",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: ab 15.03.21"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt"
       },
       "geometry": {
         "type": "Point",
@@ -966,7 +1101,7 @@
       "properties": {
         "name": "Kiepenkerl Apotheke",
         "address": "Bergstraße 10",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: ab 15.03.21, <a href=\"tel:0251/46964\">0251/46964</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/46964\">0251/46964</a>"
       },
       "geometry": {
         "type": "Point",
@@ -981,7 +1116,7 @@
       "properties": {
         "name": "Kiepenkerl Apotheke",
         "address": "Meesenstiege 54",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: ab 15.03.21, <a href=\"tel:01501/921577\">01501/921577</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:01501/921577\">01501/921577</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1011,7 +1146,7 @@
       "properties": {
         "name": "Marien Apotheke",
         "address": "Piusallee 122",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: ab 15.03.21, <a href=\"tel:0251/2301239\">0251/2301239</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/2301239\">0251/2301239</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1099,6 +1234,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Praxis Dr. Irina Hamm",
+        "address": "Alfred-Krupp-Weg 3",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:praxis@irinahamm.de\">praxis@irinahamm.de</a>, <a href=\"tel:0251/1625941\">0251/1625941</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63161821913765,
+          51.9460032090621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Praxis Dr. Peter Münster",
         "address": "Kappenberger Damm 16",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: Keine Anmeldung erforderlich, <a href=\"tel:0251/73926\">0251/73926</a>"
@@ -1144,6 +1294,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Praxis für Kinder- und Jugendmedizin Dr. Andrea Kosch",
+        "address": "Dorbaumstraße 10",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:Praxis-handorf@t-online.de\">Praxis-handorf@t-online.de</a>, <a href=\"tel:0251/53098888\">0251/53098888</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.70057013975054,
+          51.9898001363582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Praxis für Kinder- und Jugendmedizin, Burkhard Frase, Dr. Catrin Schulze Höping",
         "address": "Marktallee 53",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02501/44840\">02501/44840</a>"
@@ -1168,6 +1333,21 @@
         "coordinates": [
           7.647016486186,
           51.9584277938918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praxis Karin Schreiber",
+        "address": "Grevener Straße 311",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@hausarzt-kinderhaus.de\">info@hausarzt-kinderhaus.de</a>, <a href=\"tel:0251/754934\">0251/754934</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61216834629193,
+          51.9944202764597
         ]
       }
     },
