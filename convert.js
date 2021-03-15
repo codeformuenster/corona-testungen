@@ -30,11 +30,9 @@ const execute = async () => {
   const json = await loadData();
 
   const fc = { type: "FeatureCollection", features: [] };
-  const data = [];
 
   // sanitize properties
   for (const feature of json.features) {
-    //const { name, tel1, email, str_name, hsnr, anmeld, besonders, homepage } = feature.properties;
     let { name, str_name, hsnr, ...props } = feature.properties;
 
     const address = `${sanitizeHtml(str_name)} ${sanitizeHtml(hsnr)}`.trim();
@@ -82,8 +80,6 @@ const execute = async () => {
       properties,
       geometry: feature.geometry,
     });
-
-    data.push(properties);
   }
 
   // sort by name
@@ -92,13 +88,10 @@ const execute = async () => {
       nameA.localeCompare(nameB)
   );
 
-  data.sort(({name: nameA}, {name: nameB}) => nameA.localeCompare(nameB));
-
   writeFileSync(
     "./corona-testungen-muenster-extracted.json",
     JSON.stringify(fc, undefined, 2)
   );
-  writeFileSync("./data.json", JSON.stringify(data, undefined, 2));
 };
 
 execute();
