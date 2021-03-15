@@ -33,15 +33,7 @@ jobs:
         run: |
           node convert.js
 
-      - name: Check if the data changed
-        id: update-required
-        continue-on-error: true
-        run: |
-          echo "##[set-output name=changes;]$(git diff --name-only -- . | wc -l)"
-          git diff --exit-code data.json corona-testungen-muenster-extracted.json
-
-      - name: Update gh-pages branch
-        if: steps.update-required.outputs.changes != '0'
+      - name: Prepare gh-pages branch
         run: |
           mv corona-testungen-muenster-extracted.json /tmp/corona-testungen-muenster-geo.json
           # checkout gh-pages branch
@@ -49,16 +41,27 @@ jobs:
           git fetch
           git checkout -t origin/gh-pages
 
+          # tell git who you are
+          git config user.name "GitHub-CI"
+          git config user.email "actions-user@github.com"
+
+
+      - name: Check if the data changed
+        id: update-required
+        continue-on-error: true
+        run: |
           mv /tmp/corona-testungen-muenster-geo.json corona-testungen-muenster-geo.json
+          echo "##[set-output name=changes;]$(git diff --name-only -- . | wc -l)"
+          git diff --exit-code corona-testungen-muenster-geo.json
+
+      - name: Update gh-pages branch
+        if: steps.update-required.outputs.changes != '0'
+        run: |
           d=$(TZ='Europe/Berlin' date +"%d.%m.%Y %H:%M")
           sed -i "s|<time datetime=.*|<time datetime=\"$(date -Iseconds)\">$d</time>|" index.html
 
           # add everything
           git add -A
-
-          # tell git who you are
-          git config user.name "GitHub-CI"
-          git config user.email "actions-user@github.com"
 
           # commit
           git commit -m "map update for ${{ steps.version_info.outputs.version }} by GitHub Actions"
