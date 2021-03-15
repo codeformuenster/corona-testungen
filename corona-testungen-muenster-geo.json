@@ -49,6 +49,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Annen-Apotheke",
+        "address": "Dingbängerweg 69",
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"mailto:info@annen-apotheke-muenster.de\">info@annen-apotheke-muenster.de</a>, <a href=\"tel:0251/717380\">0251/717380</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57999700529686,
+          51.9311849327841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ärztehaus Mondstraße, Dr. Matthias Döring, Dr. Karen Steinhaus",
         "address": "Mondstraße 179",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:mail@aerztehaus-mondstrasse.de\">mail@aerztehaus-mondstrasse.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.aerztehaus-mondstrasse.de/\">https://www.aerztehaus-mondstrasse.de/</a>"
@@ -133,6 +148,21 @@
         "coordinates": [
           7.656615771393,
           51.9674034419984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Anne Croonenbroeck",
+        "address": "Kirmstraße 23",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:praxis-croonen@t-online.de\">praxis-croonen@t-online.de</a>, <a href=\"tel:02533/9350 340\">02533/9350 340</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.55874476656519,
+          51.9979327369053
         ]
       }
     },
@@ -379,21 +409,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dr. med. Christian Berg",
-        "address": "Auf dem Dorn 21",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.53158463016071,
-          51.9545179669529
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Dr. med. Olaf Heinemann-Vechtel",
         "address": "Windthorststraße 31",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@praxis-heinemann-vechtel.de\">info@praxis-heinemann-vechtel.de</a>, <a href=\"tel:0251/56354\">0251/56354</a>"
@@ -514,6 +529,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Engel-Apotheke",
+        "address": "Warendorfer Straße 3",
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"mailto:clever@engel-apotheke.de\">clever@engel-apotheke.de</a>, <a href=\"tel:0251/987620\">0251/987620</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63676189433772,
+          51.9620680036596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "EP Dr. Veronika Engelbertz von Eiff",
         "address": "Idenbrockplatz 24",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-213340\">0251-213340</a>"
@@ -553,6 +583,21 @@
         "coordinates": [
           7.62287194794641,
           51.9683803342947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinschaftspraxis Berg/Spittler, Dr. Berg Christian",
+        "address": "Auf dem Dorn 21",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0157/38173113\">0157/38173113</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.53158463016071,
+          51.9545179669529
         ]
       }
     },
@@ -606,7 +651,7 @@
       "properties": {
         "name": "Gemeinschaftspraxis Dr. Derya Önaldi-Mohr",
         "address": "Idenbrockplatz 28",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0157/58201653\">0157/58201653</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@praxis-am-buergerzentrum.de\">info@praxis-am-buergerzentrum.de</a>, <a href=\"tel:0157/58201653\">0157/58201653</a>"
       },
       "geometry": {
         "type": "Point",
@@ -628,21 +673,6 @@
         "coordinates": [
           7.64082345332346,
           51.9913916177821
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gemeinschaftspraxis Dr. Gabriele Fuchs, Harald Kuiper",
-        "address": "Marktallee 19",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/6055\">0251/6055</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64043836687847,
-          51.9035567842641
         ]
       }
     },
@@ -673,6 +703,21 @@
         "coordinates": [
           7.72601867814999,
           51.9162035000156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinschaftspraxis Dr. Matthias Krösmann/ Dr. Karsten Schilder/ Monika Bade-Ihme",
+        "address": "Breslauer Straße 156",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/24147\">0251/24147</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64742318194975,
+          51.9942280142874
         ]
       }
     },
@@ -778,6 +823,21 @@
         "coordinates": [
           7.57060025913707,
           51.9586577672758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinschaftspraxis Harald Kuiper, Dr. Miriam Kempin",
+        "address": "Marktallee 19",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/6055\">0251/6055</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64043836687847,
+          51.9035567842641
         ]
       }
     },
@@ -973,6 +1033,21 @@
         "coordinates": [
           7.62397632975702,
           51.9470560725562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hautarztpraxis am Buddenturm, Dr.Vinzenz Oji",
+        "address": "Rudolf-von-Langen-Straße 55",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/925263\">0251/925263</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62338352065765,
+          51.9678378270964
         ]
       }
     },
@@ -1521,13 +1596,28 @@
       "properties": {
         "name": "Vital Apotheke",
         "address": "Dieckmannstraße 200",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Herr Nils Hellenbrand, <a href=\"mailto:info@vital-apotheke-muenster.de\">info@vital-apotheke-muenster.de</a>, <a href=\"tel:0251/8725006\">0251/8725006</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Herr Nils Hellenbrand, <a href=\"mailto:gievenbeck-testet.de\">gievenbeck-testet.de</a>, <a href=\"tel:0251/8725006\">0251/8725006</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.57045563104883,
           51.9586290361504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zahnarztpraxis Dr. Bernd Lücke",
+        "address": "Von-Esmarch-Straße 168",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nicht vom 1.-11.4., nur nach telefonischer Voranmeldung, <a href=\"mailto:dr.luecke@hotmail.de\">dr.luecke@hotmail.de</a>, <a href=\"tel:0251/8715555\">0251/8715555</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.58085378829921,
+          51.9671800368791
         ]
       }
     },
