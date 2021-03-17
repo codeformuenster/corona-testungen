@@ -154,21 +154,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dr. Anne Lodde und Dr. Maximilian Lodde",
-        "address": "Davertstraße 48",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:www.lodde-odde.de\">www.lodde-odde.de</a>, <a href=\"tel:02501/3514\">02501/3514</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.60576922168165,
-          51.883369270445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Dr. Bernd Unbehaun",
         "address": "Münsterstraße 3",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patient*innen, ab 13.03.21"
@@ -581,8 +566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.53158463016071,
-          51.9545179669529
+          7.53164281816434,
+          51.9545186927283
         ]
       }
     },
@@ -949,9 +934,39 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Hausarzt am Germaniacampus, Harald Hennig",
+        "address": "Grevener Straße 105",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: ab 29.03.21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61179761730649,
+          51.9781500761178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hausarzt in Münster, Dres Dalmis, Grossekettler, Stöckmann",
+        "address": "Nordstraße 22",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/93254970\">0251/93254970</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62244480580015,
+          51.9699668561182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Hausarzt in Münster, Dres. Dalmis, Grossekettler, Stöckmann",
         "address": "Lazarettstraße 3",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/22733\">0251/22733</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1069,21 +1084,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hautarztpraxis am Buddenturm, Dr.Vinzenz Oji",
-        "address": "Rudolf-von-Langen-Straße 55",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/925263\">0251/925263</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62338352065765,
-          51.9678378270964
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "HNO am Ludgeriplatz",
         "address": "Hammer Straße 7",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/531213\">0251/531213</a>"
@@ -1151,8 +1151,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.64752660555552,
-          51.9642062741769
+          7.64738217937423,
+          51.9641686486094
         ]
       }
     },
@@ -1258,6 +1258,21 @@
         "coordinates": [
           7.62522235525132,
           51.9029663852966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LODDE &amp; LODDE",
+        "address": "Davertstraße 48",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:praxis@lodde-lodde.de\">praxis@lodde-lodde.de</a>, <a href=\"tel:02501/3514\">02501/3514</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60576922168165,
+          51.883369270445
         ]
       }
     },
@@ -1384,6 +1399,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Praxis Domingos Schrader",
+        "address": "Münsterstraße 9",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.72808978993323,
+          51.9175206932399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Praxis Dr. Irina Hamm",
         "address": "Alfred-Krupp-Weg 3",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:praxis@irinahamm.de\">praxis@irinahamm.de</a>, <a href=\"tel:0251/1625941\">0251/1625941</a>"
@@ -1423,6 +1453,21 @@
         "coordinates": [
           7.63237107834869,
           51.9729059377573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praxis für Frauenheilkunde und Geburtshilfe, Dr. Sabine Berg-Selter",
+        "address": "Michaelweg 64",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/868890\">0251/868890</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.58183497595982,
+          51.9669940424627
         ]
       }
     },
@@ -1558,6 +1603,36 @@
         "coordinates": [
           7.67665561313391,
           51.9196241265548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praxis Schürmann-Hilker, Dr. Schürmann, Dr. Hilker, Dr. Liedtke-Dyong",
+        "address": "Warendorfer Straße 97",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64759908930361,
+          51.9642160983882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praxis Spittler, Hubert Spittler",
+        "address": "Auf dem Dorn 21",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02534/2222\">02534/2222</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.53152673583982,
+          51.9545082530762
         ]
       }
     },
