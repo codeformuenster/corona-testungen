@@ -111,7 +111,7 @@
       "properties": {
         "name": "Dermatologie MS, Dr. Anja Brinkmann",
         "address": "Hohenzollernring 10",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:termine@dermatologie.ms\">termine@dermatologie.ms</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:termine@dermatologie.ms\">termine@dermatologie.ms</a>, <a href=\"tel:0251/87158080\">0251/87158080</a>"
       },
       "geometry": {
         "type": "Point",
@@ -289,6 +289,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Dr. Eva Maria Grewe, Dr. Stefan Hermes",
+        "address": "Dechaneischanze 3",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@muensterhausarzt.de\">info@muensterhausarzt.de</a>, <a href=\"tel:0251/35535\">0251/35535</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65344504668349,
+          51.964399992886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dr. Felicitas Runte",
         "address": "Wolbecker Straße 21",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-60476\">0251-60476</a>"
@@ -439,6 +454,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Dr. Tobias Feeken, Hausarzt Praxis am Osttor, Dr. Tobias Feeken",
+        "address": "Osttor 74",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02501/70294\">02501/70294</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66650981637419,
+          51.9057433602089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dr. Ulrike Schmitz-Nahrath",
         "address": "Kötterstraße 1",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/9277055\">0251/9277055</a>"
@@ -448,6 +478,21 @@
         "coordinates": [
           7.70171798866072,
           51.9853619870231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Wolfgang Weßling",
+        "address": "Möllmannsweg 25",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:praxisdrwessling@web.de\">praxisdrwessling@web.de</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.58705403006001,
+          51.9639726474771
         ]
       }
     },
