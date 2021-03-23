@@ -34,24 +34,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Anne Lodde",
-        "address": "Davertstraße 48",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:praxis@lodde-lodde.de\">praxis@lodde-lodde.de</a>, <a href=\"tel:02501/3514\">02501/3514</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.60576922168165,
-          51.883369270445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Ärztehaus Mondstraße, Dr. Matthias Döring, Dr. Karen Steinhaus",
         "address": "Mondstraße 179",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:mail@aerztehaus-mondstrasse.de\">mail@aerztehaus-mondstrasse.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.aerztehaus-mondstrasse.de/\">https://www.aerztehaus-mondstrasse.de/</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:mail@aerztehaus-mondstrasse.de\">mail@aerztehaus-mondstrasse.de</a>"
       },
       "geometry": {
         "type": "Point",
@@ -109,9 +94,39 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "CoviLab GmbH",
+        "address": "Im Derdel 8",
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:02534/9773614\">02534/9773614</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.55233294078663,
+          51.9514839662367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CoviLab GmbH",
+        "address": "Im Derdel 8",
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"http://covilab.ifg-ms.de/\">http://covilab.ifg-ms.de/</a>, <a href=\"tel:0 25 34/9 77 36 14\">0 25 34/9 77 36 14</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.55233294078663,
+          51.9514839662367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dermatologie MS, Dr. Anja Brinkmann",
         "address": "Hohenzollernring 10",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:termine@dermatologie.ms\">termine@dermatologie.ms</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:termine@dermatologie.ms\">termine@dermatologie.ms</a>, <a href=\"tel:0251/87158080\">0251/87158080</a>"
       },
       "geometry": {
         "type": "Point",
@@ -139,15 +154,30 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dr. Anne Lodde und Dr. Maximilian Lodde",
-        "address": "Davertstraße 48",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:www.lodde-odde.de\">www.lodde-odde.de</a>, <a href=\"tel:02501/3514\">02501/3514</a>"
+        "name": "Domingos Schrader",
+        "address": "Münsterstraße 9",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.60576922168165,
-          51.883369270445
+          7.72808978993323,
+          51.9175206932399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Anne Croonenbroeck",
+        "address": "Kirmstraße 23",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:praxis-croonen@t-online.de\">praxis-croonen@t-online.de</a>, <a href=\"tel:02533/9350 340\">02533/9350 340</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.55874476656519,
+          51.9979327369053
         ]
       }
     },
@@ -156,7 +186,7 @@
       "properties": {
         "name": "Dr. Bernd Unbehaun",
         "address": "Münsterstraße 3",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patient*innen, ab 13.03.21"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten"
       },
       "geometry": {
         "type": "Point",
@@ -171,28 +201,13 @@
       "properties": {
         "name": "Dr. Birte Klare",
         "address": "Besselweg 247",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@hausarzt-gievenbeck.de\">info@hausarzt-gievenbeck.de</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"mailto:info@hausarzt-gievenbeck.de\">info@hausarzt-gievenbeck.de</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.57781883209376,
           51.970623193698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dr. Carsten Borchard",
-        "address": "Grevener Straße 440",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/213032\">0251/213032</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.61356564419269,
-          51.9968105165942
         ]
       }
     },
@@ -244,6 +259,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Dr. Christian Berg",
+        "address": "Auf dem Dorn 21",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0157/38173113\">0157/38173113</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.53164281816434,
+          51.9545186927283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dr. Christine Hellwig",
         "address": "Hoher Heckenweg 92",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-233661\">0251-233661</a>"
@@ -274,21 +304,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dr. Domingos Schrader",
-        "address": "Münsterstraße 9",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02506-1264\">02506-1264</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.72808978993323,
-          51.9175206932399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Dr. Dörte Rasch",
         "address": "Scharnhorststraße 46",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/533262\">0251/533262</a>"
@@ -298,6 +313,21 @@
         "coordinates": [
           7.61298155680745,
           51.9530144007703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Eva Maria Grewe, Dr. Stefan Hermes",
+        "address": "Dechaneischanze 3",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@muensterhausarzt.de\">info@muensterhausarzt.de</a>, <a href=\"tel:0251/35535\">0251/35535</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65344504668349,
+          51.964399992886
         ]
       }
     },
@@ -336,13 +366,28 @@
       "properties": {
         "name": "Dr. Irina Hamm",
         "address": "Alfred-Krupp-Weg 3",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-1625941\">0251-1625941</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:praxis@irinahamm.de\">praxis@irinahamm.de</a>, <a href=\"tel:0251/1625941\">0251/1625941</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.63161821913765,
           51.9460032090621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Luise Schilgen, Fachärztin für Kinder- und Jugendmedizin",
+        "address": "Geiststraße 38",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:0251/521046\">0251/521046</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62114617516575,
+          51.9501430635924
         ]
       }
     },
@@ -366,28 +411,13 @@
       "properties": {
         "name": "Dr. med. Arndt Möllers",
         "address": "Salzstraße 54",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: Interessierte sollen sich vorher telefonisch oder online anmelden, <a href=\"tel:0251-44629\">0251-44629</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-44629\">0251-44629</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.62977182988607,
           51.9621846764142
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dr. med. Christian Berg",
-        "address": "Auf dem Dorn 21",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.53158463016071,
-          51.9545179669529
         ]
       }
     },
@@ -411,13 +441,28 @@
       "properties": {
         "name": "Dr. Michael Speidel",
         "address": "Ringstraße 151",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patient*innen ab 29.03.21, <a href=\"tel:02501/2043\">02501/2043</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, ab 29.03.21, <a href=\"tel:02501/2043\">02501/2043</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.66436920236167,
           51.906357493988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Peter Robotta",
+        "address": "Weseler Straße 77",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:corona-test@dr-robotta.de\">corona-test@dr-robotta.de</a>, <a href=\"tel:0251/776677\">0251/776677</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61831961020559,
+          51.9512069058694
         ]
       }
     },
@@ -441,7 +486,7 @@
       "properties": {
         "name": "Dr. Sabine Ludt",
         "address": "Kanalstraße 15",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@praxis-ludt.de\">info@praxis-ludt.de</a>"
       },
       "geometry": {
         "type": "Point",
@@ -484,6 +529,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Dr. Wolfgang Weßling",
+        "address": "Möllmannsweg 25",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:0251/8719633\">0251/8719633</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.58705403006001,
+          51.9639726474771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dr. Wolfgang Zeeden",
         "address": "Albersloher Weg 419",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/614883\">0251/614883</a>"
@@ -514,6 +574,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "DRK-Landesverband Westfalen-Lippe e.V.",
+        "address": "Sperlichstraße 25",
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, Hinweis: ab 24.03.21, <a href=\"mailto:schnelltests@drk-westfalen.de\">schnelltests@drk-westfalen.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.drk-coronatest-muenster.de\">https://www.drk-coronatest-muenster.de</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61176160344733,
+          51.9472813211712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engel-Apotheke",
+        "address": "Warendorfer Straße 3",
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"mailto:clever@engel-apotheke.de\">clever@engel-apotheke.de</a>, <a href=\"tel:0251/987620\">0251/987620</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6368211855612,
+          51.9620327236491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "EP Dr. Veronika Engelbertz von Eiff",
         "address": "Idenbrockplatz 24",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-213340\">0251-213340</a>"
@@ -538,6 +628,21 @@
         "coordinates": [
           7.63242053734105,
           51.9574139396508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GbR Hiltrup-testet (Clemens-Apotheke, Carré Apotheke Hiltrup &amp; allesgut Apotheke), TuS Hiltrup Geschäftsstelle",
+        "address": "Moränenstraße 14",
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.hiltrup-testet.de/\">http://www.hiltrup-testet.de/</a>, <a href=\"tel:02501/92978113\">02501/92978113</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64432058064009,
+          51.9054538636518
         ]
       }
     },
@@ -606,7 +711,7 @@
       "properties": {
         "name": "Gemeinschaftspraxis Dr. Derya Önaldi-Mohr",
         "address": "Idenbrockplatz 28",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0157/58201653\">0157/58201653</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@praxis-am-buergerzentrum.de\">info@praxis-am-buergerzentrum.de</a>, <a href=\"tel:0157/58201653\">0157/58201653</a>"
       },
       "geometry": {
         "type": "Point",
@@ -634,21 +739,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gemeinschaftspraxis Dr. Gabriele Fuchs, Harald Kuiper",
-        "address": "Marktallee 19",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/6055\">0251/6055</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64043836687847,
-          51.9035567842641
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Gemeinschaftspraxis Dr. Heimann, Dr. Grönefeld",
         "address": "Gartenstiege 10",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@aerzte-ms.de\">info@aerzte-ms.de</a>, <a href=\"tel:02533/3001\">02533/3001</a>"
@@ -666,13 +756,28 @@
       "properties": {
         "name": "Gemeinschaftspraxis Dr. Kleine Wortmann, Dr. Liebig-Kleine Wortmann",
         "address": "Hiltruper Straße 6",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:praxiskleinewortmann@t-online.de\">praxiskleinewortmann@t-online.de</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:praxiskleinewortmann@t-online.de\">praxiskleinewortmann@t-online.de</a>, <a href=\"tel:02506/440\">02506/440</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.72601867814999,
           51.9162035000156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinschaftspraxis Dr. Matthias Krösmann, Dr. Karsten Schilder, Monika Bade-Ihme",
+        "address": "Breslauer Straße 156",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/24147\">0251/24147</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64742318194975,
+          51.9942280142874
         ]
       }
     },
@@ -754,21 +859,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gemeinschaftspraxis für Hämatologie und Onkologie",
-        "address": "Düesbergweg 128",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:Liersch@onkologie-muenster.de\">Liersch@onkologie-muenster.de</a>, <a href=\"tel:0251/9764530\">0251/9764530</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.61558707194825,
-          51.9322023679419
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Gemeinschaftspraxis für Kinder- &amp; Jugendmedizin Münster, Dr. Karolin Groth, Dr. Rasmus Jürgens, Dr. Judith Wendt",
         "address": "Dieckmannstraße 200",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/86 10 46 oder  0251/87 14 877\">0251/86 10 46 oder  0251/87 14 877</a>"
@@ -784,6 +874,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Gemeinschaftspraxis für Kinder- und Jugendmedizin Dr. Rudolf Ernst und Gabriele Adolf-Lücke",
+        "address": "Westfalenstraße 132",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02501/984210\">02501/984210</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63395028931911,
+          51.9065927789346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinschaftspraxis Harald Kuiper, Dr. Miriam Kempin",
+        "address": "Marktallee 19",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/6055\">0251/6055</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64043836687847,
+          51.9035567842641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Gemeinschaftspraxis im Kreuzviertel, Dr. Jürgen Diehle und Dr. Horst Fatum",
         "address": "Altumstraße 15",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/293329\">0251/293329</a>"
@@ -793,6 +913,21 @@
         "coordinates": [
           7.61402123803594,
           51.9702636351266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinschaftspraxis im Vitalcenter",
+        "address": "Gasselstiege 21",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/9815710\">0251/9815710</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61044333976797,
+          51.9720377760158
         ]
       }
     },
@@ -816,7 +951,7 @@
       "properties": {
         "name": "Gemeinschaftspraxis, Dr. Rolf Surmann",
         "address": "Windthorststraße 8",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: ab 22.03.21, <a href=\"tel:0251/58800\">0251/58800</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/58800\">0251/58800</a>"
       },
       "geometry": {
         "type": "Point",
@@ -844,9 +979,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Germania die Apotheke",
+        "address": "An der Germania Brauerei 3",
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/1332280\">0251/1332280</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61127593166584,
+          51.9771278708241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Hansa-Apotheke",
         "address": "Wolbecker Straße 65",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/64498\">0251/64498</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Anmeldung über Homepage, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.meine-hansa-apotheke.de/home/\">https://www.meine-hansa-apotheke.de/home/</a>, <a href=\"tel:0251/64498\">0251/64498</a>"
       },
       "geometry": {
         "type": "Point",
@@ -859,9 +1009,39 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Hausarzt am Germaniacampus, Harald Hennig",
+        "address": "Grevener Straße 105",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: ab 29.03.21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61179761730649,
+          51.9781500761178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hausarzt in Münster, Dres Dalmis, Grossekettler, Stöckmann",
+        "address": "Nordstraße 22",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/93254970\">0251/93254970</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62244480580015,
+          51.9699668561182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Hausarzt in Münster, Dres. Dalmis, Grossekettler, Stöckmann",
         "address": "Lazarettstraße 3",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/22733\">0251/22733</a>"
       },
       "geometry": {
         "type": "Point",
@@ -951,7 +1131,7 @@
       "properties": {
         "name": "Hausarztzentrum Münster",
         "address": "Schaumburgstraße 1",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-43018 oder -64333\">0251-43018 oder -64333</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/43018 oder 0251/64333\">0251/43018 oder 0251/64333</a>"
       },
       "geometry": {
         "type": "Point",
@@ -996,7 +1176,7 @@
       "properties": {
         "name": "HNO im Hansaviertel",
         "address": "Wolbecker Straße 75",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info-hno-im-hansaviertel@web.de\">info-hno-im-hansaviertel@web.de</a>, <a href=\"tel:0251/664866\">0251/664866</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/664866\">0251/664866</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1039,15 +1219,75 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "HNO Zentrum Münsterland, <br /><br />Dr. med. B. Hustert , Prof. Dr. med. R. Heermann<br /><br />",
+        "name": "HNO Zentrum Münsterland, <br /><br />Dr. B. Hustert , Prof. Dr. R. Heermann<br /><br />",
         "address": "Warendorfer Straße 97",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/39004518\">0251/39004518</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.64752660555552,
-          51.9642062741769
+          7.64738217937423,
+          51.9641686486094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hohenzollern Apotheke am Pantaleonplatz",
+        "address": "Roxeler Straße 559",
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Testungen in der Alten Hohenzollern Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hohenzollern-apotheke.de/corona-test\">https://www.hohenzollern-apotheke.de/corona-test</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5378957035932,
+          51.9546684507144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hohenzollern Apotheke am Ring",
+        "address": "Hohenzollernring 59",
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: mobile Testungen, ab 40 Personen, <a href=\"mailto:l.claessens@hohenzollern-apotheke.de\">l.claessens@hohenzollern-apotheke.de</a>, <a href=\"tel:0251/2007800\">0251/2007800</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64712490298182,
+          51.959660892008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hohenzollern Apotheke im Marktkauf",
+        "address": "Loddenheide 5",
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.hza.de/corona-test\">http://www.hza.de/corona-test</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64752345451279,
+          51.938678992032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hubert Spittler",
+        "address": "Auf dem Dorn 21",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0157/32954415\">0157/32954415</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.53152673583982,
+          51.9545082530762
         ]
       }
     },
@@ -1101,7 +1341,7 @@
       "properties": {
         "name": "Kiepenkerl Apotheke",
         "address": "Bergstraße 10",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/46964\">0251/46964</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/46963\">0251/46963</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1129,15 +1369,60 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Margareten-Apotheke und Park-Apotheke in den Räumlichkeiten der „Alten Apotheke“",
-        "address": "Wolbecker Straße 304",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/381237 oder 0251/314756\">0251/381237 oder 0251/314756</a>"
+        "name": "Linden Apotheke",
+        "address": "Albersloher Weg 465",
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: ab 29.03., <a href=\"mailto:info@lindenapotheke-muenster.de\">info@lindenapotheke-muenster.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.lindenapotheke-muenster.de/\">https://www.lindenapotheke-muenster.de/</a>, <a href=\"tel:0251/615082\">0251/615082</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.67092499931711,
-          51.9506796052175
+          7.66994680716968,
+          51.9266878759049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LODDE &amp; LODDE",
+        "address": "Davertstraße 48",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:praxis@lodde-lodde.de\">praxis@lodde-lodde.de</a>, <a href=\"tel:02501/3514\">02501/3514</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60576922168165,
+          51.883369270445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ludgeri Apotheke",
+        "address": "Windthorststraße 65",
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/ludgeri-apotheke/checkins#/\">https://app.no-q.info/ludgeri-apotheke/checkins#/</a>, <a href=\"tel:0251/44456\">0251/44456</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62837991344215,
+          51.9591472790666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Margareten-Apotheke, Wolbecker Straße 226,  in den Räumen des Gemeindehauses der Evangelischen Auferstehungsgemeinde",
+        "address": "Laerer Landweg 159",
+        "info": "Anmeldung online, Apotheke, Hinweis: nur mit online Registrierung, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/margareten-apotheke-muenster/checkins#/\">https://app.no-q.info/margareten-apotheke-muenster/checkins#/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.67022309782743,
+          51.9537468102516
         ]
       }
     },
@@ -1161,7 +1446,7 @@
       "properties": {
         "name": "MVZ Medicum Münster, Dr. Hendrik Oen, Dr. Mayke Austermann, Dr. Hans-Jürgen Rauba",
         "address": "Handorfer Straße 20",
-        "info": "Anmeldung nicht erforderlich, Arzt"
+        "info": "Anmeldung nicht erforderlich, Arzt, Hinweis: ohne Anmeldung"
       },
       "geometry": {
         "type": "Point",
@@ -1234,15 +1519,30 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Praxis Dr. Irina Hamm",
-        "address": "Alfred-Krupp-Weg 3",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:praxis@irinahamm.de\">praxis@irinahamm.de</a>, <a href=\"tel:0251/1625941\">0251/1625941</a>"
+        "name": "Park-Apotheke, Mondstraße 81,  in den Räumen des Gemeindehauses der Evangelischen Auferstehungsgemeinde",
+        "address": "Laerer Landweg 159",
+        "info": "Anmeldung online, Apotheke, Hinweis: nur mit online Registrierung, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/park-apotheke-muenster/checkins#\">https://app.no-q.info/park-apotheke-muenster/checkins#</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.63161821913765,
-          51.9460032090621
+          7.6703976691766,
+          51.9537487819363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praxis am Osttor, Dr. Tobias Feeken",
+        "address": "Osttor 74",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:02501/70294\">02501/70294</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66650981637419,
+          51.9057433602089
         ]
       }
     },
@@ -1273,6 +1573,21 @@
         "coordinates": [
           7.63237107834869,
           51.9729059377573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praxis für Frauenheilkunde und Geburtshilfe, Dr. Sabine Berg-Selter",
+        "address": "Michaelweg 64",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/868890\">0251/868890</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.58183497595982,
+          51.9669940424627
         ]
       }
     },
@@ -1386,7 +1701,7 @@
       "properties": {
         "name": "Praxis Piusallee, Dr. Tim Hartwig",
         "address": "Piusallee 30",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02 51/4 50 13\">02 51/4 50 13</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1408,6 +1723,36 @@
         "coordinates": [
           7.67665561313391,
           51.9196241265548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praxis Schürmann-Hilker, Dr. Schürmann, Dr. Hilker, Dr. Liedtke-Dyong",
+        "address": "Warendorfer Straße 97",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64759908930361,
+          51.9642160983882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praxis Sofroniou",
+        "address": "Hansaring 11",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten (ab dem 27.3.), <a href=\"mailto:info.sofroniou@t-online.de\">info.sofroniou@t-online.de</a>, <a href=\"tel:0251/620 98 98\">0251/620 98 98</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63834187758822,
+          51.953157596395
         ]
       }
     },
@@ -1444,6 +1789,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Schnelltestzentrum Hansaring",
+        "address": "Hansaring 33",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://mshansaring.chayns.net/\">https://mshansaring.chayns.net/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64082483527152,
+          51.9533391462439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "St. Georg Apotheke",
         "address": "Hammer Straße 13",
         "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/531480\">0251/531480</a>"
@@ -1461,7 +1821,7 @@
       "properties": {
         "name": "Stefan Marschalleck",
         "address": "Davertstraße 55",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:marschalleck@muenster.de\">marschalleck@muenster.de</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:marschalleck@muenster.de\">marschalleck@muenster.de</a>, <a href=\"tel:0 25 01/5 81 60 und 0 25 01/9 63 97 35\">0 25 01/5 81 60 und 0 25 01/9 63 97 35</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1504,6 +1864,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Testzentrum Ludgeristraße",
+        "address": "Ludgeristraße 28",
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.corona-muenster.com/\">https://www.corona-muenster.com/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62764971312173,
+          51.9592286862334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Thomas Backhaus",
         "address": "Windthorststraße 16",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/46881\">0251/46881</a>"
@@ -1521,13 +1896,28 @@
       "properties": {
         "name": "Vital Apotheke",
         "address": "Dieckmannstraße 200",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Herr Nils Hellenbrand, <a href=\"mailto:info@vital-apotheke-muenster.de\">info@vital-apotheke-muenster.de</a>, <a href=\"tel:0251/8725006\">0251/8725006</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Herr Nils Hellenbrand, <a href=\"mailto:gievenbeck-testet.de\">gievenbeck-testet.de</a>, <a href=\"tel:0251/8725006\">0251/8725006</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.57045563104883,
           51.9586290361504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zahnarztpraxis Dr. Bernd Lücke",
+        "address": "Von-Esmarch-Straße 168",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nicht vom 1.-11.4., <a href=\"mailto:dr.luecke@hotmail.de\">dr.luecke@hotmail.de</a>, <a href=\"tel:0251/8715555\">0251/8715555</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.58085378829921,
+          51.9671800368791
         ]
       }
     },
