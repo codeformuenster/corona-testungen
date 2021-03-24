@@ -381,7 +381,7 @@
       "properties": {
         "name": "Dr. Luise Schilgen, Fachärztin für Kinder- und Jugendmedizin",
         "address": "Geiststraße 38",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:0251/521046\">0251/521046</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten und deren Eltern, <a href=\"tel:0251/521046\">0251/521046</a>"
       },
       "geometry": {
         "type": "Point",
@@ -613,6 +613,21 @@
         "coordinates": [
           7.60238209401217,
           51.9952936229742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Felix-Apotheke im Hauptbahnhof Münster",
+        "address": "Berliner Platz 21",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/felix-apotheke-im-hauptbahnhof-muenster/checkins#/1568/2021-03-24\">https://app.no-q.info/felix-apotheke-im-hauptbahnhof-muenster/checkins#/1568/2021-03-24</a>, <a href=\"tel:0251/49091820\">0251/49091820</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63501591879779,
+          51.9572552346853
         ]
       }
     },
@@ -1369,6 +1384,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Kinder- und Jugendarztpraxis Dr. med. Andreas Volbracht",
+        "address": "Albersloher Weg 455",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/61168\">0251/61168</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66937731605474,
+          51.9272569047199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Linden Apotheke",
         "address": "Albersloher Weg 465",
         "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: ab 29.03., <a href=\"mailto:info@lindenapotheke-muenster.de\">info@lindenapotheke-muenster.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.lindenapotheke-muenster.de/\">https://www.lindenapotheke-muenster.de/</a>, <a href=\"tel:0251/615082\">0251/615082</a>"
@@ -1573,6 +1603,21 @@
         "coordinates": [
           7.63237107834869,
           51.9729059377573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praxis Dr. Schmidt",
+        "address": "Elsässer Straße 7",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/72288\">0251/72288</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62065206655046,
+          51.9396889588108
         ]
       }
     },
