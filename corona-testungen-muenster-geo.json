@@ -34,6 +34,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Annen Apotheke",
+        "address": "Dingbängerweg 69",
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: ab 29.03., <a target=\"_blank\" rel=\"noopener\" href=\"https://www.schnelltest-apotheke.de/\">https://www.schnelltest-apotheke.de/</a>, <a href=\"tel:0251/717380\">0251/717380</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57999700529686,
+          51.9311849327841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arbeiter-Samariter-Bund Münsterland",
+        "address": "Lambertikirchplatz 5",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Samstag 27.03. von 9-17 Uhr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62876733614927,
+          51.9626675216487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ärztehaus Mondstraße, Dr. Matthias Döring, Dr. Karen Steinhaus",
         "address": "Mondstraße 179",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:mail@aerztehaus-mondstrasse.de\">mail@aerztehaus-mondstrasse.de</a>"
@@ -433,6 +463,21 @@
         "coordinates": [
           7.62977182988607,
           51.9621846764142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. med. Bernd Zangerl",
+        "address": "Fliednerstraße 44",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/8571880\">0251/8571880</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.58922966406875,
+          51.9637559617259
         ]
       }
     },
@@ -1311,7 +1356,7 @@
       "properties": {
         "name": "Hohenzollern Apotheke am Ring",
         "address": "Hohenzollernring 59",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: mobile Testungen, ab 40 Personen, <a href=\"mailto:l.claessens@hohenzollern-apotheke.de\">l.claessens@hohenzollern-apotheke.de</a>, <a href=\"tel:0251/2007800\">0251/2007800</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: mobile Testungen, ab 40 Personen, <a href=\"mailto:l.claessens@hohenzollern-apotheke.de\">l.claessens@hohenzollern-apotheke.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hza.de/corona-test\">https://www.hza.de/corona-test</a>, <a href=\"tel:0251/2007800\">0251/2007800</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1393,6 +1438,21 @@
         "coordinates": [
           7.61111548766243,
           51.9728999116343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johanniter, auf dem Vorplatz des LWL-Museum",
+        "address": "Rothenburg 30",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Samstag 27.03. von 9-17 Uhr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62382836522869,
+          51.9609194679778
         ]
       }
     },
@@ -1618,6 +1678,36 @@
         "coordinates": [
           7.66650981637419,
           51.9057433602089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praxis Dr. Hellwig",
+        "address": "Hoher Heckenweg 92",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/233661\">0251/233661</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64337391357948,
+          51.9778437268129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praxis Dr. Josefa Neuhaus-Mertens",
+        "address": "Marktallee 42",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02501/16045\">02501/16045</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64414861872343,
+          51.9039232928594
         ]
       }
     },
@@ -1963,6 +2053,21 @@
         "coordinates": [
           7.62764971312173,
           51.9592286862334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Testzentrum Wacker Mecklenbeck",
+        "address": "Egelshove 1",
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, Hinweis: ab 27.03., <a target=\"_blank\" rel=\"noopener\" href=\"https://www.covisa.de\">https://www.covisa.de</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57335006977654,
+          51.9362208469668
         ]
       }
     },
