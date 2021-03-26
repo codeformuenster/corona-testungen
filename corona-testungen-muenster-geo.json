@@ -6,7 +6,7 @@
       "properties": {
         "name": "Adler Apotheke",
         "address": "Salzstraße 58",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/414710\">0251/414710</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/adler-apotheke-muenster/checkins#\">https://app.no-q.info/adler-apotheke-muenster/checkins#</a>, <a href=\"tel:0251/414710\">0251/414710</a>"
       },
       "geometry": {
         "type": "Point",
@@ -349,6 +349,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Dr. Frye",
+        "address": "Warendorfer Straße 27",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: Di, Mi, Do von 7.30-8.00 Uhr und 12.30-13.30 Uhr, <a href=\"tel:0251/13671900\">0251/13671900</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6406673101271,
+          51.961915342609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dr. Hubertus Egbring",
         "address": "Rothenburg 49",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/47517\">0251/47517</a>"
@@ -424,6 +439,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Dr. med. Heide Böggemeyer",
+        "address": "Am Pastorenbusch 2",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02533/93210\">02533/93210</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.55719933792346,
+          51.9948027029426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dr. med. Olaf Heinemann-Vechtel",
         "address": "Windthorststraße 31",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@praxis-heinemann-vechtel.de\">info@praxis-heinemann-vechtel.de</a>, <a href=\"tel:0251/56354\">0251/56354</a>"
@@ -448,6 +478,21 @@
         "coordinates": [
           7.66436920236167,
           51.906357493988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Navratil u. Dr. Pardon",
+        "address": "Idenbrockplatz 22",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten sowie deren Familienmitglieder, <a href=\"tel:0251/211009\">0251/211009</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60323725681589,
+          51.9954296508838
         ]
       }
     },
@@ -591,7 +636,7 @@
       "properties": {
         "name": "Engel-Apotheke",
         "address": "Warendorfer Straße 3",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"mailto:clever@engel-apotheke.de\">clever@engel-apotheke.de</a>, <a href=\"tel:0251/987620\">0251/987620</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/987620\">0251/987620</a>"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +666,7 @@
       "properties": {
         "name": "Felix-Apotheke im Hauptbahnhof Münster",
         "address": "Berliner Platz 21",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/felix-apotheke-im-hauptbahnhof-muenster/checkins#/1568/2021-03-24\">https://app.no-q.info/felix-apotheke-im-hauptbahnhof-muenster/checkins#/1568/2021-03-24</a>, <a href=\"tel:0251/49091820\">0251/49091820</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/felix-apotheke-im-hauptbahnhof-muenster/checkins#/\">https://app.no-q.info/felix-apotheke-im-hauptbahnhof-muenster/checkins#/</a>, <a href=\"tel:0251/49091820\">0251/49091820</a>"
       },
       "geometry": {
         "type": "Point",
@@ -651,7 +696,7 @@
       "properties": {
         "name": "GbR Hiltrup-testet (Clemens-Apotheke, Carré Apotheke Hiltrup &amp; allesgut Apotheke), TuS Hiltrup Geschäftsstelle",
         "address": "Moränenstraße 14",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.hiltrup-testet.de/\">http://www.hiltrup-testet.de/</a>, <a href=\"tel:02501/92978113\">02501/92978113</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.hiltrup-testet.de/\">http://www.hiltrup-testet.de/</a>, <a href=\"tel:02501/92978113\">02501/92978113</a>"
       },
       "geometry": {
         "type": "Point",
@@ -996,7 +1041,7 @@
       "properties": {
         "name": "Germania die Apotheke",
         "address": "An der Germania Brauerei 3",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/1332280\">0251/1332280</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Mo – Fr 8 -20 Uhr, Sa 9 – 16 Uhr, ohne Termin, <a href=\"tel:0251/1332280\">0251/1332280</a>"
       },
       "geometry": {
         "type": "Point",
