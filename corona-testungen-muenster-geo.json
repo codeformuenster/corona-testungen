@@ -1341,7 +1341,7 @@
       "properties": {
         "name": "Hohenzollern Apotheke am Pantaleonplatz",
         "address": "Roxeler Straße 559",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Testungen in der Alten Hohenzollern Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hohenzollern-apotheke.de/corona-test\">https://www.hohenzollern-apotheke.de/corona-test</a>"
+        "info": "Anmeldung online, Apotheke, Hinweis: Testungen in der Alten Hohenzollern Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hza.de/corona-test\">https://www.hza.de/corona-test</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1371,7 +1371,7 @@
       "properties": {
         "name": "Hohenzollern Apotheke im Marktkauf",
         "address": "Loddenheide 5",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.hza.de/corona-test\">http://www.hza.de/corona-test</a>"
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hza.de/corona-test\">https://www.hza.de/corona-test</a>"
       },
       "geometry": {
         "type": "Point",
