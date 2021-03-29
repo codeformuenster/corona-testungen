@@ -34,6 +34,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Allwetterzoo Münster,<br /><br />Sentruper Strasse 315,<br /><br />Parkwiese westlich des Zoos Richtung MS-Roxel,",
+        "address": "Sentruper Straße 315",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/allwetterzoo-muenster/checkins#/1789/2021-03-26\">https://app.no-q.info/allwetterzoo-muenster/checkins#/1789/2021-03-26</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.58345093625564,
+          51.9466743075501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Annen Apotheke",
         "address": "Dingbängerweg 69",
         "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: ab 29.03., <a target=\"_blank\" rel=\"noopener\" href=\"https://www.schnelltest-apotheke.de/\">https://www.schnelltest-apotheke.de/</a>, <a href=\"tel:0251/717380\">0251/717380</a>"
@@ -673,6 +688,21 @@
         "coordinates": [
           7.61176160344733,
           51.9472813211712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Easy Apotheke",
+        "address": "Windthorststraße 16",
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"mailto:windthorststrasse@easyapotheken.de\">windthorststrasse@easyapotheken.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://windthorststrasse.easyapotheken.de/\">https://windthorststrasse.easyapotheken.de/</a>, <a href=\"tel:025143362\">025143362</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63242190501392,
+          51.9573689973487
         ]
       }
     },
