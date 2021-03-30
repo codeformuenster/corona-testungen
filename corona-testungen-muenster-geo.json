@@ -396,7 +396,7 @@
       "properties": {
         "name": "Dr. Frye",
         "address": "Warendorfer Straße 27",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: Di, Mi, Do von 7.30-8.00 Uhr und 12.30-13.30 Uhr, <a href=\"tel:0251/13671900\">0251/13671900</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: Di, Mi, Do von 7.30-8.00 Uhr und 12.30-13.30 Uhr, sowie Samstags nach telefonischer Vereinbarung, <a href=\"tel:0251/13671900\">0251/13671900</a>"
       },
       "geometry": {
         "type": "Point",
@@ -486,7 +486,7 @@
       "properties": {
         "name": "Dr. med. Bernd Zangerl",
         "address": "Fliednerstraße 44",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/8571880\">0251/8571880</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:0251/8571880\">0251/8571880</a>"
       },
       "geometry": {
         "type": "Point",
@@ -981,7 +981,7 @@
       "properties": {
         "name": "Gemeinschaftspraxis Dres. Fuchs &amp; Hieronymus",
         "address": "Gartenstiege 1",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02533/2022\">02533/2022</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a target=\"_blank\" rel=\"noopener\" href=\"https://hausarzt-nienberge.probatix.de\">https://hausarzt-nienberge.probatix.de</a>, <a href=\"tel:02533/2022\">02533/2022</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1993,6 +1993,21 @@
         "coordinates": [
           7.61019473265907,
           51.9716032432988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schnellteststation Pfarrzentrum Heilig Kreuz",
+        "address": "Maximilianstraße 59",
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"http://coerde-apotheke.de/corona-schnelltest-station-maximilianstrasse-ueber-die-oster-feiertage-geoeffnet\">http://coerde-apotheke.de/corona-schnelltest-station-maximilianstrasse-ueber-die-oster-feiertage-geoeffnet</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6272337099033,
+          51.9699868199525
         ]
       }
     },
