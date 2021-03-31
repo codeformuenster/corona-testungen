@@ -79,9 +79,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Arbeiter-Samariter-Bund Münsterland, Parkplatz Schlossplatz Nord",
+        "name": "Arbeiter-Samariter-Bund Münsterland, Parkplatz Schlossplatz Nord<br /><br />(ab 02.04.2021)",
         "address": "Schlossplatz 24",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, Hinweis: ab 02.04.2021"
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter"
       },
       "geometry": {
         "type": "Point",
@@ -643,6 +643,21 @@
         "coordinates": [
           7.70171798866072,
           51.9853619870231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Wiebke Lürmann, Sentruper Höhe 23<br /><br />(ab dem 12.04.)",
+        "address": "Sentruper Höhe 23",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"mailto:info@hausarztpraxis-sentrup.de\">info@hausarztpraxis-sentrup.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://hausarztpraxis-sentruperhoehe.de/\">https://hausarztpraxis-sentruperhoehe.de/</a>, <a href=\"tel:0251 81518\">0251 81518</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59349413844536,
+          51.9567934810266
         ]
       }
     },
