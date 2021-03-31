@@ -1414,6 +1414,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Hohenzollern Apotheke, Im Sportzentrum Kinderhaus",
+        "address": "Bernd-Feldhaus-Platz 1",
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/mobiles-team-der-hohenzollern-apotheke/checkins#/\">https://app.no-q.info/mobiles-team-der-hohenzollern-apotheke/checkins#/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60716032000362,
+          52.0009070406195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Hubert Spittler",
         "address": "Auf dem Dorn 21",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0157/32954415\">0157/32954415</a>"
