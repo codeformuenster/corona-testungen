@@ -79,6 +79,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Arbeiter-Samariter-Bund Münsterland, Parkplatz Schlossplatz Nord",
+        "address": "Schlossplatz 24",
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, Hinweis: ab 02.04.2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61682109639453,
+          51.9658546906465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ärztehaus Mondstraße, Dr. Matthias Döring, Dr. Karen Steinhaus",
         "address": "Mondstraße 179",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:mail@aerztehaus-mondstrasse.de\">mail@aerztehaus-mondstrasse.de</a>"
@@ -1618,6 +1633,21 @@
         "coordinates": [
           7.64109956347886,
           51.9707231255245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mobile Teststelle der Leezen-Heroes, Testorte und -Uhrzeiten",
+        "address": "Urbanstraße 5",
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63379294617203,
+          51.9587066858311
         ]
       }
     },
