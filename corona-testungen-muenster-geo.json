@@ -51,7 +51,7 @@
       "properties": {
         "name": "Annen Apotheke",
         "address": "Dingbängerweg 69",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: ab 29.03., <a target=\"_blank\" rel=\"noopener\" href=\"https://www.schnelltest-apotheke.de/\">https://www.schnelltest-apotheke.de/</a>, <a href=\"tel:0251/717380\">0251/717380</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.schnelltest-apotheke.de/\">https://www.schnelltest-apotheke.de/</a>, <a href=\"tel:0251/717380\">0251/717380</a>"
       },
       "geometry": {
         "type": "Point",
@@ -79,7 +79,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Arbeiter-Samariter-Bund Münsterland, Parkplatz Schlossplatz Nord<br /><br />(ab 02.04.2021)",
+        "name": "Arbeiter-Samariter-Bund Münsterland, Parkplatz Schlossplatz Nord",
         "address": "Schlossplatz 24",
         "info": "Anmeldung per Mail oder telefonisch, Testcenter"
       },
@@ -546,7 +546,7 @@
       "properties": {
         "name": "Dr. Michael Speidel",
         "address": "Ringstraße 151",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, ab 29.03.21, <a href=\"tel:02501/2043\">02501/2043</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:02501/2043\">02501/2043</a>"
       },
       "geometry": {
         "type": "Point",
@@ -711,7 +711,7 @@
       "properties": {
         "name": "DRK-Landesverband Westfalen-Lippe e.V.",
         "address": "Sperlichstraße 25",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, Hinweis: ab 24.03.21, <a href=\"mailto:schnelltests@drk-westfalen.de\">schnelltests@drk-westfalen.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.drk-coronatest-muenster.de\">https://www.drk-coronatest-muenster.de</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a href=\"mailto:schnelltests@drk-westfalen.de\">schnelltests@drk-westfalen.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.drk-coronatest-muenster.de\">https://www.drk-coronatest-muenster.de</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1176,7 +1176,7 @@
       "properties": {
         "name": "Hausarzt am Germaniacampus, Harald Hennig",
         "address": "Grevener Straße 105",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: ab 29.03.21"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt"
       },
       "geometry": {
         "type": "Point",
@@ -1581,7 +1581,7 @@
       "properties": {
         "name": "Linden Apotheke",
         "address": "Albersloher Weg 465",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: ab 29.03., <a href=\"mailto:info@lindenapotheke-muenster.de\">info@lindenapotheke-muenster.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.lindenapotheke-muenster.de/\">https://www.lindenapotheke-muenster.de/</a>, <a href=\"tel:0251/615082\">0251/615082</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"mailto:info@lindenapotheke-muenster.de\">info@lindenapotheke-muenster.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.lindenapotheke-muenster.de/\">https://www.lindenapotheke-muenster.de/</a>, <a href=\"tel:0251/615082\">0251/615082</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2016,7 +2016,7 @@
       "properties": {
         "name": "Praxis Sofroniou",
         "address": "Hansaring 11",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten (ab dem 27.3.), <a href=\"mailto:info.sofroniou@t-online.de\">info.sofroniou@t-online.de</a>, <a href=\"tel:0251/620 98 98\">0251/620 98 98</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"mailto:info.sofroniou@t-online.de\">info.sofroniou@t-online.de</a>, <a href=\"tel:0251/620 98 98\">0251/620 98 98</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2149,6 +2149,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Teststelle Sportbad Coburg<br /><br />(ab 12.4.)",
+        "address": "Grevener Straße 125",
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, Hinweis: Mo-Fr 12-17 Uhr (ab 12.4.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60994029599464,
+          51.9788834620171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Testzentrum Ludgeristraße",
         "address": "Ludgeristraße 28",
         "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.corona-muenster.com/\">https://www.corona-muenster.com/</a>"
@@ -2164,9 +2179,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Testzentrum Malteser Hilfsdienst e.V. Münster",
+        "address": "Daimlerweg 33",
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.malteser-muenster.de/testzentrum\">https://www.malteser-muenster.de/testzentrum</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59537644463935,
+          51.9272962232148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Testzentrum Wacker Mecklenbeck",
         "address": "Egelshove 1",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, Hinweis: ab 27.03., <a target=\"_blank\" rel=\"noopener\" href=\"https://www.covisa.de\">https://www.covisa.de</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.covisa.de\">https://www.covisa.de</a>"
       },
       "geometry": {
         "type": "Point",
