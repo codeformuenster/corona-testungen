@@ -50,8 +50,8 @@
       "type": "Feature",
       "properties": {
         "name": "Annen Apotheke",
-        "address": "Dingbängerweg 69",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.schnelltest-apotheke.de/\">https://www.schnelltest-apotheke.de/</a>, <a href=\"tel:0251/717380\">0251/717380</a>"
+        "address": "Am Hof Hesselmann 10",
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.covisa.de\">https://www.covisa.de</a>, <a href=\"tel:0251/717380\">0251/717380</a>"
       },
       "geometry": {
         "type": "Point",
@@ -613,6 +613,21 @@
         "coordinates": [
           7.63065519163534,
           51.9694961549446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Saskia Holstiege Praxis (ab 12.4.)",
+        "address": "Mauritzstraße 23",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten (ab 12.4.), <a href=\"mailto:praxis@dr-holstiege.de\">praxis@dr-holstiege.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://dr-holstiege.de/\">https://dr-holstiege.de/</a>, <a href=\"tel:0251 48168768\">0251 48168768</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63344972938973,
+          51.9623353220368
         ]
       }
     },
@@ -2091,7 +2106,7 @@
       "properties": {
         "name": "St. Georg Apotheke",
         "address": "Hammer Straße 13",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/531480\">0251/531480</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.suedviertel-apotheken-muenster.de/\">https://www.suedviertel-apotheken-muenster.de/</a>, <a href=\"tel:0251/531480\">0251/531480</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2121,7 +2136,7 @@
       "properties": {
         "name": "Süd-Apotheke",
         "address": "Hammer Straße 101",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/7774880\">0251/7774880</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.suedviertel-apotheken-muenster.de/\">https://www.suedviertel-apotheken-muenster.de/</a>, <a href=\"tel:0251/7774880\">0251/7774880</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2263,6 +2278,21 @@
         "coordinates": [
           7.58085378829921,
           51.9671800368791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zahnarztpraxis van den Bosch",
+        "address": "Himmelreichallee 43",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@zahnarzt-vandenbosch.de\">info@zahnarzt-vandenbosch.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.zahnarzt-vandenbosch.de/\">http://www.zahnarzt-vandenbosch.de/</a>, <a href=\"tel:0251 80435\">0251 80435</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6121718541391,
+          51.9594428853541
         ]
       }
     },
