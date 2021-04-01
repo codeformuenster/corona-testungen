@@ -2164,6 +2164,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Testzentrum Hiltrup",
+        "address": "Marktallee 88",
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.testzentrum-hiltrup.de/\">http://www.testzentrum-hiltrup.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65102786918957,
+          51.9047756386827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Testzentrum Ludgeristraße",
         "address": "Ludgeristraße 28",
         "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.corona-muenster.com/\">https://www.corona-muenster.com/</a>"
