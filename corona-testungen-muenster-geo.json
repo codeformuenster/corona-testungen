@@ -379,6 +379,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Dr. Dr. Wolfgang Treder",
+        "address": "Hohenzollernring 70",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:0251/9354229\">0251/9354229</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64868024243345,
+          51.9606948068758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dr. Eva Maria Grewe, Dr. Stefan Hermes",
         "address": "Dechaneischanze 3",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@muensterhausarzt.de\">info@muensterhausarzt.de</a>, <a href=\"tel:0251/35535\">0251/35535</a>"
