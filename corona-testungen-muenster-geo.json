@@ -1609,6 +1609,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Leezen Heroes, LINDBERG",
+        "address": "Haferlandweg 8",
+        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation, Mi. 07.04, 9-11:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6601572230496,
+          51.9369981671179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leezen Heroes, LINDBERG",
+        "address": "Rothenburg 5",
+        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation, Mi. 07.04, 11-15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62706251173669,
+          51.9608223518408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Linden Apotheke und Äskulap Apotheke testen in der Ev. Friedens-Kirchengemeinde",
         "address": "Zum Erlenbusch 15",
         "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"mailto:info@lindenapotheke-muenster.de\">info@lindenapotheke-muenster.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.lindenapotheke-muenster.de/\">https://www.lindenapotheke-muenster.de/</a>, <a href=\"tel:0251/615082\">0251/615082</a>"
@@ -1678,6 +1708,21 @@
         "coordinates": [
           7.64109956347886,
           51.9707231255245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
+        "address": "Hafenplatz 2",
+        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63719305299847,
+          51.9512111004895
         ]
       }
     },
