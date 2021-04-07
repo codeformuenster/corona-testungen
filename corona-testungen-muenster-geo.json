@@ -1611,7 +1611,7 @@
       "properties": {
         "name": "Leezen Heroes, CITY",
         "address": "Rothenburg 5",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Mi. 07.04. 11:00-15:00, <br /><br />Do. 08.04. 11:00-17:00,<br /><br />Fr. 09.04. 11:00-17:00,<br /><br />Sa. 10.04. 10:30-16:30,<br /><br />Di. 13.04. 11:00-17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Mi. 07.04.  11:00-15:00<br /><br />Do. 08.04.  11:00-17:00<br /><br />Fr. 09.04.  11:00-17:00<br /><br />Sa. 10.04.  10:30-16:30<br /><br />Di. 13.04.  11:00-17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1626,7 +1626,7 @@
       "properties": {
         "name": "Leezen Heroes, FIDEL",
         "address": "Am Berg Fidel 51",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, Mi. 07.04, 16-19:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Mi. 07.04. 16:00-19:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1641,7 +1641,7 @@
       "properties": {
         "name": "Leezen Heroes, KLOSTER",
         "address": "Grevener Straße 61",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, Do. 08.04, 13-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Do. 08.04. 13:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1656,7 +1656,7 @@
       "properties": {
         "name": "Leezen Heroes, LINDBERG",
         "address": "Haferlandweg 8",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, Mi. 07.04, 9-11:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Mi. 07.04 9:00-11:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1671,22 +1671,7 @@
       "properties": {
         "name": "Leezen Heroes, SIEMENS",
         "address": "Schuckertstraße 21",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, Mi. 07.04, 12-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63851436194379,
-          51.9272816016931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leezen Heroes, SIEMENS",
-        "address": "Schuckertstraße 21",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, Fr. 09.04, 9-13:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Mi. 07.04.  12:00-16:00<br /><br />Fr. 09.04.  9:00-13:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1701,7 +1686,7 @@
       "properties": {
         "name": "Leezen Heroes, UHLEN",
         "address": "Haus Uhlenkotten 8",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, Do. 08.04, 9-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Do. 08.04. 9:00-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
