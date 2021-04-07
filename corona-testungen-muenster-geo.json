@@ -1609,6 +1609,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Leezen Heroes, CITY",
+        "address": "Rothenburg 5",
+        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation, Mi. 07.04, 11-15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62706251173669,
+          51.9608223518408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Leezen Heroes, LINDBERG",
         "address": "Haferlandweg 8",
         "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation, Mi. 07.04, 9-11:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
@@ -1624,15 +1639,15 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Leezen Heroes, LINDBERG",
-        "address": "Rothenburg 5",
-        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation, Mi. 07.04, 11-15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "name": "Leezen Heroes, SIEMENS",
+        "address": "Schuckertstraße 21",
+        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation, Mi. 07.04, 12-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.62706251173669,
-          51.9608223518408
+          7.63851436194379,
+          51.9272816016931
         ]
       }
     },
@@ -1716,7 +1731,7 @@
       "properties": {
         "name": "Medfortis, Test",
         "address": "Hafenplatz 2",
-        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation im Aufbau, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
       "geometry": {
         "type": "Point",
