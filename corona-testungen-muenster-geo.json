@@ -66,7 +66,7 @@
       "properties": {
         "name": "Arbeiter-Samariter-Bund Münsterland",
         "address": "Lambertikirchplatz 5",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Samstag 27.03. von 9-17 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Samstags von 9:00-17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +96,7 @@
       "properties": {
         "name": "ASB Münster, Parkplatz Schlossplatz Nord",
         "address": "Schlossplatz 24",
-        "info": "Anmeldung online, Testcenter, Hinweis: Drive-In testzentrum, mit Auto oder Fahrrad nutzbar, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Drive-In Testzentrum<br /><br />mit Auto oder Fahrrad nutzbar<br /><br />Mo.-Fr.    9:00-14:00<br /><br />Sa.+So.  9:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2376,7 +2376,7 @@
       "properties": {
         "name": "Teststelle Sportbad Coburg",
         "address": "Grevener Straße 125",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, Hinweis: Mo-Fr 12-17 Uhr (ab 12.4.)"
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, Hinweis: Mo.-Fr.  12:00-17:00 Uhr (ab 12.4.)"
       },
       "geometry": {
         "type": "Point",
