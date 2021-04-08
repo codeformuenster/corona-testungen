@@ -34,9 +34,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Allwetterzoo Münster,<br /><br />Sentruper Strasse 315,<br /><br />Parkwiese westlich des Zoos Richtung MS-Roxel,",
+        "name": "Allwetterzoo Münster",
         "address": "Sentruper Straße 315",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/allwetterzoo-muenster/checkins#/1789/2021-03-26\">https://app.no-q.info/allwetterzoo-muenster/checkins#/1789/2021-03-26</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: auf der Parkwiese westlich des Zoos Richtung MS-Roxel, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/allwetterzoo-muenster/checkins#/1789/2021-03-26\">https://app.no-q.info/allwetterzoo-muenster/checkins#/1789/2021-03-26</a>"
       },
       "geometry": {
         "type": "Point",
@@ -66,28 +66,13 @@
       "properties": {
         "name": "Arbeiter-Samariter-Bund Münsterland",
         "address": "Lambertikirchplatz 5",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Samstag 27.03. von 9-17 Uhr"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Samstag 27.03. von 9-17 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.62876733614927,
           51.9626675216487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Arbeiter-Samariter-Bund Münsterland, Parkplatz Schlossplatz Nord",
-        "address": "Schlossplatz 24",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.61682109639453,
-          51.9658546906465
         ]
       }
     },
@@ -103,6 +88,36 @@
         "coordinates": [
           7.67739587855581,
           51.9562733250653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ASB Münster, Parkplatz Schlossplatz Nord",
+        "address": "Schlossplatz 24",
+        "info": "Anmeldung online, Testcenter, Hinweis: Drive-In testzentrum, mit Auto oder Fahrrad nutzbar, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61692484459796,
+          51.9648488456909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Äskulap Apotheke testen in der Ev. Friedens-Kirchengemeinde",
+        "address": "Zum Erlenbusch 15",
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.aeskulap-apotheke.de\">http://www.aeskulap-apotheke.de</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.67387058332564,
+          51.9248169290718
         ]
       }
     },
@@ -171,7 +186,7 @@
       "properties": {
         "name": "CoviLab GmbH",
         "address": "Im Derdel 8",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"http://covilab.ifg-ms.de/\">http://covilab.ifg-ms.de/</a>, <a href=\"tel:0 25 34/9 77 36 14\">0 25 34/9 77 36 14</a>"
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"http://covilab.ifg-ms.de/\">http://covilab.ifg-ms.de/</a>, <a href=\"tel:0 25 34/9 77 36 14\">0 25 34/9 77 36 14</a>"
       },
       "geometry": {
         "type": "Point",
@@ -741,7 +756,7 @@
       "properties": {
         "name": "DRK-Landesverband Westfalen-Lippe e.V.",
         "address": "Sperlichstraße 25",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a href=\"mailto:schnelltests@drk-westfalen.de\">schnelltests@drk-westfalen.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.drk-coronatest-muenster.de\">https://www.drk-coronatest-muenster.de</a>"
+        "info": "Anmeldung online, Testcenter, <a href=\"mailto:schnelltests@drk-westfalen.de\">schnelltests@drk-westfalen.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.drk-coronatest-muenster.de\">https://www.drk-coronatest-muenster.de</a>"
       },
       "geometry": {
         "type": "Point",
@@ -793,6 +808,21 @@
         "coordinates": [
           7.60238209401217,
           51.9952936229742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erlebniswelt Sport, Testungen beim SC Gremmendorf",
+        "address": "Am Hohen Ufer 111",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.69194952816533,
+          51.929254293485
         ]
       }
     },
@@ -1429,30 +1459,30 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hohenzollern Apotheke am Pantaleonplatz",
-        "address": "Roxeler Straße 559",
-        "info": "Anmeldung online, Apotheke, Hinweis: Testungen in der Alten Hohenzollern Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hza.de/corona-test\">https://www.hza.de/corona-test</a>"
+        "name": "Hohenzollern Apotheke am Ring",
+        "address": "Hohenzollernring 57",
+        "info": "Anmeldung online, Apotheke, <a href=\"tel:0251/2007800\">0251/2007800</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5378957035932,
-          51.9546684507144
+          7.64704951439943,
+          51.9592643943486
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Hohenzollern Apotheke am Ring",
-        "address": "Hohenzollernring 59",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: mobile Testungen, ab 40 Personen, <a href=\"mailto:l.claessens@hohenzollern-apotheke.de\">l.claessens@hohenzollern-apotheke.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hza.de/corona-test\">https://www.hza.de/corona-test</a>, <a href=\"tel:0251/2007800\">0251/2007800</a>"
+        "name": "Hohenzollern Apotheke an der Roxeler Straße",
+        "address": "Roxeler Straße 559",
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hza.de/corona-test\">https://www.hza.de/corona-test</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.64712490298182,
-          51.959660892008
+          7.5378957035932,
+          51.9546684507144
         ]
       }
     },
@@ -1476,7 +1506,7 @@
       "properties": {
         "name": "Hohenzollern Apotheke, Im Sportzentrum Kinderhaus",
         "address": "Bernd-Feldhaus-Platz 1",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/mobiles-team-der-hohenzollern-apotheke/checkins#/\">https://app.no-q.info/mobiles-team-der-hohenzollern-apotheke/checkins#/</a>"
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hza.de/corona-test\">https://www.hza.de/corona-test</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1543,21 +1573,6 @@
         "coordinates": [
           7.61111548766243,
           51.9728999116343
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Johanniter, auf dem Vorplatz des LWL-Museum",
-        "address": "Rothenburg 30",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Samstag 27.03. von 9-17 Uhr"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62382836522869,
-          51.9609194679778
         ]
       }
     },
@@ -1774,15 +1789,15 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Linden Apotheke und Äskulap Apotheke testen in der Ev. Friedens-Kirchengemeinde",
+        "name": "Linden Apotheke n der Ev. Friedens-Kirchengemeinde",
         "address": "Zum Erlenbusch 15",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"mailto:info@lindenapotheke-muenster.de\">info@lindenapotheke-muenster.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.lindenapotheke-muenster.de/\">https://www.lindenapotheke-muenster.de/</a>, <a href=\"tel:0251/615082\">0251/615082</a>"
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.lindenapotheke-muenster.de/\">https://www.lindenapotheke-muenster.de/</a>, <a href=\"tel:0251/615082\">0251/615082</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.67384230159187,
-          51.9247896354715
+          7.67372599543731,
+          51.9247883249607
         ]
       }
     },
@@ -2256,7 +2271,7 @@
       "properties": {
         "name": "Schnellteststation Pfarrzentrum Heilig Kreuz",
         "address": "Maximilianstraße 59",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"http://coerde-apotheke.de/corona-schnelltest-station-maximilianstrasse-ueber-die-oster-feiertage-geoeffnet\">http://coerde-apotheke.de/corona-schnelltest-station-maximilianstrasse-ueber-die-oster-feiertage-geoeffnet</a>"
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"http://coerde-apotheke.de/corona-schnelltest-station-maximilianstrasse-ueber-die-oster-feiertage-geoeffnet\">http://coerde-apotheke.de/corona-schnelltest-station-maximilianstrasse-ueber-die-oster-feiertage-geoeffnet</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2344,7 +2359,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Teststelle Sportbad Coburg<br /><br />(ab 12.4.)",
+        "name": "Teststelle Sportbad Coburg",
         "address": "Grevener Straße 125",
         "info": "Anmeldung per Mail oder telefonisch, Testcenter, Hinweis: Mo-Fr 12-17 Uhr (ab 12.4.)"
       },
@@ -2376,7 +2391,7 @@
       "properties": {
         "name": "Testzentrum Ludgeristraße",
         "address": "Ludgeristraße 28",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.corona-muenster.com/\">https://www.corona-muenster.com/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Montags - Samstags, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.corona-muenster.com/\">https://www.corona-muenster.com/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2391,7 +2406,7 @@
       "properties": {
         "name": "Testzentrum Malteser Hilfsdienst e.V. Münster",
         "address": "Daimlerweg 33",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.malteser-muenster.de/testzentrum\">https://www.malteser-muenster.de/testzentrum</a>"
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.malteser-muenster.de/testzentrum\">https://www.malteser-muenster.de/testzentrum</a>"
       },
       "geometry": {
         "type": "Point",
