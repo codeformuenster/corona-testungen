@@ -741,7 +741,7 @@
       "properties": {
         "name": "Drive-In am HIT-Markt",
         "address": "Geringhoffstraße 44",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://testanddrive.de/\">https://testanddrive.de/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: alle Wochentage außer Samstags, <a target=\"_blank\" rel=\"noopener\" href=\"https://testanddrive.de/testzentrum/muenster/\">https://testanddrive.de/testzentrum/muenster/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1579,6 +1579,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Johanniter",
+        "address": "Rothenburg 30",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: jeden Samstag von 9-17 Uhr,  auf dem Vorplatz des LWL-Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62382836522869,
+          51.9609194679778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Kiepenkerl Apotheke",
         "address": "Bergstraße 10",
         "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/46963\">0251/46963</a>"
@@ -2376,7 +2391,7 @@
       "properties": {
         "name": "Testzentrum Hiltrup",
         "address": "Marktallee 88",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.testzentrum-hiltrup.de/\">http://www.testzentrum-hiltrup.de/</a>"
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.testzentrum-hiltrup.de/\">http://www.testzentrum-hiltrup.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2421,7 +2436,7 @@
       "properties": {
         "name": "Testzentrum Wacker Mecklenbeck",
         "address": "Egelshove 1",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.covisa.de\">https://www.covisa.de</a>"
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.covisa.de\">https://www.covisa.de</a>"
       },
       "geometry": {
         "type": "Point",
