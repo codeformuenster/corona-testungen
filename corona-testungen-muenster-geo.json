@@ -1206,7 +1206,7 @@
       "properties": {
         "name": "Germania die Apotheke",
         "address": "An der Germania Brauerei 3",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Mo – Fr 8 -20 Uhr, Sa 9 – 16 Uhr, ohne Termin, <a href=\"tel:0251/1332280\">0251/1332280</a>"
+        "info": "Anmeldung nicht erforderlich, Apotheke, Hinweis: Mo – Fr 8 -20 Uhr, Sa 9 – 16 Uhr, ohne Termin, <a href=\"tel:0251/1332280\">0251/1332280</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1594,6 +1594,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Johanniter Testzentrum<br /><br />c/o SV Concordia Albachten",
+        "address": "Hohe Geist 17",
+        "info": "Anmeldung online, Testcenter, Hinweis: Do.  9:00-17:00<br /><br />Fr.  15:00-20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/ms\">https://www.johanniter.de/ms</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.53074567286271,
+          51.9227486049574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Kiepenkerl Apotheke",
         "address": "Bergstraße 10",
         "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/46963\">0251/46963</a>"
@@ -1639,9 +1654,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Kosmas-Apotheke oHG",
+        "address": "Clemens-August-Platz 12",
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kosmas-apotheke.com/\">https://www.kosmas-apotheke.com/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.68915160374153,
+          51.9149624270839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Leezen Heroes, CITY",
         "address": "Rothenburg 5",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Mi. 07.04.  11:00-15:00<br /><br />Do. 08.04.  11:00-17:00<br /><br />Fr. 09.04.  11:00-17:00<br /><br />Sa. 10.04.  10:30-16:30<br /><br />Di. 13.04.  11:00-17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Fr. 09.04.  11:00-17:00<br /><br />Sa. 10.04.  10:30-16:30<br /><br />Mo. 12.04.  11:00-17:00<br /><br />Di. 13.04.  11:00-17:00 <br /><br />Mi. 14.04.  11:00-15:00<br /><br />Do. 15.04.  11:00-17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1663,6 +1693,21 @@
         "coordinates": [
           7.62391511514277,
           51.9286134340578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leezen Heroes, GIEVENBECK MARKTKAUF",
+        "address": "Roxeler Straße 416",
+        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Sa. 10.04.  11:00-17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57040976709334,
+          51.9577832600423
         ]
       }
     },
@@ -1731,7 +1776,7 @@
       "properties": {
         "name": "Leezen Heroes, KLOSTER",
         "address": "Grevener Straße 61",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Do. 08.04. 13:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Do. 15.04. 13:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1761,7 +1806,7 @@
       "properties": {
         "name": "Leezen Heroes, LODDEN",
         "address": "Fridtjof-Nansen-Weg 7",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Mo. 12.04.  9:30-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Mo. 12.04.  13:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1776,7 +1821,7 @@
       "properties": {
         "name": "Leezen Heroes, SIEMENS",
         "address": "Schuckertstraße 21",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Mi. 07.04.  12:00-16:00<br /><br />Fr. 09.04.  9:00-13:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Fr. 09.04.  9:00-13:00<br /><br />Mi. 14.04.  12:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1791,7 +1836,7 @@
       "properties": {
         "name": "Leezen Heroes, UHLEN",
         "address": "Haus Uhlenkotten 8",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Do. 08.04. 9:00-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Do. 15.04. 9:00-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2293,6 +2338,36 @@
         "coordinates": [
           7.6272337099033,
           51.9699868199525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schnellteststelle Coerde bei Weicon",
+        "address": "August-Horch-Straße 11",
+        "info": "Anmeldung online, Testcenter, Hinweis: Mittwochs von 09:00 - 13:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://coerde.chayns.net\">https://coerde.chayns.net</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6652712234347,
+          51.9950340769904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schnellteststelle Hiltrup bei Möllers + Reismann",
+        "address": "Fuggerstraße 23",
+        "info": "Anmeldung online, Testcenter, Hinweis: Montags von 07:00 - 12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://hiltrup.chayns.net\">https://hiltrup.chayns.net</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62833019713198,
+          51.893039818244
         ]
       }
     },
