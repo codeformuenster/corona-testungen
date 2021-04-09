@@ -634,6 +634,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Dr. Robert Koss, Zahnarzt u. Oralchirurg, Praxis im FranziskusCarré",
+        "address": "Hohenzollernring 70",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/44278\">0251/44278</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64868024243345,
+          51.9606948068758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dr. Sabine Ludt",
         "address": "Kanalstraße 15",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@praxis-ludt.de\">info@praxis-ludt.de</a>"
