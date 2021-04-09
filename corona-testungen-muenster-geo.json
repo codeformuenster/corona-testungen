@@ -1641,7 +1641,7 @@
       "properties": {
         "name": "Kiepenkerl Apotheke",
         "address": "Meesenstiege 54",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:01501/921577\">01501/921577</a>"
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kiepenkerl-apo-hiltrup.de/\">https://www.kiepenkerl-apo-hiltrup.de/</a>, <a href=\"tel:02501/921577\">02501/921577</a>"
       },
       "geometry": {
         "type": "Point",
