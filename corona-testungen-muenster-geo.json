@@ -6,7 +6,7 @@
       "properties": {
         "name": "Adler Apotheke",
         "address": "Salzstraße 58",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/adler-apotheke-muenster/checkins#\">https://app.no-q.info/adler-apotheke-muenster/checkins#</a>, <a href=\"tel:0251/414710\">0251/414710</a>"
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/adler-apotheke-muenster/checkins\">https://app.no-q.info/adler-apotheke-muenster/checkins</a>, <a href=\"tel:0251/414710\">0251/414710</a>"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +51,7 @@
       "properties": {
         "name": "Annen Apotheke",
         "address": "Am Hof Hesselmann 10",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.covisa.de\">https://www.covisa.de</a>, <a href=\"tel:0251/717380\">0251/717380</a>"
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.covisa.de\">https://www.covisa.de</a>, <a href=\"tel:0251/717380\">0251/717380</a>"
       },
       "geometry": {
         "type": "Point",
@@ -109,7 +109,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Äskulap Apotheke testen in der Ev. Friedens-Kirchengemeinde",
+        "name": "Äskulap Apotheke in der Ev. Friedens-Kirchengemeinde",
         "address": "Zum Erlenbusch 15",
         "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.aeskulap-apotheke.de\">http://www.aeskulap-apotheke.de</a>"
       },
@@ -163,21 +163,6 @@
         "coordinates": [
           7.64712018991134,
           51.9936490734998
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CoviLab GmbH",
-        "address": "Im Derdel 8",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:02534/9773614\">02534/9773614</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.55233294078663,
-          51.9514839662367
         ]
       }
     },
@@ -356,8 +341,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.64337391357948,
-          51.9778437268129
+          7.64338738267057,
+          51.9778798483812
         ]
       }
     },
@@ -641,8 +626,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.64868024243345,
-          51.9606948068758
+          7.64889902897785,
+          51.9606793345651
         ]
       }
     },
@@ -664,9 +649,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dr. Saskia Holstiege Praxis (ab 12.4.)",
+        "name": "Dr. Saskia Holstiege Praxis",
         "address": "Mauritzstraße 23",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten (ab 12.4.), <a href=\"mailto:praxis@dr-holstiege.de\">praxis@dr-holstiege.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://dr-holstiege.de/\">https://dr-holstiege.de/</a>, <a href=\"tel:0251 48168768\">0251 48168768</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"mailto:praxis@dr-holstiege.de\">praxis@dr-holstiege.de</a>, <a href=\"tel:0251 48168768\">0251 48168768</a>"
       },
       "geometry": {
         "type": "Point",
@@ -709,7 +694,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dr. Wiebke Lürmann, Sentruper Höhe 23<br /><br />(ab dem 12.04.)",
+        "name": "Dr. Wiebke Lürmann",
         "address": "Sentruper Höhe 23",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"mailto:info@hausarztpraxis-sentrup.de\">info@hausarztpraxis-sentrup.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://hausarztpraxis-sentruperhoehe.de/\">https://hausarztpraxis-sentruperhoehe.de/</a>, <a href=\"tel:0251 81518\">0251 81518</a>"
       },
@@ -786,7 +771,7 @@
       "properties": {
         "name": "Easy Apotheke",
         "address": "Windthorststraße 16",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"mailto:windthorststrasse@easyapotheken.de\">windthorststrasse@easyapotheken.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://windthorststrasse.easyapotheken.de/\">https://windthorststrasse.easyapotheken.de/</a>, <a href=\"tel:025143362\">025143362</a>"
+        "info": "Anmeldung online, Apotheke, <a href=\"mailto:windthorststrasse@easyapotheken.de\">windthorststrasse@easyapotheken.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/easy-apotheke-windthorststrasse/checkins\">https://app.no-q.info/easy-apotheke-windthorststrasse/checkins</a>, <a href=\"tel:025143362\">025143362</a>"
       },
       "geometry": {
         "type": "Point",
@@ -846,7 +831,7 @@
       "properties": {
         "name": "Felix-Apotheke im Hauptbahnhof Münster",
         "address": "Berliner Platz 21",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/felix-apotheke-im-hauptbahnhof-muenster/checkins#/\">https://app.no-q.info/felix-apotheke-im-hauptbahnhof-muenster/checkins#/</a>, <a href=\"tel:0251/49091820\">0251/49091820</a>"
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/felix-apotheke-im-hauptbahnhof-muenster/checkins#/\">https://app.no-q.info/felix-apotheke-im-hauptbahnhof-muenster/checkins#/</a>, <a href=\"tel:0251/49091820\">0251/49091820</a>"
       },
       "geometry": {
         "type": "Point",
@@ -876,7 +861,7 @@
       "properties": {
         "name": "GbR Hiltrup-testet (Clemens-Apotheke, Carré Apotheke Hiltrup &amp; allesgut Apotheke), TuS Hiltrup Geschäftsstelle",
         "address": "Moränenstraße 14",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.hiltrup-testet.de/\">http://www.hiltrup-testet.de/</a>, <a href=\"tel:02501/92978113\">02501/92978113</a>"
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.hiltrup-testet.de/\">http://www.hiltrup-testet.de/</a>, <a href=\"tel:02501/92978113\">02501/92978113</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1086,7 +1071,7 @@
       "properties": {
         "name": "Gemeinschaftspraxis Dres. Fuchs &amp; Hieronymus",
         "address": "Gartenstiege 1",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a target=\"_blank\" rel=\"noopener\" href=\"https://hausarzt-nienberge.probatix.de\">https://hausarzt-nienberge.probatix.de</a>, <a href=\"tel:02533/2022\">02533/2022</a>"
+        "info": "Anmeldung online, Arzt, <a target=\"_blank\" rel=\"noopener\" href=\"https://hausarzt-nienberge.probatix.de\">https://hausarzt-nienberge.probatix.de</a>, <a href=\"tel:02533/2022\">02533/2022</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1451,8 +1436,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.63395028931911,
-          51.9065927789346
+          7.6338595506433,
+          51.9067086178205
         ]
       }
     },
@@ -1864,7 +1849,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Linden Apotheke n der Ev. Friedens-Kirchengemeinde",
+        "name": "Linden Apotheke in der Ev. Friedens-Kirchengemeinde",
         "address": "Zum Erlenbusch 15",
         "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.lindenapotheke-muenster.de/\">https://www.lindenapotheke-muenster.de/</a>, <a href=\"tel:0251/615082\">0251/615082</a>"
       },
@@ -1909,7 +1894,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Margareten-Apotheke, Wolbecker Straße 226,  in den Räumen des Gemeindehauses der Evangelischen Auferstehungsgemeinde",
+        "name": "Margareten-Apotheke, Wolbecker Straße 226,  in den Räumen des Gemeindehauses der Ev. Auferstehungsgemeinde",
         "address": "Laerer Landweg 159",
         "info": "Anmeldung online, Apotheke, Hinweis: nur mit online Registrierung, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/margareten-apotheke-muenster/checkins#/\">https://app.no-q.info/margareten-apotheke-muenster/checkins#/</a>"
       },
@@ -1940,14 +1925,44 @@
       "type": "Feature",
       "properties": {
         "name": "Medfortis, Test",
-        "address": "Münstermannweg 16",
-        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation im Aufbau, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+        "address": "Gustav-Stresemann-Weg 1",
+        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation <br /><br />Mo. 14.04.  10:30-16:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.62794158307185,
-          51.9401338170277
+          7.64215050237708,
+          51.9340223983311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
+        "address": "Rösnerstraße 10",
+        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation <br /><br />Mo.  12.04. 06:30-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64392871352244,
+          51.9401752078421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
+        "address": "Zum Heidehof 80",
+        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation <br /><br />Mo. 12.04.  13:30-15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6523613918441,
+          52.0107032038446
         ]
       }
     },
@@ -2029,7 +2044,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Park-Apotheke, Mondstraße 81,  in den Räumen des Gemeindehauses der Evangelischen Auferstehungsgemeinde",
+        "name": "Park-Apotheke, Mondstraße 81,  in den Räumen des Gemeindehauses der Ev. Auferstehungsgemeinde",
         "address": "Laerer Landweg 159",
         "info": "Anmeldung online, Apotheke, Hinweis: nur mit online Registrierung, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/park-apotheke-muenster/checkins#\">https://app.no-q.info/park-apotheke-muenster/checkins#</a>"
       },
@@ -2066,8 +2081,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.64337391357948,
-          51.9778437268129
+          7.64341948008626,
+          51.977781310582
         ]
       }
     },
@@ -2466,7 +2481,7 @@
       "properties": {
         "name": "Teststelle Sportbad Coburg",
         "address": "Grevener Straße 125",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, Hinweis: Mo.-Fr.  12:00-17:00 Uhr (ab 12.4.)"
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, Hinweis: Mo.-Fr.  12:00-17:00 Uhr"
       },
       "geometry": {
         "type": "Point",
@@ -2586,7 +2601,7 @@
       "properties": {
         "name": "Zahnarztpraxis van den Bosch",
         "address": "Himmelreichallee 43",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@zahnarzt-vandenbosch.de\">info@zahnarzt-vandenbosch.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.zahnarzt-vandenbosch.de/\">http://www.zahnarzt-vandenbosch.de/</a>, <a href=\"tel:0251 80435\">0251 80435</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@zahnarzt-vandenbosch.de\">info@zahnarzt-vandenbosch.de</a>, <a href=\"tel:0251 80435\">0251 80435</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2606,8 +2621,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.64868024243345,
-          51.9606948068758
+          7.64917601428003,
+          51.9606645295958
         ]
       }
     }
