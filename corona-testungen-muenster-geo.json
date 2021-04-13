@@ -64,6 +64,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Apotheke am Burloh",
+        "address": "Am Burloh 93",
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/apotheke-am-burloh/checkins/#\">https://app.no-q.info/apotheke-am-burloh/checkins/#</a>, <a href=\"tel:0251/921331\">0251/921331</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60226308213107,
+          51.9944380075123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Arbeiter-Samariter-Bund Münsterland",
         "address": "Lambertikirchplatz 5",
         "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Samstags von 9:00-17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>"
@@ -163,6 +178,21 @@
         "coordinates": [
           7.64712018991134,
           51.9936490734998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corona Go, am Freibad Coburg",
+        "address": "Grevener Straße 125",
+        "info": "Anmeldung online, Testcenter, Hinweis: Mo.-Fr.  12:00-17:00 Uhr, <a href=\"mailto:schnelltest@sgsmuenster.net\">schnelltest@sgsmuenster.net</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://coronago.de/\">https://coronago.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60994029599464,
+          51.9788834620171
         ]
       }
     },
@@ -739,6 +769,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Drive-In",
+        "address": "Brandhoveweg 101",
+        "info": "Anmeldung nicht erforderlich, Testcenter, <a href=\"mailto:info@kopfherzundhand.de\">info@kopfherzundhand.de</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.71392196364281,
+          51.9156673123225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Drive-In am HIT-Markt",
         "address": "Geringhoffstraße 44",
         "info": "Anmeldung online, Testcenter, Hinweis: alle Wochentage außer Samstags, <a target=\"_blank\" rel=\"noopener\" href=\"https://testanddrive.de/testzentrum/muenster/\">https://testanddrive.de/testzentrum/muenster/</a>"
@@ -748,6 +793,21 @@
         "coordinates": [
           7.59857063268094,
           51.9298070193928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drive-In, auf dem Hornbach Parkplatz",
+        "address": "An der Alten Ziegelei 33",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.ingenium-testcenter.de/terminvereinbarung/\">https://www.ingenium-testcenter.de/terminvereinbarung/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66827386310401,
+          51.9979093975865
         ]
       }
     },
@@ -793,6 +853,21 @@
         "coordinates": [
           7.6368211855612,
           51.9620327236491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Engel-Apotheke, im Darts-Treff der AWO",
+        "address": "Neustraße 3",
+        "info": "Anmeldung online, Apotheke, <a href=\"mailto:testen@engel-apotheke-wolbeck.de\">testen@engel-apotheke-wolbeck.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/engel-apotheke-awo-dart-treff/checkins#/\">https://app.no-q.info/engel-apotheke-awo-dart-treff/checkins#/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.72867917369109,
+          51.9177608431031
         ]
       }
     },
@@ -1669,9 +1744,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Kosmetikinstitut Lehnhardt",
+        "address": "Hamburger Straße 4",
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a href=\"tel:02 51 - 66 39 00\">02 51 - 66 39 00</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63692447976321,
+          51.9557487690731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Leezen Heroes, CITY",
         "address": "Rothenburg 5",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Fr. 09.04.  11:00-17:00<br /><br />Sa. 10.04.  10:30-16:30<br /><br />Mo. 12.04.  11:00-17:00<br /><br />Di. 13.04.  11:00-17:00 <br /><br />Mi. 14.04.  11:00-15:00<br /><br />Do. 15.04.  11:00-17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Di. 13.04.  11:00-17:00 <br /><br />Mi. 14.04.  11:00-15:00<br /><br />Do. 15.04.  11:00-17:00<br /><br />Fr. 16.04.  11:00-17:30<br /><br />Sa. 17.04.  10:30-16:30<br /><br />Mo. 19.04.  11:00-17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1684,24 +1774,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Leezen Heroes, FIDEL",
-        "address": "Am Berg Fidel 51",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Mi. 07.04. 16:00-19:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62391511514277,
-          51.9286134340578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Leezen Heroes, GIEVENBECK MARKTKAUF",
         "address": "Roxeler Straße 416",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Sa. 10.04.  11:00-17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Sa. 17.04.  11:00-17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1736,8 +1811,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.63810309198431,
-          51.9485511135208
+          7.63785717625185,
+          51.9485033101261
         ]
       }
     },
@@ -1746,7 +1821,7 @@
       "properties": {
         "name": "Leezen Heroes, HAMMER",
         "address": "Hammer Straße 420",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Fr. 09.04.  14:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Fr. 16.04.  15:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1761,7 +1836,7 @@
       "properties": {
         "name": "Leezen Heroes, KAISER",
         "address": "Zum Kaiserbusch 26",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Mo. 12.04.  9:30-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Fr. 16.04.  9:30-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1791,7 +1866,7 @@
       "properties": {
         "name": "Leezen Heroes, LINDBERG",
         "address": "Haferlandweg 8",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Mi. 07.04 9:00-11:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Mi. 14.04 9:00-11:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1806,7 +1881,7 @@
       "properties": {
         "name": "Leezen Heroes, LODDEN",
         "address": "Fridtjof-Nansen-Weg 7",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Mo. 12.04.  13:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Fr. 16.04.  13:00-14:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1821,7 +1896,7 @@
       "properties": {
         "name": "Leezen Heroes, SIEMENS",
         "address": "Schuckertstraße 21",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Fr. 09.04.  9:00-13:00<br /><br />Mi. 14.04.  12:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Mi. 14.04.  12:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1843,6 +1918,21 @@
         "coordinates": [
           7.56744396023692,
           51.9937408687193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leezen Heroes, ZENTRUM NORD",
+        "address": "Nevinghoff 16",
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Mo. 19.04. 11:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63395936328508,
+          51.9833906045287
         ]
       }
     },
@@ -1933,36 +2023,6 @@
         "coordinates": [
           7.64215050237708,
           51.9340223983311
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
-        "address": "Rösnerstraße 10",
-        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation <br /><br />Mo.  12.04. 06:30-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64392871352244,
-          51.9401752078421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
-        "address": "Zum Heidehof 80",
-        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation <br /><br />Mo. 12.04.  13:30-15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6523613918441,
-          52.0107032038446
         ]
       }
     },
@@ -2479,15 +2539,45 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Teststelle Sportbad Coburg",
-        "address": "Grevener Straße 125",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, Hinweis: Mo.-Fr.  12:00-17:00 Uhr"
+        "name": "Teststation ACE, Alter Fischmarkt",
+        "address": "Alter Fischmarkt 11",
+        "info": "Anmeldung online, Testcenter, Hinweis: ab 15.04., <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststation-ace-landhaus-eggert-handort/checkins#\">https://app.no-q.info/teststation-ace-landhaus-eggert-handort/checkins#</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.60994029599464,
-          51.9788834620171
+          7.62909214829776,
+          51.9639481159104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teststation ACE, Landhaus Eggert",
+        "address": "Zur Haskenau 81",
+        "info": "Anmeldung online, Testcenter, Hinweis: ab 14.04., <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststation-ace-landhaus-eggert-handort/checkins#\">https://app.no-q.info/teststation-ace-landhaus-eggert-handort/checkins#</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.69023073850803,
+          52.0162105850683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Testzentrum ExKern",
+        "address": "Hansestraße 6",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenstercare.eu/produkt/teststelle-exkern/\">https://muenstercare.eu/produkt/teststelle-exkern/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62411276267345,
+          51.8931344464622
         ]
       }
     },
