@@ -1536,7 +1536,7 @@
       "properties": {
         "name": "Hohenzollern Apotheke am Ring",
         "address": "Hohenzollernring 57",
-        "info": "Anmeldung online, Apotheke, <a href=\"tel:0251/2007800\">0251/2007800</a>"
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hza.de/corona-test\">https://www.hza.de/corona-test</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1746,7 +1746,7 @@
       "properties": {
         "name": "Kosmetikinstitut Lehnhardt",
         "address": "Hamburger Straße 4",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a href=\"tel:02 51 - 66 39 00\">02 51 - 66 39 00</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a href=\"tel:02 51 - 66 39 0\">02 51 - 66 39 0</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2329,7 +2329,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Praxis Piusallee, Dr. Tim Hartwig",
+        "name": "Praxis Piusallee, Dr. Matthias Funcke und Dr. Tim Hartwig",
         "address": "Piusallee 30",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02 51/4 50 13\">02 51/4 50 13</a>"
       },
@@ -2398,6 +2398,21 @@
         "coordinates": [
           7.648063367228,
           51.9937678032856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praxisgemeinschaft Dr. Nitsche, Dr. Wiegelmann",
+        "address": "Loerstraße 27",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:0251/5105353\">0251/5105353</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62949937283307,
+          51.959187290555
         ]
       }
     },
@@ -2668,6 +2683,36 @@
         "coordinates": [
           7.57045563104883,
           51.9586290361504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zahnarzt Dr. Ingo Rump",
+        "address": "Dorffeldstraße 21",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:02534/7240\">02534/7240</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.53716393839514,
+          51.9516651133483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zahnarzt Jörn Lücke",
+        "address": "Lazarettstraße 7",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:0251/295117\">0251/295117</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61555379248778,
+          51.9677729983935
         ]
       }
     },
