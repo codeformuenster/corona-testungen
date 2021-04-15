@@ -79,7 +79,22 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Arbeiter-Samariter-Bund Münsterland",
+        "name": "Ärztehaus Mondstraße, Dr. Matthias Döring, Dr. Karen Steinhaus",
+        "address": "Mondstraße 179",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:mail@aerztehaus-mondstrasse.de\">mail@aerztehaus-mondstrasse.de</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.67739587855581,
+          51.9562733250653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ASB Münster",
         "address": "Lambertikirchplatz 5",
         "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Samstags von 9:00-17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>"
       },
@@ -94,15 +109,15 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ärztehaus Mondstraße, Dr. Matthias Döring, Dr. Karen Steinhaus",
-        "address": "Mondstraße 179",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:mail@aerztehaus-mondstrasse.de\">mail@aerztehaus-mondstrasse.de</a>"
+        "name": "ASB Münster, im Hotel Kaiserhof",
+        "address": "Bahnhofstraße 14",
+        "info": "Anmeldung online, Testcenter, Hinweis: im ehem. Kosmetikstudio, direkt von der Bahnhofsstr. zugänglich<br /><br />Mo.-Fr.    7:00-12:00<br /><br />Sa.+So.  9:00-14:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.67739587855581,
-          51.9562733250653
+          7.63422189990274,
+          51.9580013235769
         ]
       }
     },
@@ -2008,21 +2023,6 @@
         "coordinates": [
           7.64109956347886,
           51.9707231255245
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
-        "address": "Gustav-Stresemann-Weg 1",
-        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation <br /><br />Mo. 14.04.  10:30-16:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64215050237708,
-          51.9340223983311
         ]
       }
     },
