@@ -1761,7 +1761,7 @@
       "properties": {
         "name": "Kosmetikinstitut Lehnhardt",
         "address": "Hamburger Straße 4",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a href=\"tel:02 51 - 66 39 0\">02 51 - 66 39 0</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a href=\"tel:02 51 - 66 39 00\">02 51 - 66 39 00</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2068,6 +2068,66 @@
         "coordinates": [
           7.64109956347886,
           51.9707231255245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
+        "address": "Bergiusstraße 20",
+        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation <br /><br />Mi. 21.04.  5:30-14:00<br /><br />Fr. 23.04.  5:30-14:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65405523058457,
+          51.9031917976163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
+        "address": "Gustav-Stresemann-Weg 1",
+        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation <br /><br />Mi. 21.04.  10:30-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64215050237708,
+          51.9340223983311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
+        "address": "Rösnerstraße 10",
+        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation <br /><br />Mo.  19.04. 06:30-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64392871352244,
+          51.9401752078421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
+        "address": "Zum Heidehof 80",
+        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation <br /><br />Mo. 19.04.  13:30-15:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6523613918441,
+          52.0107032038446
         ]
       }
     },
