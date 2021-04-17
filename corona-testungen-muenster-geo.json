@@ -799,21 +799,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Drive-In am HIT-Markt",
-        "address": "Geringhoffstraße 44",
-        "info": "Anmeldung online, Testcenter, Hinweis: alle Wochentage außer Samstags <br /><br />(nur bis zum 16.04.), <a target=\"_blank\" rel=\"noopener\" href=\"https://testanddrive.de/testzentrum/muenster/\">https://testanddrive.de/testzentrum/muenster/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.59857063268094,
-          51.9298070193928
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Drive-In bei Möbel Höffner",
         "address": "Haus Uhlenkotten 28",
         "info": "Anmeldung online, Testcenter, Hinweis: alle Wochentage außer Samstags <br /><br />(ab 19.04.), <a target=\"_blank\" rel=\"noopener\" href=\"https://testanddrive.de/testzentrum/muenster/\">https://testanddrive.de/testzentrum/muenster/</a>"
@@ -2083,6 +2068,21 @@
         "coordinates": [
           7.64109956347886,
           51.9707231255245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
+        "address": "August-Horch-Straße 8",
+        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation <br /><br />Mo.  19.04.  07:00-15:00<br /><br />Fr.  23.04.  07:00-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66439034352875,
+          51.9952668625312
         ]
       }
     },
