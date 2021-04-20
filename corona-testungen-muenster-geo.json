@@ -1684,9 +1684,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Johanniter",
+        "name": "Johanniter Testzentrum, <br /><br />am LWL Museum",
         "address": "Rothenburg 30",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: jeden Samstag von 9-17 Uhr,  auf dem Vorplatz des LWL-Museum"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: jeden Samstag von 9-17 Uhr,  auf dem Vorplatz des LWL-Museum, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/ms\">https://www.johanniter.de/ms</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1699,15 +1699,30 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Johanniter Testzentrum<br /><br />c/o SV Concordia Albachten",
-        "address": "Hohe Geist 17",
+        "name": "Johanniter Testzentrum, <br /><br />SV Concordia Albachten",
+        "address": "Hohe Geist 7",
         "info": "Anmeldung online, Testcenter, Hinweis: Do.  9:00-17:00<br /><br />Fr.  15:00-20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/ms\">https://www.johanniter.de/ms</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.53074567286271,
-          51.9227486049574
+          7.52996480242307,
+          51.9235031556643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johanniter Testzentrum, <br /><br />SV Sprakel e.V.",
+        "address": "Im Draum 34",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/ms\">https://www.johanniter.de/ms</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61175987374298,
+          52.0386899576475
         ]
       }
     },
@@ -2391,7 +2406,7 @@
       "properties": {
         "name": "Praxis für Kinder- und Jugendmedizin Dr. Andrea Kosch",
         "address": "Dorbaumstraße 10",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:Praxis-handorf@t-online.de\">Praxis-handorf@t-online.de</a>, <a href=\"tel:0251/53098888\">0251/53098888</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: Kinder und deren Familienangehörige, <a href=\"mailto:Praxis-handorf@t-online.de\">Praxis-handorf@t-online.de</a>, <a href=\"tel:0251/53098888\">0251/53098888</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2728,6 +2743,21 @@
         "coordinates": [
           7.69023073850803,
           52.0162105850683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teststelle Siemensstraße, <br /><br />MediaMarkt/Viva Fitness",
+        "address": "Robert-Bosch-Straße 2",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://siemens.chayns.net/\">https://siemens.chayns.net/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63164659944107,
+          51.9331184839466
         ]
       }
     },
