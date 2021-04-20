@@ -876,7 +876,7 @@
       "properties": {
         "name": "Engel-Apotheke",
         "address": "Warendorfer Straße 3",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/987620\">0251/987620</a>"
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststelle-engel-apotheke-muenster/checkins#/\">https://app.no-q.info/teststelle-engel-apotheke-muenster/checkins#/</a>"
       },
       "geometry": {
         "type": "Point",
