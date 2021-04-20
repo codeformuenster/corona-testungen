@@ -604,6 +604,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Dr. med. Michael Szukaj und Dr. med. Heike Szukaj",
+        "address": "Am Rohrbusch 56",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:02534/8660\">02534/8660</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.55215695588926,
+          51.9479120879116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dr. med. Olaf Heinemann-Vechtel",
         "address": "Windthorststraße 31",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@praxis-heinemann-vechtel.de\">info@praxis-heinemann-vechtel.de</a>, <a href=\"tel:0251/56354\">0251/56354</a>"
@@ -2179,6 +2194,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "MediCan GmbH, <br /><br />Hellweg Parkplatz",
+        "address": "Roxeler Straße 416",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.coronatest-eu.com/\">https://www.coronatest-eu.com/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5690217167944,
+          51.9574966460188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "MVZ Medicum Münster, Dr. Hendrik Oen, Dr. Mayke Austermann, Dr. Hans-Jürgen Rauba",
         "address": "Handorfer Straße 20",
         "info": "Anmeldung nicht erforderlich, Arzt, Hinweis: ohne Anmeldung"
@@ -2869,6 +2899,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Walk-in Teststelle",
+        "address": "Von-Steuben-Straße 21",
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, Hinweis: ab 23.04., <a href=\"tel:wuerfel-elberg@kopfherzundhand.de\">wuerfel-elberg@kopfherzundhand.de</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63191817456281,
+          51.9543149787973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Zahnarzt Dr. Ingo Rump",
         "address": "Dorffeldstraße 21",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:02534/7240\">02534/7240</a>"
@@ -2923,6 +2968,21 @@
         "coordinates": [
           7.6121718541391,
           51.9594428853541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zahnarztpraxis ZÄHNE IM ZENTRUM",
+        "address": "Hafenstraße 43",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251 / 51 92 92\">0251 / 51 92 92</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632130047367,
+          51.9540476914148
         ]
       }
     },
