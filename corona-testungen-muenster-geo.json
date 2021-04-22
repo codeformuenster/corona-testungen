@@ -2060,6 +2060,21 @@
       "type": "Feature",
       "properties": {
         "name": "MediCan GmbH, <br /><br />Hellweg Parkplatz",
+        "address": "Loddenheide 3",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.coronatest-eu.com/\">https://www.coronatest-eu.com/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64895715177284,
+          51.9398643702794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MediCan GmbH, <br /><br />Hellweg Parkplatz",
         "address": "Roxeler Straße 416",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.coronatest-eu.com/\">https://www.coronatest-eu.com/</a>"
       },
@@ -2743,6 +2758,21 @@
         "coordinates": [
           7.59537644463935,
           51.9272962232148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Testzentrum Stubengasse",
+        "address": "Stubengasse 20",
+        "info": "Anmeldung online, Testcenter, Hinweis: Montags - Samstags, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.corona-muenster.com/\">https://www.corona-muenster.com/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62940855167202,
+          51.960256238122
         ]
       }
     },
