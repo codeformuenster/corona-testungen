@@ -1834,21 +1834,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Leezen Heroes, FIDEL",
-        "address": "Am Berg Fidel 51",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Sa. 17.04.  11:00-12:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62391511514277,
-          51.9286134340578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Leezen Heroes, GIEVENBECK MARKTKAUF",
         "address": "Roxeler Straße 416",
         "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Sa. 17.04.  11:00-17:00<br /><br />Sa. 24.04.  11:00-17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
@@ -1873,36 +1858,6 @@
         "coordinates": [
           7.57862121411212,
           51.9678094982117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leezen Heroes, HAFEN",
-        "address": "Am Mittelhafen 16",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Di. 20.04.  9:00-13:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6415204606526,
-          51.9510273327962
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leezen Heroes, HALLE",
-        "address": "Albersloher Weg 32",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Di.  20.04.  14:00-15:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63785717625185,
-          51.9485033101261
         ]
       }
     },
@@ -1939,21 +1894,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Leezen Heroes, KLOSTER",
-        "address": "Grevener Straße 61",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Do. 15.04. 13:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.61191782462097,
-          51.9714347446862
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Leezen Heroes, LEO",
         "address": "Leonardo-Campus 2",
         "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Do. 22.04.  12:30-14:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
@@ -1963,21 +1903,6 @@
         "coordinates": [
           7.60126617945027,
           51.9745456844022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leezen Heroes, LINDBERG",
-        "address": "Haferlandweg 8",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Mi. 21.04 9:00-11:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6601572230496,
-          51.9369981671179
         ]
       }
     },
@@ -1999,21 +1924,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Leezen Heroes, SIEMENS",
-        "address": "Schuckertstraße 21",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Mi. 21.04.  12:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63851436194379,
-          51.9272816016931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Leezen Heroes, UHLEN",
         "address": "Haus Uhlenkotten 8",
         "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Do. 22.04. 9:00-11:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
@@ -2023,21 +1933,6 @@
         "coordinates": [
           7.56744396023692,
           51.9937408687193
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leezen Heroes, ZENTRUM NORD",
-        "address": "Nevinghoff 16",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Mo. 19.04. 12:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63395936328508,
-          51.9833906045287
         ]
       }
     },
@@ -2158,51 +2053,6 @@
         "coordinates": [
           7.65405523058457,
           51.9031917976163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
-        "address": "Gustav-Stresemann-Weg 1",
-        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation <br /><br />Mi. 21.04.  10:30-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64215050237708,
-          51.9340223983311
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
-        "address": "Rösnerstraße 10",
-        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation <br /><br />Mo.  19.04. 06:30-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64392871352244,
-          51.9401752078421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
-        "address": "Zum Heidehof 80",
-        "info": "Anmeldung nicht erforderlich, Hinweis: mobile Teststation <br /><br />Mo. 19.04.  13:30-15:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6523613918441,
-          52.0107032038446
         ]
       }
     },
