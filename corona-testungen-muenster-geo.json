@@ -1819,15 +1819,60 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Leezen Heroes, ARKADEN",
+        "name": "Leezen Heroes, <br /><br />ARKADEN",
         "address": "Rothenburg 5",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Do. 15.04.  11:00-17:00<br /><br />Fr. 16.04.  11:00-17:00<br /><br />Sa. 17.04.  10:30-16:30<br /><br />Mo. 19.04.  11:00-17:00<br /><br />Di. 20.04.  11:00-17:00 <br /><br />Mi. 21.04.  11:00-17:00<br /><br />Do. 22.04.  11:00-17:00<br /><br />Fr. 23.04.  11:00-17:00<br /><br />Sa. 24.04.  10:30-16:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />MO, DI, DO   11:00-17:00<br /><br />MI, FR, SA   9:00-17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.62706251173669,
           51.9608223518408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leezen Heroes, <br /><br />HAFEN",
+        "address": "Am Mittelhafen 16",
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />DI.   9:00-13:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6415204606526,
+          51.9510273327962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leezen Heroes, <br /><br />HALLE",
+        "address": "Albersloher Weg 32",
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />DI.   14:00-15:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63785717625185,
+          51.9485033101261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leezen Heroes, <br /><br />ZENTRUM NORD",
+        "address": "Nevinghoff 16",
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />MO. 12:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63395936328508,
+          51.9833906045287
         ]
       }
     },
