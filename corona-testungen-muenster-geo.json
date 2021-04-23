@@ -1819,6 +1819,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Leezen Heroes, <br /><br />AASEE / HBZ<br /><br />(Gebäude D)",
+        "address": "Echelmeyerstraße 1",
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />MO.   9:30-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5890480472508,
+          51.9366258633257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Leezen Heroes, <br /><br />ARKADEN",
         "address": "Rothenburg 5",
         "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />MO, DI, DO   11:00-17:00<br /><br />MI, FR, SA   9:00-17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
@@ -1896,7 +1911,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />HAMMER",
         "address": "Hammer Straße 420",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />FR.   15:00-17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />FR.   15:00-16:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1918,6 +1933,21 @@
         "coordinates": [
           7.68528220213001,
           51.9100457877268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leezen Heroes, <br /><br />KLOSTER",
+        "address": "Grevener Straße 61",
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />MO.   15:00-16:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61191782462097,
+          51.9714347446862
         ]
       }
     },
@@ -2001,7 +2031,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />ZENTRUM NORD",
         "address": "Nevinghoff 16",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />MO. 12:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />MO.   11:30-14:30<br /><br />FR.   11:30-14:30 (ab 30.04.), <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2150,36 +2180,6 @@
       "type": "Feature",
       "properties": {
         "name": "Medfortis, Test",
-        "address": "Steinfurter Straße 448",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di. 27.04.  14:00-17:30<br /><br />Fr. 30.04.  14:00-17:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.57978244398588,
-          51.9904734889588
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
-        "address": "Köstendeel 20",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di. 27.04.  6:00-8:00<br /><br />Do. 29.04.  6:00-8:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.66970900347935,
-          52.0123929968501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
         "address": "Rösnerstraße 10",
         "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.  26.04.  6:00-12:00<br /><br />Mi.  28.04.  8:30-10:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
@@ -2203,6 +2203,36 @@
         "coordinates": [
           7.62592690838567,
           51.9422683171609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
+        "address": "Steinfurter Straße 448",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di. 27.04.  14:00-17:30<br /><br />Fr. 30.04.  14:00-17:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57978244398588,
+          51.9904734889588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
+        "address": "Köstendeel 20",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di. 27.04.  6:00-8:00<br /><br />Do. 29.04.  6:00-8:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66970900347935,
+          52.0123929968501
         ]
       }
     },
