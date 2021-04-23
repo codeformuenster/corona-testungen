@@ -934,6 +934,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Erlebniswelt Sport, <br /><br />Testungen bei TuS Saxonia",
+        "address": "August-Schepers-Straße 20",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.653594977549,
+          51.9521101661282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erlebniswelt Sport, <br /><br />Testungen beim BSV Roxel",
+        "address": "Tilbecker Straße 34",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.52739639452712,
+          51.9548702800549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Erlebniswelt Sport, Testungen beim SC Gremmendorf",
         "address": "Am Hohen Ufer 111",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>"
@@ -2961,7 +2991,7 @@
       "properties": {
         "name": "Testzentrum Stubengasse",
         "address": "Stubengasse 20",
-        "info": "Anmeldung online, Testcenter, Hinweis: Montags - Samstags, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.corona-muenster.com/\">https://www.corona-muenster.com/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Montags - Samstags, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.cts-muenster.de/\">https://www.cts-muenster.de/</a>"
       },
       "geometry": {
         "type": "Point",
