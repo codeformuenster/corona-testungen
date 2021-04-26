@@ -229,6 +229,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Corona-Testzentrum<br /><br />am Erbdrostenhof",
+        "address": "Salzstraße 38",
+        "info": "Anmeldung online, Testcenter, Hinweis: Do., Fr., Sa., <a target=\"_blank\" rel=\"noopener\" href=\"https://corona-test-muenster.covidservicepoint.de/\">https://corona-test-muenster.covidservicepoint.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63215434832723,
+          51.9608996018651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "CoviLab GmbH",
         "address": "Im Derdel 8",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"http://covilab.ifg-ms.de/\">http://covilab.ifg-ms.de/</a>, <a href=\"tel:0 25 34/9 77 36 14\">0 25 34/9 77 36 14</a>"
@@ -831,13 +846,28 @@
       "properties": {
         "name": "Drive-In bei Möbel Höffner",
         "address": "Haus Uhlenkotten 28",
-        "info": "Anmeldung online, Testcenter, Hinweis: alle Wochentage außer Samstags <br /><br />(ab 19.04.), <a target=\"_blank\" rel=\"noopener\" href=\"https://testanddrive.de/testzentrum/muenster/\">https://testanddrive.de/testzentrum/muenster/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: alle Wochentage außer Samstags, <a target=\"_blank\" rel=\"noopener\" href=\"https://testanddrive.de/testzentrum/muenster/\">https://testanddrive.de/testzentrum/muenster/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.56930302713531,
           51.9916234567155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drive-in Hiltrup",
+        "address": "Hansestraße 74",
+        "info": "Testcenter, Hinweis: ab 29.04."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63639213772926,
+          51.8936460509664
         ]
       }
     },
@@ -853,6 +883,21 @@
         "coordinates": [
           7.66827386310401,
           51.9979093975865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DRK Hiltrup",
+        "address": "Friedhofstraße 15",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.drk-nrw-testzentrum.de/oeffentliche-testzentren/aYLFxn\">https://www.drk-nrw-testzentrum.de/oeffentliche-testzentren/aYLFxn</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63867366371464,
+          51.9061529699892
         ]
       }
     },
@@ -1716,7 +1761,7 @@
       "properties": {
         "name": "Jahreszeiten Apotheke",
         "address": "Catharina-Müller-Straße 2",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/2705027\">0251/2705027</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.testen-in-münster.de\">http://www.testen-in-münster.de</a>, <a href=\"tel:0251/2705027\">0251/2705027</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2314,6 +2359,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Münster testet GbR",
+        "address": "Hafenstraße 64",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-testet.chayns.net/\">https://muenster-testet.chayns.net/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63443295188958,
+          51.9505766766757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "MVZ Medicum Münster, Dr. Hendrik Oen, Dr. Mayke Austermann, Dr. Hans-Jürgen Rauba",
         "address": "Handorfer Straße 20",
         "info": "Anmeldung nicht erforderlich, Arzt, Hinweis: ohne Anmeldung"
@@ -2779,6 +2839,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Schnellteststelle Düne",
+        "address": "Zum Hiltruper See 139",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mi., Do., Fr.   9:00-11:00 + 15:00-18:00<br /><br />Sa., So. 12:00-16:00, <a href=\"tel:015236323727\">015236323727</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66020922985685,
+          51.8917796225985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Schnellteststelle Hiltrup bei Möllers + Reismann",
         "address": "Fuggerstraße 23",
         "info": "Anmeldung online, Testcenter, Hinweis: Montags von 07:00 - 12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://hiltrup.chayns.net\">https://hiltrup.chayns.net</a>"
@@ -2869,9 +2944,39 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Testcenter Münster <br /><br />(Aasee)",
+        "address": "Am Stadtgraben 52",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://15minutentest.de/muenster-aasee/\">https://15minutentest.de/muenster-aasee/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61937264772699,
+          51.9576662759221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TestCov Münster Poco",
+        "address": "Weseler Straße 579",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://testcov-muenster.ticketbird.de/\">https://testcov-muenster.ticketbird.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.58334274842568,
+          51.925632396441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Teststation ACE, Alter Fischmarkt",
         "address": "Alter Fischmarkt 11",
-        "info": "Anmeldung online, Testcenter, Hinweis: ab 15.04., <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/de/teststation-ace-alter-fischmarkt/checkins#/\">https://app.no-q.info/de/teststation-ace-alter-fischmarkt/checkins#/</a>"
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/de/teststation-ace-alter-fischmarkt/checkins#/\">https://app.no-q.info/de/teststation-ace-alter-fischmarkt/checkins#/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2886,7 +2991,7 @@
       "properties": {
         "name": "Teststation ACE, Landhaus Eggert",
         "address": "Zur Haskenau 81",
-        "info": "Anmeldung online, Testcenter, Hinweis: ab 14.04., <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststation-ace-landhaus-eggert-handort/checkins#\">https://app.no-q.info/teststation-ace-landhaus-eggert-handort/checkins#</a>"
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststation-ace-landhaus-eggert-handort/checkins#\">https://app.no-q.info/teststation-ace-landhaus-eggert-handort/checkins#</a>"
       },
       "geometry": {
         "type": "Point",
@@ -3051,7 +3156,7 @@
       "properties": {
         "name": "Walk-in Teststelle",
         "address": "Von-Steuben-Straße 21",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, Hinweis: ab 23.04., <a href=\"tel:wuerfel-elberg@kopfherzundhand.de\">wuerfel-elberg@kopfherzundhand.de</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a href=\"tel:wuerfel-elberg@kopfherzundhand.de\">wuerfel-elberg@kopfherzundhand.de</a>"
       },
       "geometry": {
         "type": "Point",
