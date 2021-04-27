@@ -831,7 +831,7 @@
       "properties": {
         "name": "Drive-In",
         "address": "Brandhoveweg 101",
-        "info": "Anmeldung nicht erforderlich, Testcenter, <a href=\"mailto:info@kopfherzundhand.de\">info@kopfherzundhand.de</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, <a href=\"mailto:info@kopfherzundhand.de\">info@kopfherzundhand.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -861,7 +861,7 @@
       "properties": {
         "name": "Drive-in Hiltrup",
         "address": "Hansestraße 74",
-        "info": "Testcenter, Hinweis: ab 29.04."
+        "info": "Anmeldung online, Testcenter, Hinweis: ab 29.04., <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2255,6 +2255,21 @@
       "type": "Feature",
       "properties": {
         "name": "Medfortis, Test",
+        "address": "Rösnerstraße 10",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.  26.04.  6:00-12:00<br /><br />Mi.  28.04.  8:30-10:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64392871352244,
+          51.9401752078421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
         "address": "Scheibenstraße 71",
         "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Sa. 01.05.  10:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
@@ -2293,21 +2308,6 @@
         "coordinates": [
           7.66970900347935,
           52.0123929968501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
-        "address": "Rösnerstraße 10",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.  26.04.  6:00-12:00<br /><br />Mi.  28.04.  8:30-10:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64392871352244,
-          51.9401752078421
         ]
       }
     },
@@ -3156,7 +3156,7 @@
       "properties": {
         "name": "Walk-in Teststelle",
         "address": "Von-Steuben-Straße 21",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a href=\"tel:wuerfel-elberg@kopfherzundhand.de\">wuerfel-elberg@kopfherzundhand.de</a>"
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>, <a href=\"tel:wuerfel-elberg@kopfherzundhand.de\">wuerfel-elberg@kopfherzundhand.de</a>"
       },
       "geometry": {
         "type": "Point",
