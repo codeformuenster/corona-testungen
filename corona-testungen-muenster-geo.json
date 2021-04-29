@@ -124,7 +124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ASB Münster, im Hotel Kaiserhof",
+        "name": "ASB Münster, <br /><br />im Hotel Kaiserhof",
         "address": "Bahnhofstraße 14",
         "info": "Anmeldung online, Testcenter, Hinweis: im ehem. Kosmetikstudio, direkt von der Bahnhofsstr. zugänglich<br /><br />Mo.-Fr.    7:00-12:00<br /><br />Sa.+So.  9:00-14:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>"
       },
@@ -139,7 +139,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ASB Münster, Parkplatz Schlossplatz Nord",
+        "name": "ASB Münster, <br /><br />Parkplatz Schlossplatz Nord",
         "address": "Schlossplatz 24",
         "info": "Anmeldung online, Testcenter, Hinweis: Drive-In Testzentrum<br /><br />mit Auto oder Fahrrad nutzbar<br /><br />Mo.-Fr.    9:00-14:00<br /><br />Sa.+So.  9:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>"
       },
@@ -148,6 +148,21 @@
         "coordinates": [
           7.61692484459796,
           51.9648488456909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ASB Münster, <br /><br />Teststelle Bürgerbad Handorf",
+        "address": "Hobbeltstraße 144",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.71399487321788,
+          51.9939846877956
         ]
       }
     },
@@ -238,6 +253,21 @@
         "coordinates": [
           7.63215434832723,
           51.9608996018651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coronatestzentrum am Dom",
+        "address": "Domplatz 33",
+        "info": "Anmeldung online, Testcenter, Hinweis: ab 03.05., <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testzentrummuenster.de/\">https://www.testzentrummuenster.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62580016755029,
+          51.9630735171935
         ]
       }
     },
@@ -538,6 +568,21 @@
         "coordinates": [
           7.63161821913765,
           51.9460032090621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Katrin Abshagen",
+        "address": "Zum Erlenbusch 47",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/6203040\">0251/6203040</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.67712555507814,
+          51.9214457232709
         ]
       }
     },
@@ -1018,6 +1063,21 @@
         "coordinates": [
           7.69194952816533,
           51.929254293485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fachärzte für Kindermedizin Dr. Markus Stange und Martin Stegat",
+        "address": "Am Berler Kamp 5",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02506/7237\">02506/7237</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.72376333009486,
+          51.9157474673651
         ]
       }
     },
@@ -2255,36 +2315,6 @@
       "type": "Feature",
       "properties": {
         "name": "Medfortis, Test",
-        "address": "Rösnerstraße 10",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.  26.04.  6:00-12:00<br /><br />Mi.  28.04.  8:30-10:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64392871352244,
-          51.9401752078421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
-        "address": "Scheibenstraße 71",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Sa. 01.05.  10:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62592690838567,
-          51.9422683171609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
         "address": "Steinfurter Straße 448",
         "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di. 27.04.  14:00-17:30<br /><br />Fr. 30.04.  14:00-17:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
@@ -2308,6 +2338,36 @@
         "coordinates": [
           7.66970900347935,
           52.0123929968501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
+        "address": "Rösnerstraße 10",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.  26.04.  6:00-12:00<br /><br />Mi.  28.04.  8:30-10:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64392871352244,
+          51.9401752078421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
+        "address": "Scheibenstraße 71",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Sa. 01.05.  10:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62592690838567,
+          51.9422683171609
         ]
       }
     },
@@ -2841,7 +2901,7 @@
       "properties": {
         "name": "Schnellteststelle Düne",
         "address": "Zum Hiltruper See 139",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mi., Do., Fr.   9:00-11:00 + 15:00-18:00<br /><br />Sa., So. 12:00-16:00, <a href=\"tel:015236323727\">015236323727</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo., Mi., Do., Fr.   9:00-12:00 + 14:00-18:00<br /><br />Sa. 10:00-18:00, <a href=\"tel:015236323727\">015236323727</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2878,6 +2938,21 @@
         "coordinates": [
           7.64082483527152,
           51.9533391462439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SportsPlace",
+        "address": "Dieckstraße 71",
+        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, ab 03.05., <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testzentrum-mauritz.de/\">https://www.testzentrum-mauritz.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65471860434522,
+          51.9748537990579
         ]
       }
     },
@@ -3004,6 +3079,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Teststelle an der Stadtbücherei",
+        "address": "Alter Steinweg 11",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: ganzwöchig, mit und ohne Termin, <a target=\"_blank\" rel=\"noopener\" href=\"https://coronatest.ms/booking.php\">https://coronatest.ms/booking.php</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63041647608402,
+          51.963001423953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Teststelle Drive-in <br /><br />Roadstop",
         "address": "Schifffahrter Damm 315",
         "info": "Anmeldung nicht erforderlich, Testcenter, <a href=\"mailto:muenster@coronaschnelltest.nrw\">muenster@coronaschnelltest.nrw</a>, <a target=\"_blank\" rel=\"noopener\" href=\"http://coronaschnelltest.nrw/\">http://coronaschnelltest.nrw/</a>, <a href=\"tel:02302/3984965\">02302/3984965</a>"
@@ -3058,6 +3148,21 @@
         "coordinates": [
           7.65102786918957,
           51.9047756386827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Testzentrum Höltenweg",
+        "address": "Höltenweg 109",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://kompakt-sound.de/testzentrum/\">https://kompakt-sound.de/testzentrum/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65308097931846,
+          51.9240953049494
         ]
       }
     },
