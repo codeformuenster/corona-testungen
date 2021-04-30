@@ -2286,7 +2286,7 @@
       "properties": {
         "name": "Medfortis, Test",
         "address": "August-Horch-Straße 8",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Fr.  23.04.  07:00-12:00<br /><br />Mo.  26.04.  07:00-15:00<br /><br />Fr.  30.04.  07:00-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   07:00-15:00<br /><br />Fr.   07:00-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2301,7 +2301,7 @@
       "properties": {
         "name": "Medfortis, Test",
         "address": "Bergiusstraße 20",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Fr. 23.04.  5:30-14:00<br /><br />Mo. 26.04.  5:30-14:00<br /><br />Mi. 28.04.  5:30-14:00<br /><br />Fr. 30.04.  5:30-14:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   5:30-14:00<br /><br />Mi.   5:30-14:00<br /><br />Fr.   5:30-14:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2316,7 +2316,7 @@
       "properties": {
         "name": "Medfortis, Test",
         "address": "Gustav-Stresemann-Weg 1",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mi. 28.04.  10:30-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mi.   10:30-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2330,8 +2330,38 @@
       "type": "Feature",
       "properties": {
         "name": "Medfortis, Test",
+        "address": "Hammer Straße 455",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.-Sa.  10:00-17:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63205716148924,
+          51.9220095378818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
+        "address": "Johann-Krane-Weg 37",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   9:30-14:30<br /><br />Do.   9:30-14:30<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59681174304018,
+          51.9754547920275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
         "address": "Scheibenstraße 71",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Sa. 01.05.  10:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Sa.   10:00-16:00<br /><br />So.   10:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2345,8 +2375,23 @@
       "type": "Feature",
       "properties": {
         "name": "Medfortis, Test",
+        "address": "Warendorfer Straße 21",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   6:30-15:00<br /><br />Do.   6:30-15:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63966335499129,
+          51.9619037471712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
         "address": "Steinfurter Straße 448",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di. 27.04.  14:00-17:30<br /><br />Fr. 30.04.  14:00-17:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   14:00-17:30<br /><br />Fr.   14:00-17:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2361,7 +2406,7 @@
       "properties": {
         "name": "Medfortis, Test",
         "address": "Köstendeel 20",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di. 27.04.  6:00-8:00<br /><br />Do. 29.04.  6:00-8:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   6:00-8:00<br /><br />Do.   6:00-8:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2376,7 +2421,7 @@
       "properties": {
         "name": "Medfortis, Test",
         "address": "Rösnerstraße 10",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.  26.04.  6:00-12:00<br /><br />Mi.  28.04.  8:30-10:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   6:00-12:00<br /><br />Mi.   8:30-10:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2391,13 +2436,28 @@
       "properties": {
         "name": "Medfortis, Test",
         "address": "Zum Heidehof 80",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo. 26.04.  8:00-11:30 + 13:00-15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   8:00-11:30 + 13:00-15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.6523613918441,
           52.0107032038446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
+        "address": "Willy-Brandt-Weg 37",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   8:00-16:00<br /><br />Do.   8:00-16:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64848623599673,
+          51.935686838012
         ]
       }
     },
