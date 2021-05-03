@@ -2104,7 +2104,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Leezen Heroes, <br /><br />KLOSTER",
+        "name": "Leezen Heroes, <br /><br />KREUZVIERTEL (KLOSTER)",
         "address": "Grevener Straße 61",
         "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />MO.   15:00-16:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
@@ -2166,13 +2166,28 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />SIEMENS",
         "address": "Schuckertstraße 21",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />MI.   12:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />MO.   9:00-10:30<br /><br />MI.   12:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.63851436194379,
           51.9272816016931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leezen Heroes, <br /><br />TOOM",
+        "address": "Hammer Straße 455",
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />SA.   12:00-15:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63155273606589,
+          51.9218598069737
         ]
       }
     },
@@ -2196,7 +2211,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />ZENTRUM NORD",
         "address": "Nevinghoff 16",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />MO.   11:30-14:30<br /><br />FR.   11:30-14:30 (ab 30.04.), <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />MO, MI   11:30-14:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2336,8 +2351,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.63205716148924,
-          51.9220095378818
+          7.63175265074906,
+          51.9215024636066
         ]
       }
     },
