@@ -2375,6 +2375,36 @@
       "type": "Feature",
       "properties": {
         "name": "Medfortis, Test",
+        "address": "Steinfurter Straße 448",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   14:00-17:30<br /><br />Fr.   14:00-17:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57978244398588,
+          51.9904734889588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
+        "address": "Köstendeel 20",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   6:00-8:00<br /><br />Do.   6:00-8:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66970900347935,
+          52.0123929968501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
         "address": "Rösnerstraße 10",
         "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   6:00-12:00<br /><br />Mi.   8:30-10:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
@@ -2420,29 +2450,14 @@
       "type": "Feature",
       "properties": {
         "name": "Medfortis, Test",
-        "address": "Steinfurter Straße 448",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   14:00-17:30<br /><br />Fr.   14:00-17:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+        "address": "Zum Heidehof 80",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   8:00-11:30 + 13:00-15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.57978244398588,
-          51.9904734889588
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
-        "address": "Köstendeel 20",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   6:00-8:00<br /><br />Do.   6:00-8:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.66970900347935,
-          52.0123929968501
+          7.6523613918441,
+          52.0107032038446
         ]
       }
     },
@@ -2458,21 +2473,6 @@
         "coordinates": [
           7.64848623599673,
           51.935686838012
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
-        "address": "Zum Heidehof 80",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   8:00-11:30 + 13:00-15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6523613918441,
-          52.0107032038446
         ]
       }
     },
