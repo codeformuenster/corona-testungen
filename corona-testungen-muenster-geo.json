@@ -619,6 +619,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Dr. Klimberg, Dr. Schulte-Lünzum<br /><br />",
+        "address": "Warendorfer Straße 97",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:praxis@zahnarztteam-muenster.de\">praxis@zahnarztteam-muenster.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.zahnarztteam-muenster.de/\">http://www.zahnarztteam-muenster.de/</a>, <a href=\"tel:0251/34549\">0251/34549</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6475268761355,
+          51.9641972856706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dr. Luise Schilgen, Fachärztin für Kinder- und Jugendmedizin",
         "address": "Geiststraße 38",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten und deren Eltern, <a href=\"tel:0251/521046\">0251/521046</a>"
@@ -1706,8 +1721,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.63113886441679,
-          51.9641337786541
+          7.63131758062643,
+          51.9640009818764
         ]
       }
     },
