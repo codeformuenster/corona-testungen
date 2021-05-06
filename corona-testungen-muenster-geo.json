@@ -1926,7 +1926,7 @@
       "properties": {
         "name": "Kiepenkerl Apotheke",
         "address": "Bergstraße 10",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251/46963\">0251/46963</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/kiepenkerl-apotheke/checkins\">https://app.no-q.info/kiepenkerl-apotheke/checkins</a>, <a href=\"tel:0251/46963\">0251/46963</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1941,7 +1941,7 @@
       "properties": {
         "name": "Kiepenkerl Apotheke",
         "address": "Meesenstiege 54",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kiepenkerl-apo-hiltrup.de/\">https://www.kiepenkerl-apo-hiltrup.de/</a>, <a href=\"tel:02501/921577\">02501/921577</a>"
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/kiepenkerl-apotheke-hiltrup/checkins\">https://app.no-q.info/kiepenkerl-apotheke-hiltrup/checkins</a>, <a href=\"tel:02501/921577\">02501/921577</a>"
       },
       "geometry": {
         "type": "Point",
@@ -3283,6 +3283,21 @@
         "coordinates": [
           7.63164659944107,
           51.9331184839466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Testzentrum am St. Franziskus-Hospital",
+        "address": "Hohenzollernring 70",
+        "info": "Anmeldung online, Testcenter, Hinweis: Mo-Fr 07:00-19:00 Uhr<br /><br />Sa+So 10:00-18:00 Uhr<br /><br /><br /><br />ab dem 10.05.2021, <a target=\"_blank\" rel=\"noopener\" href=\"https://franziskus.chayns.net/\">https://franziskus.chayns.net/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64866758492451,
+          51.9606317202683
         ]
       }
     },
