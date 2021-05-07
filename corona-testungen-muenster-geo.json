@@ -260,14 +260,14 @@
       "type": "Feature",
       "properties": {
         "name": "Corona Testzentrum am Bült",
-        "address": "Bült 10",
+        "address": "Bült 13",
         "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig – auch an Feiertagen, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.muenstertest.de/\">http://www.muenstertest.de/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.63067101782951,
-          51.9637237150878
+          7.63131758062643,
+          51.9640009818764
         ]
       }
     },
@@ -1781,8 +1781,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.63131758062643,
-          51.9640009818764
+          7.63113886441679,
+          51.9641337786541
         ]
       }
     },
