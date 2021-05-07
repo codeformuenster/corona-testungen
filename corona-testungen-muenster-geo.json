@@ -81,7 +81,7 @@
       "properties": {
         "name": "Apotheke am Burloh",
         "address": "Am Burloh 93",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/apotheke-am-burloh/checkins/#\">https://app.no-q.info/apotheke-am-burloh/checkins/#</a>, <a href=\"tel:0251/921331\">0251/921331</a>"
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kinderhaus-testet.de/\">https://www.kinderhaus-testet.de/</a>, <a href=\"tel:0251/921331\">0251/921331</a>"
       },
       "geometry": {
         "type": "Point",
@@ -3140,14 +3140,14 @@
       "type": "Feature",
       "properties": {
         "name": "Schnelltestzentrum Münster Mauritz<br /><br />Dr. Eva-Maria Grewe",
-        "address": "Dechaneistraße 3",
+        "address": "Dechaneischanze 3",
         "info": "Anmeldung online, Testcenter, Hinweis: ab dem 11.05., <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/schnelltestzentrum-muenster-mauritz/checkins#/\">https://app.no-q.info/schnelltestzentrum-muenster-mauritz/checkins#/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.65123168326352,
-          51.9644286082205
+          7.65344504668349,
+          51.964399992886
         ]
       }
     },
