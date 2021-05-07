@@ -2450,6 +2450,21 @@
       "type": "Feature",
       "properties": {
         "name": "Medfortis, Test",
+        "address": "Rösnerstraße 10",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   6:00-12:00<br /><br />Mi.   8:30-10:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64392871352244,
+          51.9401752078421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
         "address": "Scheibenstraße 71",
         "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Sa.   10:00-16:00<br /><br />So.   10:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
@@ -2510,14 +2525,14 @@
       "type": "Feature",
       "properties": {
         "name": "Medfortis, Test",
-        "address": "Rösnerstraße 10",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   6:00-12:00<br /><br />Mi.   8:30-10:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+        "address": "Willy-Brandt-Weg 37",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   8:00-16:00<br /><br />Do.   8:00-16:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.64392871352244,
-          51.9401752078421
+          7.64848623599673,
+          51.935686838012
         ]
       }
     },
@@ -2533,21 +2548,6 @@
         "coordinates": [
           7.6523613918441,
           52.0107032038446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
-        "address": "Willy-Brandt-Weg 37",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   8:00-16:00<br /><br />Do.   8:00-16:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64848623599673,
-          51.935686838012
         ]
       }
     },
@@ -3139,6 +3139,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Schnelltestzentrum Münster Mauritz<br /><br />Dr. Eva-Maria Grewe",
+        "address": "Dechaneistraße 3",
+        "info": "Anmeldung online, Testcenter, Hinweis: ab dem 11.05., <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/schnelltestzentrum-muenster-mauritz/checkins#/\">https://app.no-q.info/schnelltestzentrum-muenster-mauritz/checkins#/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65123168326352,
+          51.9644286082205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "SportsPlace",
         "address": "Dieckstraße 71",
         "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, ab 03.05., <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testzentrum-mauritz.de/\">https://www.testzentrum-mauritz.de/</a>"
@@ -3184,6 +3199,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Stern-Apotheke",
+        "address": "Ludgeristraße 66",
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/stern-apotheke-muenster/checkins#/3306/2021-05-05\">https://app.no-q.info/stern-apotheke-muenster/checkins#/3306/2021-05-05</a>, <a href=\"tel:0251-44910\">0251-44910</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62634530422857,
+          51.9566688395037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Süd-Apotheke",
         "address": "Hammer Straße 101",
         "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.suedviertel-apotheken-muenster.de/\">https://www.suedviertel-apotheken-muenster.de/</a>, <a href=\"tel:0251/7774880\">0251/7774880</a>"
@@ -3206,8 +3236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.6395545880355,
-          51.9453039286841
+          7.63910248969836,
+          51.9448581122497
         ]
       }
     },
@@ -3328,6 +3358,21 @@
         "coordinates": [
           7.71124494604359,
           51.9964183029647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teststelle Ludgeriplatz<br /><br />Stadthaus 2",
+        "address": "Ludgeriplatz 4",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://schnelltest2000.chayns.net/\">https://schnelltest2000.chayns.net/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62700109392126,
+          51.9552108511454
         ]
       }
     },
