@@ -364,6 +364,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "DM",
+        "address": "Friedrich-Ebert-Straße 145",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.dm.de/\">https://www.dm.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6297911895407,
+          51.9434103431369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Domingos Schrader",
         "address": "Münsterstraße 9",
         "info": "Anmeldung per Mail oder telefonisch, Arzt"
@@ -1101,7 +1116,7 @@
       "properties": {
         "name": "Erlebniswelt Sport, <br /><br />Testungen beim BSV Roxel",
         "address": "Tilbecker Straße 34",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -3186,7 +3201,7 @@
       "properties": {
         "name": "Stern-Apotheke",
         "address": "Ludgeristraße 66",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/stern-apotheke-muenster/checkins#/3306/2021-05-05\">https://app.no-q.info/stern-apotheke-muenster/checkins#/3306/2021-05-05</a>, <a href=\"tel:0251-44910\">0251-44910</a>"
+        "info": "Anmeldung nicht erforderlich, Apotheke, Hinweis: ganzwöchig geöffnet<br /><br />auch an Feiertagen, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/stern-apotheke-muenster/checkins#/3306/2021-05-05\">https://app.no-q.info/stern-apotheke-muenster/checkins#/3306/2021-05-05</a>, <a href=\"tel:0251-44910\">0251-44910</a>"
       },
       "geometry": {
         "type": "Point",
