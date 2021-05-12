@@ -3139,6 +3139,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Schnelltestzentrum <br /><br />Dehner Garten Center",
+        "address": "Handorfer Straße 105",
+        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://medicarus.chayns.net/Terminbuchen\">https://medicarus.chayns.net/Terminbuchen</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.70534644629226,
+          51.9777051758099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Schnelltestzentrum Hansaring",
         "address": "Hansaring 33",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://mshansaring.chayns.net/\">https://mshansaring.chayns.net/</a>"
