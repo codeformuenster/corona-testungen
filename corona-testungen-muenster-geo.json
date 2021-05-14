@@ -2450,36 +2450,6 @@
       "type": "Feature",
       "properties": {
         "name": "Medfortis, Test",
-        "address": "Köstendeel 20",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   6:00-8:00<br /><br />Do.   6:00-8:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.66970900347935,
-          52.0123929968501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
-        "address": "Rösnerstraße 10",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   6:00-12:00<br /><br />Mi.   8:30-10:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64392871352244,
-          51.9401752078421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
         "address": "Scheibenstraße 71",
         "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Sa.   10:00-16:00<br /><br />So.   10:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
@@ -2525,14 +2495,29 @@
       "type": "Feature",
       "properties": {
         "name": "Medfortis, Test",
-        "address": "Willy-Brandt-Weg 37",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   8:00-16:00<br /><br />Do.   8:00-16:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+        "address": "Köstendeel 20",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   6:00-8:00<br /><br />Do.   6:00-8:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.64848623599673,
-          51.935686838012
+          7.66970900347935,
+          52.0123929968501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
+        "address": "Rösnerstraße 10",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   6:00-12:00<br /><br />Mi.   8:30-10:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64392871352244,
+          51.9401752078421
         ]
       }
     },
@@ -2548,6 +2533,21 @@
         "coordinates": [
           7.6523613918441,
           52.0107032038446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis, Test",
+        "address": "Willy-Brandt-Weg 37",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   8:00-16:00<br /><br />Do.   8:00-16:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64848623599673,
+          51.935686838012
         ]
       }
     },
