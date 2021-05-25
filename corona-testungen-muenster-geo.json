@@ -3424,6 +3424,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Teststelle Hall of Sports",
+        "address": "Nienkamp 54",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. -  Fr.    8:00-20:00 <br /><br />Sa. + So.  10:00-18:00, <a href=\"tel:0151-16 93 40 98\">0151-16 93 40 98</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61697963531389,
+          51.9833992169379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Teststelle Ludgeriplatz<br /><br />Stadthaus 2",
         "address": "Ludgeriplatz 4",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://schnelltest2000.chayns.net/\">https://schnelltest2000.chayns.net/</a>"
