@@ -966,7 +966,7 @@
       "properties": {
         "name": "Drive-In",
         "address": "Brandhoveweg 101",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: ganzwöchig, <a href=\"mailto:info@kopfherzundhand.de\">info@kopfherzundhand.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: MO - FR   9:00-19:00<br /><br />SA, SO und Feiertags   10:00-16:00, <a href=\"mailto:info@kopfherzundhand.de\">info@kopfherzundhand.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -996,7 +996,7 @@
       "properties": {
         "name": "Drive-in Hallenbad Roxel",
         "address": "Tilbecker Straße 36",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: MO - DO   9:30-19:30<br /><br />FR   8:00-14:00<br /><br />SA   16:00-21:00<br /><br />SO   15:00-20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1011,7 +1011,7 @@
       "properties": {
         "name": "Drive-in Hiltrup",
         "address": "Hansestraße 74",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Sa., <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: MO - SA   15:00-20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -3666,7 +3666,7 @@
       "properties": {
         "name": "Walk-in Teststelle",
         "address": "Von-Steuben-Straße 21",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>, <a href=\"tel:wuerfel-elberg@kopfherzundhand.de\">wuerfel-elberg@kopfherzundhand.de</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: MO - SA   15:00-20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>, <a href=\"tel:wuerfel-elberg@kopfherzundhand.de\">wuerfel-elberg@kopfherzundhand.de</a>"
       },
       "geometry": {
         "type": "Point",
