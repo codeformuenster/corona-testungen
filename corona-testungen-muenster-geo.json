@@ -34,21 +34,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Allgemeinmedizinische Praxis Dr. Wolf-Ulrich Mader &amp; Dr. Stefan Blüggel",
-        "address": "Theodor-Storm-Straße 2",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02501/262626\">02501/262626</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6326407427669,
-          51.9004092532135
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Allwetterzoo Münster",
         "address": "Sentruper Straße 315",
         "info": "Anmeldung online, Testcenter, Hinweis: auf der Parkwiese westlich des Zoos Richtung MS-Roxel, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/allwetterzoo-muenster/checkins#/1789/2021-03-26\">https://app.no-q.info/allwetterzoo-muenster/checkins#/1789/2021-03-26</a>"
@@ -118,6 +103,21 @@
         "coordinates": [
           7.67739587855581,
           51.9562733250653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ASB Münster",
+        "address": "Dieckmannstraße 116",
+        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.563930408233,
+          51.966525255294
         ]
       }
     },
@@ -784,21 +784,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dr. Michael Speidel",
-        "address": "Ringstraße 151",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:02501/2043\">02501/2043</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.66436920236167,
-          51.906357493988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Dr. Navratil u. Dr. Pardon",
         "address": "Idenbrockplatz 22",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten sowie deren Familienmitglieder, <a href=\"tel:0251/211009\">0251/211009</a>"
@@ -1144,6 +1129,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Erlebniswelt Sport, <br /><br />WWU Münster Sportwissenschaften<br /><br />(Ballsporthalle, BSH 41)",
+        "address": "Horstmarer Landweg 68",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59798107071598,
+          51.9725104694968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Erlebniswelt Sport, Testungen beim SC Gremmendorf",
         "address": "Am Hohen Ufer 111",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>"
@@ -1220,14 +1220,14 @@
       "type": "Feature",
       "properties": {
         "name": "FH Münster",
-        "address": "Leonardo-Campus 2",
+        "address": "Leonardo-Campus 6",
         "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo-Fr 07:00-10:00 u 15:00-18:00<br /><br />Sa 09:00-14:00<br /><br />So 09:00-14:00<br /><br /><br /><br />auch ohne Termin möglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>, <a href=\"tel:015156867356\">015156867356</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.60126617945027,
-          51.9745456844022
+          7.60104338033205,
+          51.9756220344611
         ]
       }
     },
@@ -1393,6 +1393,21 @@
         "coordinates": [
           7.64742318194975,
           51.9942280142874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinschaftspraxis Dr. med. Julia Hustert &amp; Dr. med. Sarah Delker",
+        "address": "Arnheimweg 9",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-869090\">0251-869090</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57896978226999,
+          51.966914538395
         ]
       }
     },
@@ -1596,7 +1611,7 @@
       "properties": {
         "name": "Germania die Apotheke",
         "address": "An der Germania Brauerei 3",
-        "info": "Anmeldung nicht erforderlich, Apotheke, Hinweis: ganzwöchig<br /><br />Fronleichnam 9:00-16:00, <a href=\"tel:0251/1332280\">0251/1332280</a>"
+        "info": "Anmeldung online, Apotheke, Hinweis: ganzwöchig<br /><br />Fronleichnam 9:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.germania-die-apotheke.de/\">https://www.germania-die-apotheke.de/</a>, <a href=\"tel:0251/1332280\">0251/1332280</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2419,22 +2434,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Medfortis, Test",
-        "address": "August-Horch-Straße 8",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   07:00-15:00<br /><br />Fr.   07:00-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.66439034352875,
-          51.9952668625312
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
+        "name": "Medfortis, <br /><br />BASF Besucherparkplatz",
         "address": "Bergiusstraße 20",
         "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   5:30-14:00<br /><br />Mi.   5:30-14:00<br /><br />Fr.   5:30-14:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
@@ -2449,52 +2449,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Medfortis, Test",
-        "address": "Gustav-Stresemann-Weg 1",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mi.   10:30-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64215050237708,
-          51.9340223983311
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
-        "address": "Johann-Krane-Weg 37",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   9:30-14:30<br /><br />Do.   9:30-14:30<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.59681174304018,
-          51.9754547920275
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
-        "address": "Warendorfer Straße 21",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   6:30-15:00<br /><br />Do.   6:30-15:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63966335499129,
-          51.9619037471712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
+        "name": "Medfortis, <br /><br />Golfclub Wilkinghege",
         "address": "Steinfurter Straße 448",
         "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   14:00-17:30<br /><br />Fr.   14:00-17:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
@@ -2509,7 +2464,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Medfortis, Test",
+        "name": "Medfortis, <br /><br />Remondis Besucherparkplatz",
         "address": "Köstendeel 20",
         "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   6:00-8:00<br /><br />Do.   6:00-8:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
@@ -2524,7 +2479,22 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Medfortis, Test",
+        "name": "Medfortis,<br /><br />AWM / EZM Besucherparkplatz",
+        "address": "Zum Heidehof 80",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   8:00-11:30 + 13:00-15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6523613918441,
+          52.0107032038446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis,<br /><br />AWM Besucherparkplatz",
         "address": "Rösnerstraße 10",
         "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   6:00-12:00<br /><br />Mi.   8:30-10:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
@@ -2539,22 +2509,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Medfortis, Test",
-        "address": "Scheibenstraße 71",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Sa.   10:00-16:00<br /><br />So.   10:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62592690838567,
-          51.9422683171609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, Test",
+        "name": "Medfortis,<br /><br />Friedenskapelle",
         "address": "Willy-Brandt-Weg 37",
         "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   8:00-16:00<br /><br />Do.   8:00-16:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
@@ -2569,15 +2524,90 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Medfortis, Test",
-        "address": "Zum Heidehof 80",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   8:00-11:30 + 13:00-15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+        "name": "Medfortis,<br /><br />LWL Parkplatz im Innenhof",
+        "address": "Warendorfer Straße 21",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   6:30-15:00<br /><br />Do.   6:30-15:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.6523613918441,
-          52.0107032038446
+          7.63966335499129,
+          51.9619037471712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis,<br /><br />Praxis ProPhysio",
+        "address": "Scheibenstraße 71",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Sa.   10:00-16:00<br /><br />So.   10:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62592690838567,
+          51.9422683171609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis,<br /><br />Saurer Besucherparkplatz",
+        "address": "Gustav-Stresemann-Weg 1",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   10:30-16:00<br /><br />Mi.   10:30-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64215050237708,
+          51.9340223983311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis,<br /><br />Trelock Besucherparkplatz",
+        "address": "Johann-Krane-Weg 37",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   9:30-14:30<br /><br />Do.   9:30-14:30<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59681174304018,
+          51.9754547920275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medfortis,<br /><br />Weicon Besucherparkplatz",
+        "address": "August-Horch-Straße 8",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   07:00-15:00<br /><br />Fr.   07:00-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66439034352875,
+          51.9952668625312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michael Speidel",
+        "address": "Ringstraße 151",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:02501/2043\">02501/2043</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66436920236167,
+          51.906357493988
         ]
       }
     },
@@ -3049,6 +3079,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Praxisgemeinschaft Wolf-Ulrich Mader &amp; Stefan Blüggel",
+        "address": "Theodor-Storm-Straße 2",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02501/262626\">02501/262626</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6326407427669,
+          51.9004092532135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Praxisplus, Dr. Hildegard Quaing, Dr. Christoph Albers, Dr. Martina Robert, Dr. Brigitte Borchard",
         "address": "Steinfurter Straße 56",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/295888\">0251/295888</a>"
@@ -3424,7 +3469,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Teststelle Siemensstraße, <br /><br />MediaMarkt/Viva Fitness",
+        "name": "Teststelle Siemensstraße, <br /><br />Viva Fitness",
         "address": "Robert-Bosch-Straße 2",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://siemens.chayns.net/\">https://siemens.chayns.net/</a>"
       },
@@ -3643,21 +3688,6 @@
         "coordinates": [
           7.63191817456281,
           51.9543149787973
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "WWU Münster, Sportwissenschaften<br /><br />(Ballsporthalle)",
-        "address": "Horstmarer Landweg 68",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.5986639812892,
-          51.9720869999333
         ]
       }
     },
