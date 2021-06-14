@@ -336,7 +336,7 @@
       "properties": {
         "name": "CoviLab GmbH",
         "address": "Im Derdel 8",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"http://covilab.ifg-ms.de/\">http://covilab.ifg-ms.de/</a>, <a href=\"tel:0 25 34/9 77 36 14\">0 25 34/9 77 36 14</a>"
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"http://covilab.ifg-ms.de/\">http://covilab.ifg-ms.de/</a>, <a href=\"tel:0 25 34/ 5386934\">0 25 34/ 5386934</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1159,21 +1159,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Erlebniswelt Sport<br /><br />Testungen beim BSV Roxel",
-        "address": "Tilbecker Straße 34",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.52739639452712,
-          51.9548702800549
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Fachärzte für Kindermedizin Dr. Markus Stange und Martin Stegat",
         "address": "Am Berler Kamp 5",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02506/7237\">02506/7237</a>"
@@ -1611,7 +1596,7 @@
       "properties": {
         "name": "Germania die Apotheke",
         "address": "An der Germania Brauerei 3",
-        "info": "Anmeldung online, Apotheke, Hinweis: ganzwöchig<br /><br />Fronleichnam 9:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.germania-die-apotheke.de/\">https://www.germania-die-apotheke.de/</a>, <a href=\"tel:0251/1332280\">0251/1332280</a>"
+        "info": "Anmeldung nicht erforderlich, Apotheke, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.germania-die-apotheke.de/\">https://www.germania-die-apotheke.de/</a>, <a href=\"tel:0251/1332280\">0251/1332280</a>"
       },
       "geometry": {
         "type": "Point",
@@ -3441,7 +3426,7 @@
       "properties": {
         "name": "Teststelle Hall of Sports",
         "address": "Nienkamp 54",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. -  Fr.    8:00-20:00 <br /><br />Sa. + So.  10:00-18:00<br /><br />Fronleichnam von 10:00-18:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hall-of-sports.de/zuhause/\">https://www.hall-of-sports.de/zuhause/</a>, <a href=\"tel:0151-16 93 40 98\">0151-16 93 40 98</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. -  Fr.    8:00-20:00 <br /><br />Sa. + So.  10:00-18:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hall-of-sports.de/zuhause/\">https://www.hall-of-sports.de/zuhause/</a>, <a href=\"tel:0151-16 93 40 98\">0151-16 93 40 98</a>"
       },
       "geometry": {
         "type": "Point",
