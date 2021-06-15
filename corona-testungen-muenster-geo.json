@@ -2749,6 +2749,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Praxis Dr. Harald Jung<br /><br />Chirurgie Münster",
+        "address": "Hohenzollernring 59",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:0251-30369\">0251-30369</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64712490298182,
+          51.959660892008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Praxis Dr. Hellwig",
         "address": "Hoher Heckenweg 92",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/233661\">0251/233661</a>"
@@ -3426,7 +3441,7 @@
       "properties": {
         "name": "Teststelle Hall of Sports",
         "address": "Nienkamp 54",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. -  Fr.    8:00-20:00 <br /><br />Sa. + So.  10:00-18:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hall-of-sports.de/zuhause/\">https://www.hall-of-sports.de/zuhause/</a>, <a href=\"tel:0151-16 93 40 98\">0151-16 93 40 98</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hall-of-sports.de/zuhause/\">https://www.hall-of-sports.de/zuhause/</a>, <a href=\"tel:0151-16 93 40 98\">0151-16 93 40 98</a>"
       },
       "geometry": {
         "type": "Point",
@@ -3711,7 +3726,7 @@
       "properties": {
         "name": "Zahnarztpraxis Dr. Bernd Lücke",
         "address": "Von-Esmarch-Straße 168",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nicht vom 1.-11.4., <a href=\"mailto:dr.luecke@hotmail.de\">dr.luecke@hotmail.de</a>, <a href=\"tel:0251/8715555\">0251/8715555</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:dr.luecke@hotmail.de\">dr.luecke@hotmail.de</a>, <a href=\"tel:0251/8715555\">0251/8715555</a>"
       },
       "geometry": {
         "type": "Point",
