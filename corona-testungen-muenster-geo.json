@@ -994,21 +994,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Drive-in Hiltrup",
-        "address": "Hansestraße 74",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Montags - Samstags, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63639213772926,
-          51.8936460509664
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Drive-In, auf dem Hornbach Parkplatz",
         "address": "An der Alten Ziegelei 33",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.ingenium-testcenter.de/terminvereinbarung/\">https://www.ingenium-testcenter.de/terminvereinbarung/</a>"
@@ -3409,6 +3394,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Teststelle Heekweg",
+        "address": "Heekweg 12",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: ganzwöchig<br /><br />(ab 23.06.), <a href=\"tel:0174 / 205 48 64\">0174 / 205 48 64</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.56362374192421,
+          51.972474009113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Teststelle Ludgeriplatz<br /><br />Stadthaus 2",
         "address": "Ludgeriplatz 4",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://schnelltest2000.chayns.net/\">https://schnelltest2000.chayns.net/</a>"
@@ -3613,21 +3613,6 @@
         "coordinates": [
           7.57045563104883,
           51.9586290361504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Walk-in Teststelle",
-        "address": "Von-Steuben-Straße 21",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Montags - Samstags, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>, <a href=\"tel:wuerfel-elberg@kopfherzundhand.de\">wuerfel-elberg@kopfherzundhand.de</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63191817456281,
-          51.9543149787973
         ]
       }
     },
