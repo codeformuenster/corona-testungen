@@ -994,21 +994,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Drive-In, auf dem Hornbach Parkplatz",
-        "address": "An der Alten Ziegelei 33",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.ingenium-testcenter.de/terminvereinbarung/\">https://www.ingenium-testcenter.de/terminvereinbarung/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.66827386310401,
-          51.9979093975865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "DRK Hiltrup",
         "address": "Friedhofstraße 15",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.drk-nrw-testzentrum.de/oeffentliche-testzentren/aYLFxn\">https://www.drk-nrw-testzentrum.de/oeffentliche-testzentren/aYLFxn</a>"
