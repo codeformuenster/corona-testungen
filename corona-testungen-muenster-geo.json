@@ -2496,7 +2496,7 @@
       "properties": {
         "name": "Medfortis,<br /><br />Weicon Besucherparkplatz",
         "address": "August-Horch-Straße 8",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   07:00-15:00<br /><br />Fr.   07:00-14:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   07:00-15:00<br /><br />Fr.   07:00-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -3111,7 +3111,7 @@
       "properties": {
         "name": "Schnelltestzentrum <br /><br />Dehner Garten Center",
         "address": "Handorfer Straße 105",
-        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://medicarus.chayns.net/\">https://medicarus.chayns.net/</a>, <a href=\"tel:02 51/32 89 55\">02 51/32 89 55</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://medicarus.chayns.net/\">https://medicarus.chayns.net/</a>"
       },
       "geometry": {
         "type": "Point",
