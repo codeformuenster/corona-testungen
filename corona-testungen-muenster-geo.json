@@ -844,21 +844,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dr. Saskia Holstiege Praxis",
-        "address": "Mauritzstraße 23",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"mailto:praxis@dr-holstiege.de\">praxis@dr-holstiege.de</a>, <a href=\"tel:0251 48168768\">0251 48168768</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63344972938973,
-          51.9623353220368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Dr. Thomas Duda",
         "address": "Bohlweg 59",
         "info": "Anmeldung per Mail oder telefonisch, Arzt"
@@ -1873,21 +1858,6 @@
         "coordinates": [
           7.64752345451279,
           51.938678992032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Hohenzollern Apotheke, Im Sportzentrum Kinderhaus",
-        "address": "Bernd-Feldhaus-Platz 1",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hza.de/corona-test\">https://www.hza.de/corona-test</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.60716032000362,
-          52.0009070406195
         ]
       }
     },
