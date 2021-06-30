@@ -3124,6 +3124,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Teststation am Heekweg",
+        "address": "Heekweg 12",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: ganzwöchig<br /><br />(ab 28.06.), <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststation-am-heekweg/checkins\">https://app.no-q.info/teststation-am-heekweg/checkins</a>, <a href=\"tel:0174 / 205 48 64\">0174 / 205 48 64</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.56362374192421,
+          51.972474009113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Teststelle an der Stadtbücherei",
         "address": "Alter Steinweg 11",
         "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: ganzwöchig, mit und ohne Termin, <a target=\"_blank\" rel=\"noopener\" href=\"https://coronatest.ms/booking.php\">https://coronatest.ms/booking.php</a>"
@@ -3163,21 +3178,6 @@
         "coordinates": [
           7.71124494604359,
           51.9964183029647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Teststelle Heekweg",
-        "address": "Heekweg 12",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: ganzwöchig<br /><br />(ab 28.06.), <a href=\"tel:0174 / 205 48 64\">0174 / 205 48 64</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.56362374192421,
-          51.972474009113
         ]
       }
     },
