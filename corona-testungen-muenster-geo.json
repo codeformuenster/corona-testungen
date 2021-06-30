@@ -19,21 +19,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Allwetterzoo Münster",
-        "address": "Sentruper Straße 315",
-        "info": "Anmeldung online, Testcenter, Hinweis: auf der Parkwiese westlich des Zoos Richtung MS-Roxel, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/allwetterzoo-muenster/checkins#/1789/2021-03-26\">https://app.no-q.info/allwetterzoo-muenster/checkins#/1789/2021-03-26</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.58345093625564,
-          51.9466743075501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Annen Apotheke",
         "address": "Am Hof Hesselmann 10",
         "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.covisa.de\">https://www.covisa.de</a>, <a href=\"tel:0251/717380\">0251/717380</a>"
@@ -2584,21 +2569,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Park-Apotheke, Mondstraße 81,  in den Räumen des Gemeindehauses der Ev. Auferstehungsgemeinde",
-        "address": "Laerer Landweg 159",
-        "info": "Anmeldung online, Apotheke, Hinweis: nur mit online Registrierung, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/park-apotheke-muenster/checkins#\">https://app.no-q.info/park-apotheke-muenster/checkins#</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.67058971269559,
-          51.953652042957
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Praxis am Osttor, Dr. Tobias Feeken",
         "address": "Osttor 74",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:02501/70294\">02501/70294</a>"
@@ -3313,21 +3283,6 @@
         "coordinates": [
           7.71124494604359,
           51.9964183029647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Teststelle Hall of Sports",
-        "address": "Nienkamp 54",
-        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hall-of-sports.de/zuhause/\">https://www.hall-of-sports.de/zuhause/</a>, <a href=\"tel:0151-16 93 40 98\">0151-16 93 40 98</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.61697963531389,
-          51.9833992169379
         ]
       }
     },
