@@ -1504,21 +1504,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hansa-Apotheke",
-        "address": "Wolbecker Straße 65",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Anmeldung über Homepage, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.meine-hansa-apotheke.de/home/\">https://www.meine-hansa-apotheke.de/home/</a>, <a href=\"tel:0251/64498\">0251/64498</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64206910617493,
-          51.9569501577671
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Hausarzt am Germaniacampus, Harald Hennig",
         "address": "Grevener Straße 105",
         "info": "Anmeldung per Mail oder telefonisch, Arzt"
@@ -2233,111 +2218,6 @@
         "coordinates": [
           7.65405523058457,
           51.9031917976163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, <br /><br />Remondis Besucherparkplatz",
-        "address": "Köstendeel 20",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   6:00-8:00<br /><br />Do.   6:00-8:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.66970900347935,
-          52.0123929968501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis,<br /><br />AWM / EZM Besucherparkplatz",
-        "address": "Zum Heidehof 80",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   8:00-11:30 + 13:00-15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6523613918441,
-          52.0107032038446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis,<br /><br />AWM Besucherparkplatz",
-        "address": "Rösnerstraße 10",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   6:00-12:00<br /><br />Mi.   8:30-10:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64392871352244,
-          51.9401752078421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis,<br /><br />LWL Parkplatz im Innenhof",
-        "address": "Warendorfer Straße 21",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Di.   6:30-15:00<br /><br />Do.   6:30-15:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63966335499129,
-          51.9619037471712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis,<br /><br />Praxis ProPhysio",
-        "address": "Scheibenstraße 71",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Sa.   10:00-16:00<br /><br />So.   10:00-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62592690838567,
-          51.9422683171609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis,<br /><br />Saurer Besucherparkplatz",
-        "address": "Gustav-Stresemann-Weg 1",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   10:30-16:00<br /><br />Mi.   10:30-16:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64215050237708,
-          51.9340223983311
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis,<br /><br />Weicon Besucherparkplatz",
-        "address": "August-Horch-Straße 8",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   07:00-15:00<br /><br />Fr.   07:00-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.66439034352875,
-          51.9952668625312
         ]
       }
     },
