@@ -229,21 +229,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Corona-Testzentrum<br /><br />am Erbdrostenhof",
-        "address": "Salzstraße 38",
-        "info": "Anmeldung online, Testcenter, Hinweis: Montags - Samstags, <a target=\"_blank\" rel=\"noopener\" href=\"https://corona-test-muenster.covidservicepoint.de/\">https://corona-test-muenster.covidservicepoint.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63215434832723,
-          51.9608996018651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Coronatestzentrum am Dom",
         "address": "Domplatz 33",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testzentrummuenster.de/\">https://www.testzentrummuenster.de/</a>"
@@ -261,7 +246,7 @@
       "properties": {
         "name": "CovidCare MS/Teststelle Kinderhaus<br /><br />(ALDI Parkplatz)",
         "address": "Idenbrockplatz 27",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Montags - Samstags, <a target=\"_blank\" rel=\"noopener\" href=\"http://testtermin.de/covidcare-ms\">http://testtermin.de/covidcare-ms</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Montags - Samstags, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testen365.de/buchen/2\">https://www.testen365.de/buchen/2</a>"
       },
       "geometry": {
         "type": "Point",
