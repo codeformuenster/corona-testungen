@@ -2871,7 +2871,7 @@
       "properties": {
         "name": "Teststation am Heekweg",
         "address": "Heekweg 12",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: ganzwöchig<br /><br />(ab 28.06.), <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststation-am-heekweg/checkins\">https://app.no-q.info/teststation-am-heekweg/checkins</a>, <a href=\"tel:0174 / 205 48 64\">0174 / 205 48 64</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststation-am-heekweg/checkins\">https://app.no-q.info/teststation-am-heekweg/checkins</a>, <a href=\"tel:0174 / 205 48 64\">0174 / 205 48 64</a>"
       },
       "geometry": {
         "type": "Point",
