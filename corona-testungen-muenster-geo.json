@@ -2106,7 +2106,7 @@
       "properties": {
         "name": "Medfortis, <br /><br />BASF Besucherparkplatz",
         "address": "Bergiusstraße 20",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   5:30-14:00<br /><br />Mi.   5:30-14:00<br /><br />Fr.   5:30-14:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   5:30-14:00<br /><br />Mi.   5:30-14:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2713,6 +2713,21 @@
         "coordinates": [
           7.70534644629226,
           51.9777051758099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schnelltestzentrum Hansaring",
+        "address": "Hansaring 33",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://mshansaring.chayns.net/\">https://mshansaring.chayns.net/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64082483527152,
+          51.9533391462439
         ]
       }
     },
