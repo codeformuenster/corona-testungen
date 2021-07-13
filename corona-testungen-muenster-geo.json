@@ -1294,21 +1294,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gemeinschaftspraxis Dr. Timo Altenkämper, Dr. Christina Mosler, Dr. Achim Schick",
-        "address": "Albersloher Weg 467",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/61328\">0251/61328</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.67009618138633,
-          51.9265546890304
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Gemeinschaftspraxis Dr. Wehmeyer, Dr. Westrick",
         "address": "Cheruskerring 73",
         "info": "Anmeldung per Mail oder telefonisch, Arzt"
@@ -2149,21 +2134,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "MVZ Medicum Münster, Dr. Hendrik Oen, Dr. Mayke Austermann, Dr. Hans-Jürgen Rauba",
-        "address": "Handorfer Straße 20",
-        "info": "Anmeldung nicht erforderlich, Arzt, Hinweis: ohne Anmeldung"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.69877746562506,
-          51.9863275932263
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "MVZ Medicum Münster, Dr. Martina Hoppe, Dr. Nicola Lüpke",
         "address": "Reinerskamp 1",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/23938020\">0251/23938020</a>"
@@ -2188,21 +2158,6 @@
         "coordinates": [
           7.69852651721905,
           51.9874487622436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MVZ Medicum Münster, Dr. Tanja Heuerman, Dr. Michael Verpoort, Dorothee Mühlberger",
-        "address": "Warendorfer Straße 185",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.65703912160401,
-          51.9673633134161
         ]
       }
     },
