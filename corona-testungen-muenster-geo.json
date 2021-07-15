@@ -1294,21 +1294,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gemeinschaftspraxis, Dr. Rolf Surmann",
-        "address": "Windthorststraße 8",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/58800\">0251/58800</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63322891021678,
-          51.9571535778327
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Georg Wünstel",
         "address": "Neuer Heidkamp 12",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/211615\">0251/211615</a>"
@@ -2269,21 +2254,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Praxis Mauritztor, Margitta Orgaß-Krüger",
-        "address": "Warendorfer Straße 3",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/42244\">0251/42244</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63676189433772,
-          51.9620680036596
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Praxis Piusallee, Dr. Matthias Funcke und Dr. Tim Hartwig",
         "address": "Piusallee 30",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02 51/4 50 13\">02 51/4 50 13</a>"
@@ -2293,21 +2263,6 @@
         "coordinates": [
           7.63818116684568,
           51.9642244349549
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Praxis Pommernstraße, Dr. Johannes Fühner, Julia Hegge",
-        "address": "Pommernstraße 4",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/61141\">0251/61141</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.67665561313391,
-          51.9196241265548
         ]
       }
     },
