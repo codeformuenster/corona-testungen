@@ -379,21 +379,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dr. Carsten Schriek",
-        "address": "Gertrudenstraße 29",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/53096910\">0251/53096910</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62060992496783,
-          51.9709344538848
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Dr. Chawki Soueilleh",
         "address": "Friedrich-Ebert-Straße 134",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/775332\">0251/775332</a>"
@@ -433,21 +418,6 @@
         "coordinates": [
           7.64338738267057,
           51.9778798483812
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dr. Claus-Dietmer Richter",
-        "address": "Windthorststraße 65",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/43377\">0251/43377</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6282920700369,
-          51.9591642389206
         ]
       }
     },
@@ -2029,51 +1999,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "MVZ Medicum Münster, Dr. Martina Hoppe, Dr. Nicola Lüpke",
-        "address": "Reinerskamp 1",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/23938020\">0251/23938020</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7107814983915,
-          51.9973393564918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MVZ Medicum Münster, Dr. Peter Hamann",
-        "address": "Handorfer Straße 10",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/324481\">0251/324481</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.69852651721905,
-          51.9874487622436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MVZ Medicum Münster, Thomas Post, Dr. Anne Waltering, Dr. Martin Ostermann",
-        "address": "Hogenbergstraße 15",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/787330\">0251/787330</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62158108806199,
-          51.9269406438856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "MyMedMS",
         "address": "Spiekerhof 23",
         "info": "Anmeldung online, Testcenter, Hinweis: nur am Wochenende, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster.covidservicepoint.de/\">https://muenster.covidservicepoint.de/</a>"
@@ -2398,21 +2323,6 @@
         "coordinates": [
           7.64759908930361,
           51.9642160983882
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Praxis Sofroniou",
-        "address": "Hansaring 11",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"mailto:info.sofroniou@t-online.de\">info.sofroniou@t-online.de</a>, <a href=\"tel:0251/620 98 98\">0251/620 98 98</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63834187758822,
-          51.953157596395
         ]
       }
     },
@@ -2953,21 +2863,6 @@
         "coordinates": [
           7.57335006977654,
           51.9362208469668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Thomas Backhaus",
-        "address": "Windthorststraße 16",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/46881\">0251/46881</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63242327268321,
-          51.9573240550462
         ]
       }
     },
