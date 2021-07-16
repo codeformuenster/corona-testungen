@@ -1970,8 +1970,53 @@
       "type": "Feature",
       "properties": {
         "name": "mobiler Impfbus",
+        "address": "Hamannplatz 29",
+        "info": "Anmeldung nicht erforderlich, Hinweis: Dienstag 20.07.21 von 10:00 - 13:00 <br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.asb-muensterland.de/ueber-uns/aktuelles/meldung/mobiles-impfangebot-jetzt-samstag-und-sonntag-vorbeikommen\">https://www.asb-muensterland.de/ueber-uns/aktuelles/meldung/mobiles-impfangebot-jetzt-samstag-und-sonntag-vorbeikommen</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64780717368746,
+          51.9940525923246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mobiler Impfbus",
+        "address": "Haus Uhlenkotten 28",
+        "info": "Anmeldung nicht erforderlich, Hinweis: Sonntag 18.07.21 von 11:00 - 17:00 <br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.asb-muensterland.de/ueber-uns/aktuelles/meldung/mobiles-impfangebot-jetzt-samstag-und-sonntag-vorbeikommen\">https://www.asb-muensterland.de/ueber-uns/aktuelles/meldung/mobiles-impfangebot-jetzt-samstag-und-sonntag-vorbeikommen</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57017515157756,
+          51.9916790068894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mobiler Impfbus",
+        "address": "Sprickmannplatz 8",
+        "info": "Anmeldung nicht erforderlich, Hinweis: Donnerstag 22.07.21 von 14:00 - 17:00 <br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.asb-muensterland.de/ueber-uns/aktuelles/meldung/mobiles-impfangebot-jetzt-samstag-und-sonntag-vorbeikommen\">https://www.asb-muensterland.de/ueber-uns/aktuelles/meldung/mobiles-impfangebot-jetzt-samstag-und-sonntag-vorbeikommen</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59485225116011,
+          51.9989894929169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mobiler Impfbus",
         "address": "Fiffi-Gerritzen-Weg 1",
-        "info": "Anmeldung nicht erforderlich, Hinweis: Samstag 17.07.21 von 8:00 - 13:00 <br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und (falls vorhanden)<br /><br />Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.asb-muensterland.de/ueber-uns/aktuelles/meldung/mobiles-impfangebot-jetzt-samstag-und-sonntag-vorbeikommen\">https://www.asb-muensterland.de/ueber-uns/aktuelles/meldung/mobiles-impfangebot-jetzt-samstag-und-sonntag-vorbeikommen</a>"
+        "info": "Anmeldung nicht erforderlich, Hinweis: Samstag 17.07.21 von 8:00 - 13:00 <br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.asb-muensterland.de/ueber-uns/aktuelles/meldung/mobiles-impfangebot-jetzt-samstag-und-sonntag-vorbeikommen\">https://www.asb-muensterland.de/ueber-uns/aktuelles/meldung/mobiles-impfangebot-jetzt-samstag-und-sonntag-vorbeikommen</a>"
       },
       "geometry": {
         "type": "Point",
