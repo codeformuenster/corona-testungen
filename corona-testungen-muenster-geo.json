@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "",
+        "address": "Hogenbergstraße 9",
+        "info": "Testcenter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62118462591891,
+          51.92753844349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Adler Apotheke",
         "address": "Salzstraße 58",
         "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/adler-apotheke-muenster/checkins\">https://app.no-q.info/adler-apotheke-muenster/checkins</a>, <a href=\"tel:0251/414710\">0251/414710</a>"
@@ -553,21 +568,6 @@
         "coordinates": [
           7.62114617516575,
           51.9501430635924
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dr. Martina Terstiege",
-        "address": "Westerheide 22",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-1442874\">0251-1442874</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.67548926710408,
-          52.0283371389658
         ]
       }
     },
@@ -1963,21 +1963,6 @@
         "coordinates": [
           7.64975077734089,
           51.9405658330973
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "mobiler Impfbus<br /><br />Sprickmannplatz",
-        "address": "Sprickmannplatz 8",
-        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Donnerstag 22.07.21 von 14:00 - 17:00 <br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.59551034631238,
-          51.9989074266214
         ]
       }
     },
