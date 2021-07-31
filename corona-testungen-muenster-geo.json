@@ -6,13 +6,13 @@
       "properties": {
         "name": "",
         "address": "Hogenbergstraße 9",
-        "info": "Testcenter"
+        "info": "Anmeldung online, Testcenter, <a href=\"mailto:bf@testen365.de\">bf@testen365.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://bf.testen365.de/\">https://bf.testen365.de/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.62118462591891,
-          51.92753844349
+          7.62056910213429,
+          51.9272165220755
         ]
       }
     },
@@ -146,8 +146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.61692484459796,
-          51.9648488456909
+          7.6168328802433,
+          51.9659447454749
         ]
       }
     },
@@ -1939,9 +1939,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Medfortis, <br /><br />Freizeitpark Schlossplatz",
+        "address": "Schlossplatz 1",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />vom 31.07. - 15.08.21<br /><br /><br /><br />Mo.-Do.   14:00-21:00<br /><br />Fr.-Sa.     14:00-22:30<br /><br />So.          11:00-21:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61655083155636,
+          51.9651771423157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "mobiler Impfbus<br /><br />E-Center",
         "address": "Meesenstiege 54",
-        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Freitag 23.07.21 von 14:00 - 17:00 <br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
+        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Freitag 20.08.21 von 14:00 - 17:00 <br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1954,15 +1969,105 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "mobiler Impfbus<br /><br />Hamannplatz",
+        "address": "Hamannplatz 29",
+        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Dienstag 17.08.21 von 10:00 - 13:00 <br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64780717368746,
+          51.9940525923246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mobiler Impfbus<br /><br />Kirche St. Margareta",
+        "address": "Hegerskamp 1",
+        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Freitag 30.07.21 von 14:00 - 17:00 <br /><br />Freitag 27.08.21 von 14:00 - 17:00<br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.67128288636783,
+          51.9503869218035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "mobiler Impfbus<br /><br />Marktkauf",
         "address": "Loddenheide 3",
-        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Samstag 31.07.21 von 10:00 - 16:00 <br /><br />Sonntag 01.08.21 von 11:00 - 17:00<br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
+        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Samstag 31.07.21 von 10:00 - 16:00 <br /><br />Sonntag 01.08.21 von 11:00 - 17:00<br /><br />Samstag 28.08.21 von 10:00 - 16:00<br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.64975077734089,
           51.9405658330973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mobiler Impfbus<br /><br />Parkplatz Hallenbad Wolbeck",
+        "address": "Brandhoveweg 101",
+        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Donnerstag 29.07.21 von 14:00 - 17:00 <br /><br />Donnerstag 26.08.21 von 14:00 - 17:00<br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.71488532312846,
+          51.9160464921806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mobiler Impfbus<br /><br />Parkplatz Höffner",
+        "address": "Haus Uhlenkotten 28",
+        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Sonntag 15.08.21 von 11:00 - 17:00 <br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57017515157756,
+          51.9916790068894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mobiler Impfbus<br /><br />Parkplatz Preußen<br /><br />(Heimspiel Preußen)",
+        "address": "Fiffi-Gerritzen-Weg 1",
+        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Samstag 14.08.21 von 8:00 - 11:00 <br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62531376999038,
+          51.9318667838146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mobiler Impfbus<br /><br />Sprickmannplatz",
+        "address": "Sprickmannplatz 8",
+        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Donnerstag 19.08.21 von 14:00 - 17:00 <br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59551034631238,
+          51.9989074266214
         ]
       }
     },
