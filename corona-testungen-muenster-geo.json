@@ -1550,14 +1550,14 @@
       "type": "Feature",
       "properties": {
         "name": "Hohenzollern Apotheke an der Roxeler Straße",
-        "address": "Roxeler Straße 559",
+        "address": "Pantaleonplatz 5",
         "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hza.de/corona-test\">https://www.hza.de/corona-test</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5378957035932,
-          51.9546684507144
+          7.53429499025226,
+          51.9535176931533
         ]
       }
     },
@@ -1986,7 +1986,7 @@
       "properties": {
         "name": "mobiler Impfbus<br /><br />Kirche St. Margareta",
         "address": "Hegerskamp 1",
-        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Freitag 30.07.21 von 14:00 - 17:00 <br /><br />Freitag 27.08.21 von 14:00 - 17:00<br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
+        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Freitag 27.08.21 von 14:00 - 17:00<br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2001,7 +2001,7 @@
       "properties": {
         "name": "mobiler Impfbus<br /><br />Marktkauf",
         "address": "Loddenheide 3",
-        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Samstag 31.07.21 von 10:00 - 16:00 <br /><br />Sonntag 01.08.21 von 11:00 - 17:00<br /><br />Samstag 28.08.21 von 10:00 - 16:00<br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
+        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Samstag 28.08.21 von 10:00 - 16:00<br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2016,7 +2016,7 @@
       "properties": {
         "name": "mobiler Impfbus<br /><br />Parkplatz Hallenbad Wolbeck",
         "address": "Brandhoveweg 101",
-        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Donnerstag 29.07.21 von 14:00 - 17:00 <br /><br />Donnerstag 26.08.21 von 14:00 - 17:00<br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
+        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Donnerstag 26.08.21 von 14:00 - 17:00<br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
       },
       "geometry": {
         "type": "Point",
