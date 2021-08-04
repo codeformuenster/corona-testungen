@@ -426,7 +426,7 @@
       "properties": {
         "name": "Dr. Dr. Wolfgang Treder",
         "address": "Hohenzollernring 70",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:0251/9354229\">0251/9354229</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"tel:0251/9354362\">0251/9354362</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1099,21 +1099,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gemeinschaftspraxis Dr. Wehmeyer, Dr. Westrick",
-        "address": "Cheruskerring 73",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63039184472899,
-          51.9738360439386
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Gemeinschaftspraxis Dres. Fuchs &amp; Hieronymus",
         "address": "Gartenstiege 1",
         "info": "Anmeldung online, Arzt, <a target=\"_blank\" rel=\"noopener\" href=\"https://hausarzt-nienberge.probatix.de\">https://hausarzt-nienberge.probatix.de</a>, <a href=\"tel:02533/2022\">02533/2022</a>"
@@ -1356,7 +1341,7 @@
       "properties": {
         "name": "Hausarztpraxis auf der Geist, Marcus Kleinhans, Dr. Armin Schuster, Dr. Cornelia Werbick",
         "address": "Metzer Straße 59",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: bis 15.08."
       },
       "geometry": {
         "type": "Point",
@@ -2224,21 +2209,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Praxis für Innere Medizin",
-        "address": "Sprickmannplatz 2",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/212120\">0251/212120</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.59483129019796,
-          51.9987284860793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Praxis für Kinder- und Jugendmedizin Dr. Andrea Kosch",
         "address": "Dorbaumstraße 10",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: Kinder und deren Familienangehörige, <a href=\"mailto:Praxis-handorf@t-online.de\">Praxis-handorf@t-online.de</a>, <a href=\"tel:0251/53098888\">0251/53098888</a>"
@@ -2953,21 +2923,6 @@
         "coordinates": [
           7.6121718541391,
           51.9594428853541
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Zahnarztpraxis ZÄHNE IM ZENTRUM",
-        "address": "Hafenstraße 43",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251 / 51 92 92\">0251 / 51 92 92</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.632130047367,
-          51.9540476914148
         ]
       }
     },
