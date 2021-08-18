@@ -814,21 +814,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Erlebniswelt Sport, <br /><br />Testungen bei TuS Saxonia",
-        "address": "August-Schepers-Straße 20",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.653594977549,
-          51.9521101661282
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Erlebniswelt Sport, <br /><br />WWU Münster Sportwissenschaften<br /><br />(Ballsporthalle, BSH 41)",
         "address": "Horstmarer Landweg 68",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>"
@@ -838,21 +823,6 @@
         "coordinates": [
           7.59798107071598,
           51.9725104694968
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Erlebniswelt Sport, Testungen beim SC Gremmendorf",
-        "address": "Am Hohen Ufer 111",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.69194952816533,
-          51.929254293485
         ]
       }
     },
@@ -1864,21 +1834,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "mobiler Impfbus<br /><br />Hamannplatz",
-        "address": "Hamannplatz 29",
-        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Dienstag 17.08.21 von 10:00 - 13:00 <br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64780717368746,
-          51.9940525923246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "mobiler Impfbus<br /><br />Jobcenter / Ludgerikreisel",
         "address": "Ludgeriplatz 4",
         "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Samstag 25.08.21 von 10:00 - 16:00 <br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
@@ -2494,21 +2449,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Testcenter Münster <br /><br />(Aasee)",
-        "address": "Am Stadtgraben 52",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://15minutentest.de/muenster-aasee/\">https://15minutentest.de/muenster-aasee/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.61937264772699,
-          51.9576662759221
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "TestCov Münster Poco",
         "address": "Weseler Straße 579",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://testcov-muenster.ticketbird.de/\">https://testcov-muenster.ticketbird.de/</a>"
@@ -2561,8 +2501,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.56362374192421,
-          51.972474009113
+          7.56353832833078,
+          51.9728686010089
         ]
       }
     },
