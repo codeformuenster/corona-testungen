@@ -1436,8 +1436,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.53429499025226,
-          51.9535176931533
+          7.53443030684391,
+          51.9533845017826
         ]
       }
     },
@@ -1789,45 +1789,15 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Medfortis, <br /><br />BASF Besucherparkplatz",
-        "address": "Bergiusstraße 20",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />Mo.   5:30-14:00<br /><br />Mi.   5:30-14:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.65405523058457,
-          51.9031917976163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Medfortis, <br /><br />CINEPLEX / HAFEN",
         "address": "Albersloher Weg 14",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br /><br /><br />Fr.-Sa.     16:00-22:30<br /><br />So.          10:00-14:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br /><br /><br />Fr.-Sa.     16:00-22:30<br /><br />So.          10:00-14:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.63670382329838,
           51.9505490461331
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, <br /><br />Freizeitpark Schlossplatz",
-        "address": "Schlossplatz 1",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />vom 31.07. - 15.08.21<br /><br /><br /><br />Mo.-Do.   14:00-21:00<br /><br />Fr.-Sa.     14:00-22:30<br /><br />So.          11:00-21:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.61655083155636,
-          51.9651771423157
         ]
       }
     },
