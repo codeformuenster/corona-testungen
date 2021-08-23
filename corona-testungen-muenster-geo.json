@@ -1819,24 +1819,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "mobiler Impfbus<br /><br />E-Center",
-        "address": "Meesenstiege 54",
-        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Freitag 20.08.21 von 14:00 - 17:00 <br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62446978954176,
-          51.9023821205136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "mobiler Impfbus<br /><br />Jobcenter / Ludgerikreisel",
         "address": "Ludgeriplatz 4",
-        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Samstag 25.08.21 von 10:00 - 16:00<br /><br />Mittwoch 15.09.21 von 08:00 - 14:00 <br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
+        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Mittwoch 25.08.21 von 10:00 - 16:00<br /><br />Mittwoch 15.09.21 von 08:00 - 14:00 <br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
       },
       "geometry": {
         "type": "Point",
