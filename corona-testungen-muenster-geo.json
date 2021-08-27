@@ -79,21 +79,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ärztehaus Mondstraße, Dr. Matthias Döring, Dr. Karen Steinhaus",
-        "address": "Mondstraße 179",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:mail@aerztehaus-mondstrasse.de\">mail@aerztehaus-mondstrasse.de</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.67739587855581,
-          51.9562733250653
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "ASB Münster",
         "address": "Dieckmannstraße 116",
         "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>"
@@ -1768,6 +1753,21 @@
         "coordinates": [
           7.62837991344215,
           51.9591472790666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Margareten Apotheke",
+        "address": "Wolbecker Straße 226",
+        "info": "Anmeldung online, Apotheke, Hinweis: Corona Test nur nach schriftlicher Voranmeldung., <a href=\"mailto:margareten-apotheke@t-online.de\">margareten-apotheke@t-online.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.margareten-apotheke.de/\">https://www.margareten-apotheke.de/</a>, <a href=\"tel:0251/39779699\">0251/39779699</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66582061692473,
+          51.9510624577695
         ]
       }
     },
