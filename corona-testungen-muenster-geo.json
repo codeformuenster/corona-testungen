@@ -1384,6 +1384,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "HNO Praxis Enver Camuz",
+        "address": "Heekweg 15",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251 42007\">0251 42007</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5640995793672,
+          51.9730732636767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "HNO Zentrum Münsterland, <br /><br />Dr. B. Hustert , Prof. Dr. R. Heermann<br /><br />",
         "address": "Warendorfer Straße 97",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/39004518\">0251/39004518</a>"
