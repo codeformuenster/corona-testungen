@@ -799,21 +799,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Erlebniswelt Sport, <br /><br />WWU Münster Sportwissenschaften<br /><br />(Ballsporthalle, BSH 41)",
-        "address": "Horstmarer Landweg 68",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.59798107071598,
-          51.9725104694968
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Fachärzte für Kindermedizin Dr. Markus Stange und Martin Stegat",
         "address": "Am Berler Kamp 5",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02506/7237\">02506/7237</a>"
@@ -838,21 +823,6 @@
         "coordinates": [
           7.59544122019375,
           51.9685328644127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "FH Münster",
-        "address": "Leonardo-Campus 6",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: ganzwöchig<br /><br />auch ohne Termin möglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>, <a href=\"tel:015156867356\">015156867356</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.60104338033205,
-          51.9756220344611
         ]
       }
     },
@@ -1894,21 +1864,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "mobiler Impfbus<br /><br />Sprickmannplatz",
-        "address": "Sprickmannplatz 8",
-        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Montag 06.09.21 von 14:00 - 17:00 <br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.59551034631238,
-          51.9989074266214
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Münster testet GbR",
         "address": "Hafenstraße 64",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-testet.chayns.net/\">https://muenster-testet.chayns.net/</a>"
@@ -2728,36 +2683,6 @@
         "coordinates": [
           7.62349679614856,
           51.9603401268744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Uni-Impfung<br /><br />Fürstenberghaus<br /><br />(keine Impfbusaktion)",
-        "address": "Domplatz 20",
-        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Mittwoch 01.09.21 von 8:00 - 16:00 <br /><br /><br /><br />für Personen ab 16 Jahren<br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.uni-muenster.de/de/corona-studi-infos.html\">https://www.uni-muenster.de/de/corona-studi-infos.html</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62375691058174,
-          51.9618267883718
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Uni-Impfung<br /><br />Viva Campus Cafe / Mensa<br /><br />(keine Impfbusaktion)",
-        "address": "Domagkstraße 61",
-        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Donnerstag 02.09.21 von 11:00 - 14:30 <br /><br /><br /><br />für Personen ab 16 Jahren<br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.uni-muenster.de/de/corona-studi-infos.html\">https://www.uni-muenster.de/de/corona-studi-infos.html</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.60046619766662,
-          51.9651758722842
         ]
       }
     },
