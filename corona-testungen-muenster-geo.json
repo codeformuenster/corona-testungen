@@ -1849,21 +1849,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "mobiler Impfbus<br /><br />Marktkauf Gievenbeck",
-        "address": "Roxeler Straße 416",
-        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Dienstag 07.09.21 von 14:00 - 17:00<br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.57040976709334,
-          51.9577832600423
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Münster testet GbR",
         "address": "Hafenstraße 64",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-testet.chayns.net/\">https://muenster-testet.chayns.net/</a>"
