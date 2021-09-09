@@ -2659,21 +2659,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Uni-Impfung<br /><br />Aegidiimarkt",
-        "address": "Aegidiimarkt 1",
-        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Mittwoch 08.09.21 von 14:00 - 17:00 <br /><br /><br /><br />für Personen ab 16 Jahren<br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.uni-muenster.de/de/corona-studi-infos.html\">https://www.uni-muenster.de/de/corona-studi-infos.html</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62349679614856,
-          51.9603401268744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Vital Apotheke",
         "address": "Dieckmannstraße 200",
         "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Herr Nils Hellenbrand, <a href=\"mailto:gievenbeck-testet.de\">gievenbeck-testet.de</a>, <a href=\"tel:0251/8725006\">0251/8725006</a>"
