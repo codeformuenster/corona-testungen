@@ -1804,36 +1804,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "mobiler Impfbus<br /><br />Clemens-August-Platz",
-        "address": "Clemens-August-Platz 2",
-        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Donnerstag 16.09.21 von 14:00 - 17:00<br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.68989906102218,
-          51.9152584827346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "mobiler Impfbus<br /><br />Jobcenter / Ludgerikreisel",
-        "address": "Ludgeriplatz 4",
-        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Mittwoch 15.09.21 von 08:00 - 14:00 <br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6268374976527,
-          51.9553258345206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "mobiler Impfbus<br /><br />Kleiner Idenbrockplatz",
         "address": "Idenbrockplatz 3",
         "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Samstag 18.09.21 von 10:00 - 14:00<br /><br /><br /><br />impfen ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.muenster.de/corona_impfung\">https://www.muenster.de/corona_impfung</a>"
