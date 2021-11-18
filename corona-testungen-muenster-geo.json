@@ -499,7 +499,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Engel-Apotheke, im Darts-Treff der AWO",
+        "name": "Engel-Apotheke, im Zibomo Museum",
         "address": "Neustraße 15",
         "info": "Anmeldung online, Apotheke, <a href=\"mailto:testen@engel-apotheke-wolbeck.de\">testen@engel-apotheke-wolbeck.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/engel-apotheke-awo-dart-treff/checkins#/\">https://app.no-q.info/engel-apotheke-awo-dart-treff/checkins#/</a>"
       },
@@ -1339,15 +1339,15 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Margareten Apotheke",
-        "address": "Wolbecker Straße 226",
-        "info": "Anmeldung online, Apotheke, Hinweis: Corona Test nur nach schriftlicher Voranmeldung., <a href=\"mailto:margareten-apotheke@t-online.de\">margareten-apotheke@t-online.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.margareten-apotheke.de/\">https://www.margareten-apotheke.de/</a>, <a href=\"tel:0251/39779699\">0251/39779699</a>"
+        "name": "Margareten-Apotheke, Wolbecker Straße 226,  in den Räumen des Gemeindehauses der Ev. Auferstehungsgemeinde",
+        "address": "Laerer Landweg 159",
+        "info": "Anmeldung online, Apotheke, Hinweis: nur mit online Registrierung, <br /><br />inaktiv am 12.11.21, <br /><br />aktiv am 18.11.21, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.margareten-apotheke.de/\">https://www.margareten-apotheke.de/</a>, <a href=\"tel:0251/314756\">0251/314756</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.66582061692473,
-          51.9510624577695
+          7.66992158801843,
+          51.9536085301091
         ]
       }
     },
@@ -1384,21 +1384,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "MyMedMS",
-        "address": "Spiekerhof 23",
-        "info": "Anmeldung online, Testcenter, Hinweis: nur am Wochenende, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster.covidservicepoint.de/\">https://muenster.covidservicepoint.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62410812111645,
-          51.9641417439729
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Naturheipraxis Ulrike Lürbke",
         "address": "Christoph-Bernhard-Graben 147",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: aktiv ab 11.10.2021<br /><br />nur noch eigene Patientinnen und Patienten, <a href=\"mailto:praxis@ulrike-luerbke.de\">praxis@ulrike-luerbke.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://ulrike-luerbke.de/\">https://ulrike-luerbke.de/</a>, <a href=\"tel:0251/3904458\">0251/3904458</a>"
@@ -1408,6 +1393,21 @@
         "coordinates": [
           7.5765922590273,
           51.9289228508974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PhysioWolff",
+        "address": "Spiekerhof 23",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster.covidservicepoint.de/\">https://muenster.covidservicepoint.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62410812111645,
+          51.9641417439729
         ]
       }
     },
@@ -1579,6 +1579,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Praxisgemeinschaft am Coerdemarkt, Dr. Martin Holtmeier und Ha Kim",
+        "address": "Hamannplatz 23",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: inaktiv am 08.10.21, <br /><br />aktiviert am 18.11.21, <a href=\"tel:0251/249999\">0251/249999</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648063367228,
+          51.9937678032856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Praxisgemeinschaft Wolf-Ulrich Mader &amp; Stefan Blüggel",
         "address": "Theodor-Storm-Straße 2",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02501/262626\">02501/262626</a>"
@@ -1648,6 +1663,21 @@
         "coordinates": [
           7.70534644629226,
           51.9777051758099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schnelltestzentrum Hansaring",
+        "address": "Hansaring 33",
+        "info": "Anmeldung online, Testcenter, Hinweis: inaktiv ab 11.10.2021, <br /><br />aktiviert am 18.11.21, <a target=\"_blank\" rel=\"noopener\" href=\"https://mshansaring.chayns.net/\">https://mshansaring.chayns.net/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64082483527152,
+          51.9533391462439
         ]
       }
     },
@@ -1789,6 +1819,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Teststelle Kreuzviertel",
+        "address": "Zuhornstraße 29",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://mehr-info-service.de/info-de/abstrich-sofort/\">https://mehr-info-service.de/info-de/abstrich-sofort/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62665266704861,
+          51.9713737459349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teststelle Ludgeriplatz<br /><br />Stadthaus 2",
+        "address": "Ludgeriplatz 4",
+        "info": "Anmeldung online, Testcenter, Hinweis: inaktiv ab 11.10.2021, <br /><br />aktiv am 18.11.21, <a target=\"_blank\" rel=\"noopener\" href=\"https://schnelltest2000.chayns.net/\">https://schnelltest2000.chayns.net/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62700109392126,
+          51.9552108511454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Testzentrum am St. Franziskus-Hospital",
         "address": "Hohenzollernring 70",
         "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://franziskus.chayns.net/\">https://franziskus.chayns.net/</a>, <a href=\"tel:116117\">116117</a>"
@@ -1888,6 +1948,21 @@
         "coordinates": [
           7.58085378829921,
           51.9671800368791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zahnarztpraxis van den Bosch",
+        "address": "Himmelreichallee 43",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: inaktiv am 08.10.21, <br /><br />aktiviert am 18.11.21, <a href=\"mailto:info@zahnarzt-vandenbosch.de\">info@zahnarzt-vandenbosch.de</a>, <a href=\"tel:0251 80435\">0251 80435</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6121718541391,
+          51.9594428853541
         ]
       }
     },
