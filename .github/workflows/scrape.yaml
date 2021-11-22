@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
   schedule:
     - cron: '30 6-19 * * *'
   # Allows to run this workflow manually from the Actions tab
@@ -36,6 +39,7 @@ jobs:
           node convert.js
 
       - name: Prepare gh-pages branch
+        if: ${{ github.ref == 'refs/heads/master' }}
         run: |
           mv corona-testungen-muenster-extracted.json /tmp/corona-testungen-muenster-geo.json
           # checkout gh-pages branch
@@ -49,6 +53,7 @@ jobs:
 
 
       - name: Check if the data changed
+        if: ${{ github.ref == 'refs/heads/master' }}
         id: update-required
         continue-on-error: true
         run: |
@@ -57,7 +62,7 @@ jobs:
           git diff --exit-code corona-testungen-muenster-geo.json
 
       - name: Update gh-pages branch
-        if: steps.update-required.outputs.changes != '0'
+        if: ${{ github.ref == 'refs/heads/master' && steps.update-required.outputs.changes != '0' }}
         run: |
           d=$(TZ='Europe/Berlin' date +"%d.%m.%Y %H:%M")
           sed -i "s|<time datetime=.*|<time datetime=\"$(date -Iseconds)\">$d</time>|" index.html
