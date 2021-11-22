@@ -1,10 +1,11 @@
 {
   "type": "module",
   "dependencies": {
-    "@owsas/nominatim-js": "^1.0.1",
     "cheerio": "^1.0.0-rc.5",
-    "cross-fetch": "^3.0.6",
     "got": "^11.8.2",
     "sanitize-html": "^2.3.2"
+  },
+  "devDependencies": {
+    "@owsas/nominatim-js": "^1.0.1"
   }
 }
