@@ -17,6 +17,10 @@ jobs:
     name: Convert data
     runs-on: ubuntu-20.04
     steps:
+      - name: Debug
+        run: |
+           echo "github.ref is '${{ github.ref == 'refs/heads/master' }}'"
+
       - uses: actions/checkout@v2
 
       - uses: actions/setup-node@v2
