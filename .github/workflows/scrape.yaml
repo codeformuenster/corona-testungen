@@ -19,7 +19,7 @@ jobs:
     steps:
       - name: Debug
         run: |
-           echo "github.ref is '${{ github.ref == 'refs/heads/master' }}'"
+           echo "github.ref is '${{ github.ref }}'"
 
       - uses: actions/checkout@v2
 
