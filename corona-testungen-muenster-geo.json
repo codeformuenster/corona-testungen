@@ -589,6 +589,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Erlebniswelt Sport, Testungen beim SC Gremmendorf",
+        "address": "Am Hohen Ufer 111",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Testung auch ohne Terminvergabe möglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.69194952816533,
+          51.929254293485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Fachärzte für Kindermedizin Dr. Markus Stange und Martin Stegat",
         "address": "Am Berler Kamp 5",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02506/7237\">02506/7237</a>"
@@ -1963,6 +1978,21 @@
         "coordinates": [
           7.62700109392126,
           51.9552108511454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teststelle SportCampus Münster",
+        "address": "Leonardo-Campus 13",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Testung auch ohne Terminvergabe möglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>, <a href=\"tel:015156867356\">015156867356</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60221691904851,
+          51.9730014203681
         ]
       }
     },
