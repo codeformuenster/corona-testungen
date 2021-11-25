@@ -604,6 +604,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "FH Münster",
+        "address": "Corrensstraße 25",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Testung auch ohne Terminvergabe möglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>, <a href=\"tel:015156867356\">015156867356</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59544122019375,
+          51.9685328644127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Gemeinschaftspraxis Am Kreuztor",
         "address": "Am Kreuztor 6",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251 270040\">0251 270040</a>"
@@ -763,21 +778,6 @@
         "coordinates": [
           7.57060025913707,
           51.9586577672758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gemeinschaftspraxis für Kinder- und Jugendmedizin Dr. Rudolf Ernst und Gabriele Adolf-Lücke",
-        "address": "Westfalenstraße 132",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02501/984210\">02501/984210</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63395028931911,
-          51.9065927789346
         ]
       }
     },
@@ -1446,7 +1446,7 @@
       "properties": {
         "name": "Münster testet GbR",
         "address": "Hafenstraße 64",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-testet.chayns.net/\">https://muenster-testet.chayns.net/</a>"
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-testet.de\">https://muenster-testet.de</a>"
       },
       "geometry": {
         "type": "Point",
