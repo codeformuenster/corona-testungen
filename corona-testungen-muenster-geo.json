@@ -589,7 +589,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Erlebniswelt Sport, Testungen beim SC Gremmendorf",
+        "name": "Erlebniswelt Sport, <br /><br />Testungen beim SC Gremmendorf",
         "address": "Am Hohen Ufer 111",
         "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Testung auch ohne Terminvergabe möglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>"
       },
@@ -613,21 +613,6 @@
         "coordinates": [
           7.72376333009486,
           51.9157474673651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "FH Münster",
-        "address": "Corrensstraße 25",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Testung auch ohne Terminvergabe möglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>, <a href=\"tel:015156867356\">015156867356</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.59544122019375,
-          51.9685328644127
         ]
       }
     },
@@ -1669,6 +1654,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Praxis Sofroniou",
+        "address": "Hansaring 11",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info.sofroniou@t-online.de\">info.sofroniou@t-online.de</a>, <a href=\"tel:0251/620 98 98\">0251/620 98 98</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63834187758822,
+          51.953157596395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Praxisgemeinschaft am Coerdemarkt, Dr. Martin Holtmeier und Ha Kim",
         "address": "Hamannplatz 23",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/249999\">0251/249999</a>"
@@ -1909,6 +1909,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Teststation ACE, Landhaus Eggert",
+        "address": "Zur Haskenau 81",
+        "info": "Anmeldung online, Testcenter, Hinweis: tägl. 15:00 - 18:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststation-ace-landhaus-eggert-handort/checkins#/2245/2021-11-26\">https://app.no-q.info/teststation-ace-landhaus-eggert-handort/checkins#/2245/2021-11-26</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.69023073850803,
+          52.0162105850683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Teststation am Heekweg",
         "address": "Heekweg 15",
         "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststation-am-heekweg/checkins\">https://app.no-q.info/teststation-am-heekweg/checkins</a>, <a href=\"tel:0174 / 205 48 64\">0174 / 205 48 64</a>"
@@ -1954,6 +1969,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Teststelle FH Münster",
+        "address": "Corrensstraße 25",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Testung auch ohne Terminvergabe möglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>, <a href=\"tel:015156867356\">015156867356</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59544122019375,
+          51.9685328644127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Teststelle Kreuzviertel",
         "address": "Zuhornstraße 29",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://mehr-info-service.de/info-de/abstrich-sofort/\">https://mehr-info-service.de/info-de/abstrich-sofort/</a>"
@@ -1963,6 +1993,21 @@
         "coordinates": [
           7.62665266704861,
           51.9713737459349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teststelle Lambertikirche",
+        "address": "Lambertikirchplatz 1",
+        "info": "Anmeldung online, Testcenter, Hinweis: Testungen auch abends und nachts, <br /><br />Öffnungszeiten siehe Internetseite, <a href=\"mailto:info@testlab-ms.de\">info@testlab-ms.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testlab-ms.de/\">https://www.testlab-ms.de/</a>, <a href=\"tel:0251 - 59065735\">0251 - 59065735</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62951956270955,
+          51.9628201461927
         ]
       }
     },
@@ -1993,6 +2038,21 @@
         "coordinates": [
           7.60221691904851,
           51.9730014203681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teststelle Zwanzig20",
+        "address": "Hammer Straße 30",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://zwanzig20.smart-testen.de/\">https://zwanzig20.smart-testen.de/</a>, <a href=\"tel:0251 - 53555710\">0251 - 53555710</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62520581094792,
+          51.9525283721008
         ]
       }
     },
