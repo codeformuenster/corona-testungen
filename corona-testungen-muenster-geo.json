@@ -96,7 +96,7 @@
       "properties": {
         "name": "ASB Münster, <br /><br />im Hotel Kaiserhof",
         "address": "Bahnhofstraße 14",
-        "info": "Anmeldung online, Testcenter, Hinweis: im ehem. Kosmetikstudio, direkt von der Bahnhofsstr. zugänglich<br /><br />ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: im ehem. Kosmetikstudio, direkt von der Bahnhofsstr. zugänglich<br /><br />ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>, X"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +111,7 @@
       "properties": {
         "name": "ASB Münster, <br /><br />Parkplatz Schlossplatz Nord",
         "address": "Schlossplatz 24",
-        "info": "Anmeldung online, Testcenter, Hinweis: Drive-In Testzentrum<br /><br />mit Auto oder Fahrrad nutzbar<br /><br />ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Drive-In Testzentrum<br /><br />mit Auto oder Fahrrad nutzbar<br /><br />ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>, X"
       },
       "geometry": {
         "type": "Point",
@@ -1146,7 +1146,7 @@
       "properties": {
         "name": "Jahreszeiten Apotheke",
         "address": "Catharina-Müller-Straße 2",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/jahreszeiten-apotheke-im-york-center/checkins#\">https://app.no-q.info/jahreszeiten-apotheke-im-york-center/checkins#</a>, <a href=\"tel:0251/2705027\">0251/2705027</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/jahreszeiten-apotheke-im-york-center/checkins#\">https://app.no-q.info/jahreszeiten-apotheke-im-york-center/checkins#</a>, X, <a href=\"tel:0251/2705027\">0251/2705027</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1386,7 +1386,7 @@
       "properties": {
         "name": "Ludgeri Apotheke",
         "address": "Windthorststraße 65",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/ludgeri-apotheke/checkins#/\">https://app.no-q.info/ludgeri-apotheke/checkins#/</a>, <a href=\"tel:0251/44456\">0251/44456</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/ludgeri-apotheke/checkins#/\">https://app.no-q.info/ludgeri-apotheke/checkins#/</a>, X, <a href=\"tel:0251/44456\">0251/44456</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1881,7 +1881,7 @@
       "properties": {
         "name": "Testcenter Am Hawerkamp",
         "address": "Am Hawerkamp 29",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://15minutentest.de/muenster/\">https://15minutentest.de/muenster/</a>"
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://15minutentest.de/muenster/\">https://15minutentest.de/muenster/</a>, X"
       },
       "geometry": {
         "type": "Point",
