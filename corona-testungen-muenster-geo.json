@@ -1881,7 +1881,7 @@
       "properties": {
         "name": "Testcenter Am Hawerkamp",
         "address": "Am Hawerkamp 29",
-        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://15minutentest.de/muenster/\">https://15minutentest.de/muenster/</a>, X"
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://15minutentest.de/muenster/\">https://15minutentest.de/muenster/</a>, X"
       },
       "geometry": {
         "type": "Point",
