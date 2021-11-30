@@ -1939,6 +1939,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Teststelle am Bahnhof",
+        "address": "Wolbecker Straße 14",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://bahnhof.smart-testen.de/\">https://bahnhof.smart-testen.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63713894711745,
+          51.9587544576462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Teststelle bei Coler <br /><br />am Albersloher Weg",
         "address": "Haferlandweg 3",
         "info": "Anmeldung online, Testcenter, Hinweis: Di. + Do., <a target=\"_blank\" rel=\"noopener\" href=\"https://gremmendorf.chayns.net/\">https://gremmendorf.chayns.net/</a>"
