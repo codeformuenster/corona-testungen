@@ -2,7 +2,7 @@
   "type": "module",
   "dependencies": {
     "got": "^11.8.3",
-    "sanitize-html": "^2.5.3"
+    "sanitize-html": "^2.6.0"
   },
   "devDependencies": {
     "@owsas/nominatim-js": "^1.0.1",
