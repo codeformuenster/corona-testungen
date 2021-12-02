@@ -186,7 +186,7 @@
       "properties": {
         "name": "Corona Testzentrum Am Rosenplatz",
         "address": "Rosenplatz 3",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/corona-testzentrum-am-buelt/checkins#  www.muenstertest.de\">https://app.no-q.info/corona-testzentrum-am-buelt/checkins#  www.muenstertest.de</a>"
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.muenstertest.de/\">http://www.muenstertest.de/</a>"
       },
       "geometry": {
         "type": "Point",
