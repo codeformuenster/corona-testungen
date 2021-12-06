@@ -65,14 +65,14 @@
       "type": "Feature",
       "properties": {
         "name": "Apotheke am Clemenshospital",
-        "address": "Düesbergweg 128",
+        "address": "Düesbergweg 133",
         "info": "Anmeldung nicht erforderlich, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://apo-am-clemens.de/corona/\">https://apo-am-clemens.de/corona/</a>, <a href=\"tel:0251/3900180\">0251/3900180</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.61558707194825,
-          51.9322023679419
+          7.6152092759605,
+          51.9312448046367
         ]
       }
     },
@@ -636,7 +636,7 @@
       "properties": {
         "name": "Erlebniswelt Sport, <br /><br />Testungen beim SC Gremmendorf",
         "address": "Am Hohen Ufer 111",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Testung auch ohne Terminvergabe möglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Testung auch ohne Terminvergabe möglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://corona.chayns.de/\">https://corona.chayns.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1459,21 +1459,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Margareten-Apotheke (mobil),<br /><br />Parkplatz Sparkasse Münsterland Ost<br /><br />",
-        "address": "Weseler Straße 230",
-        "info": "Anmeldung online, Apotheke, Hinweis: Montags + Mittwochs, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/margareten-apotheke-mobil/checkins#\">https://app.no-q.info/margareten-apotheke-mobil/checkins#</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.60885139253345,
-          51.942112718321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Margareten-Apotheke, Wolbecker Straße 226,  in den Räumen des Gemeindehauses der Ev. Auferstehungsgemeinde",
         "address": "Laerer Landweg 159",
         "info": "Anmeldung online, Apotheke, Hinweis: nur mit online Registrierung, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/margareten-apotheke-muenster/checkins#\">https://app.no-q.info/margareten-apotheke-muenster/checkins#</a>, <a href=\"tel:0251/314756\">0251/314756</a>"
@@ -1731,7 +1716,7 @@
       "properties": {
         "name": "Praxis Sofroniou",
         "address": "Hansaring 11",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info.sofroniou@t-online.de\">info.sofroniou@t-online.de</a>, <a href=\"tel:0251/620 98 98\">0251/620 98 98</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur Sa. 09:00 - 12:00, <a href=\"mailto:info.sofroniou@t-online.de\">info.sofroniou@t-online.de</a>, <a href=\"tel:0251/620 98 98\">0251/620 98 98</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2106,7 +2091,7 @@
       "properties": {
         "name": "Teststelle FH Münster",
         "address": "Corrensstraße 25",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Testung auch ohne Terminvergabe möglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>, <a href=\"tel:015156867356\">015156867356</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Testung auch ohne Terminvergabe möglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://corona.chayns.de/\">https://corona.chayns.de/</a>, <a href=\"tel:015156867356\">015156867356</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2156,8 +2141,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.62951956270955,
-          51.9628201461927
+          7.62921016711602,
+          51.9629424272432
         ]
       }
     },
@@ -2181,7 +2166,7 @@
       "properties": {
         "name": "Teststelle SportCampus Münster",
         "address": "Leonardo-Campus 13",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Testung auch ohne Terminvergabe möglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://erlebniswelt-sport.de/\">https://erlebniswelt-sport.de/</a>, <a href=\"tel:015156867356\">015156867356</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Testung auch ohne Terminvergabe möglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://corona.chayns.de/\">https://corona.chayns.de/</a>, <a href=\"tel:015156867356\">015156867356</a>"
       },
       "geometry": {
         "type": "Point",
