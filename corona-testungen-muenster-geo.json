@@ -244,21 +244,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cytecs GmbH",
-        "address": "Im Derdel 8",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://cytecs.covidservicepoint.de\">https://cytecs.covidservicepoint.de</a>, X"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.55233294078663,
-          51.9514839662367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Dermatologie MS, Dr. Anja Brinkmann",
         "address": "Hohenzollernring 10",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:termine@dermatologie.ms\">termine@dermatologie.ms</a>, <a href=\"tel:0251/87158080\">0251/87158080</a>"
@@ -1551,7 +1536,7 @@
       "properties": {
         "name": "Park-Apotheke",
         "address": "Mondstraße 81",
-        "info": "Anmeldung nicht erforderlich, Apotheke, Hinweis: 17:15 - 18:15 <br /><br />Anmeldeformular vor Ort"
+        "info": "Anmeldung nicht erforderlich, Apotheke, Hinweis: Anmeldeformular vor Ort, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/park-apotheke-muenster/checkins#/\">https://app.no-q.info/park-apotheke-muenster/checkins#/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1864,6 +1849,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Schnelltestzentrum /<br /><br />Impfzentrum Münster City",
+        "address": "Bolandsgasse 5",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/schnelltestzentrum-muenster-city/checkins\">https://app.no-q.info/schnelltestzentrum-muenster-city/checkins</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63031267762638,
+          51.9625866014073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schnelltestzentrum /<br /><br />Impfzentrum Münster Kreuzviertel",
+        "address": "Wilhelmstraße 5",
+        "info": "Testcenter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61460044226673,
+          51.9670604369058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Schnelltestzentrum <br /><br />Dehner Garten Center",
         "address": "Handorfer Straße 105",
         "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://medicarus.chayns.net/\">https://medicarus.chayns.net/</a>"
@@ -2044,6 +2059,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Teststelle an der Stadtbücherei",
+        "address": "Alter Steinweg 11",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: ganzwöchig, mit und ohne Termin, <a target=\"_blank\" rel=\"noopener\" href=\"https://coronatest.ms/\">https://coronatest.ms/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63041647608402,
+          51.963001423953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Teststelle bei Coler <br /><br />am Albersloher Weg",
         "address": "Haferlandweg 3",
         "info": "Anmeldung online, Testcenter, Hinweis: Di. + Do., <a target=\"_blank\" rel=\"noopener\" href=\"https://gremmendorf.chayns.net/\">https://gremmendorf.chayns.net/</a>"
@@ -2158,6 +2188,21 @@
         "coordinates": [
           7.60221691904851,
           51.9730014203681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teststelle Stadthalle Hiltrup",
+        "address": "Westfalenstraße 197",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: täglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://stadthalle.smart-testen.de/\">https://stadthalle.smart-testen.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63997768691562,
+          51.9014833675346
         ]
       }
     },
