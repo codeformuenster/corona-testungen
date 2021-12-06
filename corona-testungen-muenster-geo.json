@@ -244,6 +244,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Cytecs GmbH",
+        "address": "Im Derdel 8",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://cytecs.covidservicepoint.de\">https://cytecs.covidservicepoint.de</a>, X"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.55233294078663,
+          51.9514839662367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dermatologie MS, Dr. Anja Brinkmann",
         "address": "Hohenzollernring 10",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:termine@dermatologie.ms\">termine@dermatologie.ms</a>, <a href=\"tel:0251/87158080\">0251/87158080</a>"
@@ -298,6 +313,21 @@
         "coordinates": [
           7.62965653155636,
           51.9449643327504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Christian Berg",
+        "address": "Auf dem Dorn 21",
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.medis-muenster.de/praxen/details/116\">https://www.medis-muenster.de/praxen/details/116</a>, X, <a href=\"tel:0157/38173113\">0157/38173113</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.53164281816434,
+          51.9545186927283
         ]
       }
     },
@@ -1399,6 +1429,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Linden Apotheke in der Ev. Friedens-Kirchengemeinde",
+        "address": "Zum Erlenbusch 15",
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.lindenapotheke-muenster.de/\">https://www.lindenapotheke-muenster.de/</a>, X, <a href=\"tel:0251/615082\">0251/615082</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.67372599543731,
+          51.9247883249607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "LODDE &amp; LODDE",
         "address": "Davertstraße 48",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:praxis@lodde-lodde.de\">praxis@lodde-lodde.de</a>, <a href=\"tel:02501/3514\">02501/3514</a>"
@@ -1506,7 +1551,7 @@
       "properties": {
         "name": "Park-Apotheke",
         "address": "Mondstraße 81",
-        "info": "Anmeldung online, Apotheke, Hinweis: nur mit online Registrierung, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/park-apotheke-muenster/checkins#/\">https://app.no-q.info/park-apotheke-muenster/checkins#/</a>, <a href=\"tel:0251-381237\">0251-381237</a>"
+        "info": "Anmeldung nicht erforderlich, Apotheke, Hinweis: 17:15 - 18:15 <br /><br />Anmeldeformular vor Ort"
       },
       "geometry": {
         "type": "Point",
