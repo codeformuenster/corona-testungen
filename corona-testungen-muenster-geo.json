@@ -1279,120 +1279,15 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Leezen Heroes, <br /><br />AASEE / HBZ<br /><br />(Gebäude D)",
-        "address": "Echelmeyerstraße 1",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />MO.   9:00-11:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "name": "Leezen Heroes, <br /><br />UKM",
+        "address": "Albert-Schweitzer-Campus 1",
+        "info": "Anmeldung online, Hinweis: ab 09.12.<br /><br />mobile Teststation (Parkdeck Ebene 04)<br /><br />MO - FR   7:15 - 15:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5890480472508,
-          51.9366258633257
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leezen Heroes, <br /><br />ARKADEN",
-        "address": "Rothenburg 5",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />MO, DI, DO, SO   12:00-19:30<br /><br />MI, FR, SA             9:00-19:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62706251173669,
-          51.9608223518408
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leezen Heroes, <br /><br />HAFEN",
-        "address": "Am Mittelhafen 16",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />FR.   8:30-9:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6415204606526,
-          51.9510273327962
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leezen Heroes, <br /><br />HAMMER",
-        "address": "Hammer Straße 420",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />FR.   14:30-15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62945679445926,
-          51.9243081335812
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leezen Heroes, <br /><br />KAISER",
-        "address": "Zum Kaiserbusch 26",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />FR.   11:30-12:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.68528220213001,
-          51.9100457877268
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leezen Heroes, <br /><br />LINDBERG",
-        "address": "Haferlandweg 8",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />FR.   10:15-10:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6601572230496,
-          51.9369981671179
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leezen Heroes, <br /><br />LODDEN",
-        "address": "Fridtjof-Nansen-Weg 7",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />FR.   9:30-10:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6570847872657,
-          51.9341757446465
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leezen Heroes, <br /><br />SIEMENS",
-        "address": "Schuckertstraße 21",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />FR.  13:30-14:15, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63851436194379,
-          51.9272816016931
+          7.5962110823358,
+          51.9611329177855
         ]
       }
     },
@@ -1401,7 +1296,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />ZENTRUM NORD",
         "address": "Nevinghoff 16",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />FR   11:30-13:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />MO - FR   10:15 - 15:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1468,21 +1363,6 @@
         "coordinates": [
           7.66992158801843,
           51.9536085301091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Medfortis, <br /><br />CINEPLEX / HAFEN",
-        "address": "Albersloher Weg 14",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br /><br /><br />Fr.-Sa.     16:00-22:30<br /><br />So.          10:00-14:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63670382329838,
-          51.9505490461331
         ]
       }
     },
