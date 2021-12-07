@@ -1851,7 +1851,7 @@
       "properties": {
         "name": "Schnelltestzentrum /<br /><br />Impfzentrum Münster Kreuzviertel",
         "address": "Wilhelmstraße 5",
-        "info": "Testcenter"
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/schnelltestzentrum-muenster-kreuzviertel/checkins\">https://app.no-q.info/schnelltestzentrum-muenster-kreuzviertel/checkins</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2098,6 +2098,21 @@
         "coordinates": [
           7.59544122019375,
           51.9685328644127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teststelle Hiltruper Bahnhof",
+        "address": "Bergiusstraße 20",
+        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://hiltrupbhf.smart-testen.de/\">https://hiltrupbhf.smart-testen.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65405523058457,
+          51.9031917976163
         ]
       }
     },
