@@ -1279,6 +1279,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Leezen Heroes, <br /><br />ARKADEN",
+        "address": "Rothenburg 9",
+        "info": "Anmeldung online, Hinweis: mobile Teststation (1. OG), <br /><br />MO - SA von 9:00 - 20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62693239655813,
+          51.9603173027334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leezen Heroes, <br /><br />HILTRUP",
+        "address": "Marktallee 36",
+        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />MO - SA von 9:30 - 18:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64319171639963,
+          51.9038403301373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Leezen Heroes, <br /><br />UKM",
         "address": "Albert-Schweitzer-Campus 1",
         "info": "Anmeldung online, Hinweis: ab 09.12.<br /><br />mobile Teststation (Parkdeck Ebene 04)<br /><br />MO - FR   7:15 - 15:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
