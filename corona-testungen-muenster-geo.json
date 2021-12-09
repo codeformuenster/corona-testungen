@@ -79,21 +79,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ASB Münster",
-        "address": "Lambertikirchplatz 5",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Samstags, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62876733614927,
-          51.9626675216487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "ASB Münster, <br /><br />im Hotel Kaiserhof",
         "address": "Bahnhofstraße 14",
         "info": "Anmeldung online, Testcenter, Hinweis: im ehem. Kosmetikstudio, direkt von der Bahnhofsstr. zugänglich<br /><br />ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>, X"
@@ -244,6 +229,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Cytecs GmbH",
+        "address": "Im Derdel 8",
+        "info": "Anmeldung online, Testcenter, Hinweis: ab Ende Dez. auch PCR-Tests, <a target=\"_blank\" rel=\"noopener\" href=\"https://cytecs.covidservicepoint.de\">https://cytecs.covidservicepoint.de</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.55233294078663,
+          51.9514839662367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Dermatologie MS, Dr. Anja Brinkmann",
         "address": "Hohenzollernring 10",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:termine@dermatologie.ms\">termine@dermatologie.ms</a>, <a href=\"tel:0251/87158080\">0251/87158080</a>"
@@ -304,7 +304,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dr. Christian Berg",
+        "name": "Dr. Christian Berg - Dr. Illerhaus",
         "address": "Auf dem Dorn 21",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.medis-muenster.de/praxen/details/116\">https://www.medis-muenster.de/praxen/details/116</a>, X, <a href=\"tel:0157/38173113\">0157/38173113</a>"
       },
@@ -1204,6 +1204,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Johanniter Testzentrum Münster Aasestadt",
+        "address": "Von-Ossietzky-Straße 16",
+        "info": "Anmeldung online, Testcenter, Hinweis: Fr. von 14:00 - 20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60258208429453,
+          51.9430095635229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Johanniter Testzentrum, <br /><br />am LWL Museum",
         "address": "Rothenburg 30",
         "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: jeden Samstag,  auf dem Vorplatz des LWL-Museum, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/ms\">https://www.johanniter.de/ms</a>"
@@ -1213,6 +1228,21 @@
         "coordinates": [
           7.62382836522869,
           51.9609194679778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johanniter Testzentrum, <br /><br />SV Concordia Albachten",
+        "address": "Hohe Geist 7",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/ms\">https://www.johanniter.de/ms</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.52996480242307,
+          51.9235031556643
         ]
       }
     },
@@ -1399,9 +1429,54 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Medfortis,<br /><br />Rossini / Karstadt",
+        "address": "Salzstraße 46",
+        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />ab Freitag 10.12.21<br /><br />ganzwöchig  10:00-20:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63104942910094,
+          51.9613363414896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Münster Testet",
+        "address": "Grevener Straße 325",
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61238780469066,
+          51.9953310141878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Münster testet GbR",
+        "address": "Grevener Straße 325",
+        "info": "Anmeldung online, Testcenter, <a href=\"mailto:info@muenster-testet.de\">info@muenster-testet.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-testet.de\">https://muenster-testet.de</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61238780469066,
+          51.9953310141878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Münster testet GbR",
         "address": "Hafenstraße 64",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-testet.de\">https://muenster-testet.de</a>"
+        "info": "Anmeldung online, Testcenter, <a href=\"mailto:Münster testet GbR\">Münster testet GbR</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-testet.de\">https://muenster-testet.de</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2029,21 +2104,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Teststelle Jakobusgemeinde<br /><br />(Johanniter-Unfall-Hilfe e.V.)",
-        "address": "Geringhoffstraße 47",
-        "info": "Testcenter, Hinweis: 14:00 - 19:00"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.60151990567483,
-          51.9299140316569
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Teststelle Kreuzviertel",
         "address": "Zuhornstraße 29",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://mehr-info-service.de/info-de/abstrich-sofort/\">https://mehr-info-service.de/info-de/abstrich-sofort/</a>"
@@ -2061,7 +2121,7 @@
       "properties": {
         "name": "Teststelle Lambertikirche",
         "address": "Lambertikirchplatz 1",
-        "info": "Anmeldung online, Testcenter, Hinweis: Testungen auch abends und nachts, <br /><br />Öffnungszeiten siehe Internetseite, <a href=\"mailto:info@testlab-ms.de\">info@testlab-ms.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testlab-ms.de/\">https://www.testlab-ms.de/</a>, <a href=\"tel:0251 - 59065735\">0251 - 59065735</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Testungen auch abends und nachts, <br /><br />Öffnungszeiten siehe Internetseite, <a href=\"mailto:info@testlab-ms.de\">info@testlab-ms.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testlab-ms.de/\">https://www.testlab-ms.de/</a>, X, <a href=\"tel:0251 - 59065735\">0251 - 59065735</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2151,7 +2211,7 @@
       "properties": {
         "name": "Testzentrum Hof Rotermund",
         "address": "Auf der Laer 76",
-        "info": "Anmeldung online, Testcenter, <a href=\"mailto:test@hofrotermund.de\">test@hofrotermund.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://hofrotermund.de/\">https://hofrotermund.de/</a>, <a href=\"tel:0251/59065735\">0251/59065735</a>"
+        "info": "Anmeldung online, Testcenter, <a href=\"mailto:test@hofrotermund.de\">test@hofrotermund.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://hofrotermund.de/\">https://hofrotermund.de/</a>, X, <a href=\"tel:0251/59065735\">0251/59065735</a>"
       },
       "geometry": {
         "type": "Point",
