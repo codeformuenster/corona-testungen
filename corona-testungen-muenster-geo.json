@@ -141,7 +141,7 @@
       "properties": {
         "name": "Coerde-Apotheke",
         "address": "Hamannplatz 11",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"http://coerde-apotheke.de/corona-schnelltest-zentrum\">http://coerde-apotheke.de/corona-schnelltest-zentrum</a>, <a href=\"tel:0251/247171\">0251/247171</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"http://coerde-apotheke.de/corona-schnelltest-zentrum\">http://coerde-apotheke.de/corona-schnelltest-zentrum</a>, X, <a href=\"tel:0251/247171\">0251/247171</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2046,7 +2046,7 @@
       "properties": {
         "name": "Teststelle am Bahnhof",
         "address": "Wolbecker Straße 14",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://bahnhof.smart-testen.de/\">https://bahnhof.smart-testen.de/</a>"
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://bahnhof.smart-testen.de/\">https://bahnhof.smart-testen.de/</a>, <a href=\"tel:015215784647\">015215784647</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2188,6 +2188,36 @@
         "coordinates": [
           7.62700109392126,
           51.9552108511454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teststelle smart testen",
+        "address": "Berliner Platz 29",
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a href=\"tel:015219289550\">015219289550</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6347865390885,
+          51.9561825702742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teststelle smart testen<br /><br />",
+        "address": "Robert-Bosch-Straße 4",
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a href=\"tel:015217273394\">015217273394</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63188591304689,
+          51.9338585829198
         ]
       }
     },
