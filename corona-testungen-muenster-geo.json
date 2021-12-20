@@ -636,7 +636,7 @@
       "properties": {
         "name": "Erlebniswelt Sport, <br /><br />Testungen beim SC Gremmendorf",
         "address": "Am Hohen Ufer 111",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Testung auch ohne Terminvergabe möglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://corona.chayns.de/\">https://corona.chayns.de/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://corona.chayns.de/\">https://corona.chayns.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1371,7 +1371,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />UKM",
         "address": "Albert-Schweitzer-Campus 1",
-        "info": "Anmeldung online, Hinweis: ab 09.12.<br /><br />mobile Teststation (Parkdeck Ebene 04)<br /><br />MO - FR   7:15 - 15:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation (Parkdeck Ebene 04)<br /><br />MO - FR   7:15 - 15:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1459,30 +1459,30 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Marktkauf Gievenbeck",
+        "name": "MEDFORTIS,<br /><br />Marktkauf Gievenbeck",
         "address": "Roxeler Straße 416",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Sa. 9:00 - 20:00"
+        "info": "Anmeldung online, Hinweis: Mo. - Sa. 8:00 - 20:00<br /><br />24.12. von 8:00 - 14:00<br /><br />31.12. von 8:00 - 16:00<br /><br /><br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5690217167944,
-          51.9574966460188
+          7.5706790696521,
+          51.9575527458023
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Marktkauf Loddenheide",
+        "name": "MEDFORTIS,<br /><br />Marktkauf Loddenheide",
         "address": "Loddenheide 5",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Sa. 9:00 - 20:00"
+        "info": "Anmeldung online, Hinweis: Mo. - Sa. 8:00 - 20:00<br /><br />24.12. von 8:00 - 14:00<br /><br />31.12. von 8:00 - 14:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.64752345451279,
-          51.938678992032
+          7.64697435146662,
+          51.9385557903142
         ]
       }
     },
@@ -1491,7 +1491,7 @@
       "properties": {
         "name": "MEDFORTIS,<br /><br />Rossini / Karstadt",
         "address": "Salzstraße 46",
-        "info": "Anmeldung online, Hinweis: mobile Teststation <br /><br />ganzwöchig  10:00-20:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
+        "info": "Anmeldung online, Hinweis: Mo. - Sa. 10:00 - 20:00<br /><br />24.12. + 31.12. geschlossen<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
       },
       "geometry": {
         "type": "Point",
