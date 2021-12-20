@@ -1204,9 +1204,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Johanniter Testzentrum Münster Aasestadt",
+        "name": "Johanniter Testzentrum, <br /><br />Gemeindehaus Jakobuskirche",
         "address": "Von-Ossietzky-Straße 16",
-        "info": "Anmeldung online, Testcenter, Hinweis: Fr. von 14:00 - 20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Mi. 9:00 - 13:00<br /><br />Do. 14:00 - 19:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1219,30 +1219,30 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Johanniter Testzentrum, <br /><br />am LWL Museum",
-        "address": "Rothenburg 30",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: jeden Samstag,  auf dem Vorplatz des LWL-Museum, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/ms\">https://www.johanniter.de/ms</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62382836522869,
-          51.9609194679778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Johanniter Testzentrum, <br /><br />SV Concordia Albachten",
         "address": "Hohe Geist 7",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/ms\">https://www.johanniter.de/ms</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Fr. 16:00 - 20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.52996480242307,
           51.9235031556643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johanniter Testzentrum, <br /><br />Vorplatz LWL Museum",
+        "address": "Rothenburg 30",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Sa. 10:30 - 17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62382836522869,
+          51.9609194679778
         ]
       }
     },
@@ -2104,6 +2104,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Teststelle Coerdemarkt",
+        "address": "Hamannplatz 29",
+        "info": "Anmeldung online, Testcenter, <a href=\"mailto:coerdemarkt@gmail.com\">coerdemarkt@gmail.com</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://coerde.smart-testen.de/\">https://coerde.smart-testen.de/</a>, <a href=\"tel:015734212895\">015734212895</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64821134924419,
+          51.9941741226214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Teststelle Drive-in <br /><br />Roadstop",
         "address": "Schifffahrter Damm 315",
         "info": "Anmeldung nicht erforderlich, Testcenter, <a href=\"mailto:muenster@coronaschnelltest.nrw\">muenster@coronaschnelltest.nrw</a>, <a target=\"_blank\" rel=\"noopener\" href=\"http://coronaschnelltest.nrw/\">http://coronaschnelltest.nrw/</a>, <a href=\"tel:02302/3984965\">02302/3984965</a>"
@@ -2248,6 +2263,21 @@
         "coordinates": [
           7.63997768691562,
           51.9014833675346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teststelle TuS Hiltrup",
+        "address": "Osttor 85",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://15minutentest.de/\">https://15minutentest.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66878852583172,
+          51.9068481608543
         ]
       }
     },
