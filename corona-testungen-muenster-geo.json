@@ -1399,9 +1399,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Linden Apotheke in der Ev. Friedens-Kirchengemeinde",
+        "name": "Linden Apotheke <br /><br />in der Ev. Friedens-Kirchengemeinde",
         "address": "Zum Erlenbusch 15",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.lindenapotheke-muenster.de/\">https://www.lindenapotheke-muenster.de/</a>, X, <a href=\"tel:0251/615082\">0251/615082</a>"
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.lindenapotheke-muenster.de/\">https://www.lindenapotheke-muenster.de/</a>, <a href=\"tel:0251/615082\">0251/615082</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1453,6 +1453,36 @@
         "coordinates": [
           7.66992158801843,
           51.9536085301091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marktkauf Gievenbeck",
+        "address": "Roxeler Straße 416",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Sa. 9:00 - 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5690217167944,
+          51.9574966460188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marktkauf Loddenheide",
+        "address": "Loddenheide 5",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Sa. 9:00 - 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64752345451279,
+          51.938678992032
         ]
       }
     },
@@ -1783,21 +1813,6 @@
         "coordinates": [
           7.61019473265907,
           51.9716032432988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Robert Kortenbrede GmbH",
-        "address": "Feldstiege 80",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://kortenbredems.chayns.net\">https://kortenbredems.chayns.net</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.54434299092676,
-          52.002719006228
         ]
       }
     },
