@@ -21,7 +21,7 @@
       "properties": {
         "name": "Adler Apotheke",
         "address": "Salzstraße 58",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/adler-apotheke-muenster/checkins\">https://app.no-q.info/adler-apotheke-muenster/checkins</a>, <a href=\"tel:0251/414710\">0251/414710</a>"
+        "info": "Anmeldung online, Apotheke, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: vormittags<br /><br />31.12.: vormittags, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/adler-apotheke-muenster/checkins\">https://app.no-q.info/adler-apotheke-muenster/checkins</a>, <a href=\"tel:0251/414710\">0251/414710</a>"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +36,7 @@
       "properties": {
         "name": "Annen Apotheke",
         "address": "Am Hof Hesselmann 10",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.covisa.de\">https://www.covisa.de</a>, <a href=\"tel:0251/717380\">0251/717380</a>"
+        "info": "Anmeldung online, Apotheke, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09-12:30 Uhr<br /><br />31.12.: 09-12:30 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.covisa.de\">https://www.covisa.de</a>, <a href=\"tel:0251/717380\">0251/717380</a>"
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +126,7 @@
       "properties": {
         "name": "Burg Apotheke",
         "address": "Burgstraße 31",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251-524276\">0251-524276</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09-12:30 Uhr<br /><br />31.12.: 09-12:30 Uhr, <a href=\"tel:0251-524276\">0251-524276</a>"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +186,7 @@
       "properties": {
         "name": "CoronaTestcenter.ms",
         "address": "Friedrichstraße 9",
-        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://coronatestcenter.ms/\">https://coronatestcenter.ms/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 06.30-24 Uhr<br /><br />25.12.: 06.30-24 Uhr<br /><br />26.12.: 06.30-20 Uhr<br /><br />31.12.: 06.30-20 Uhr<br /><br />01.01.: 10-20 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://coronatestcenter.ms/\">https://coronatestcenter.ms/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +216,7 @@
       "properties": {
         "name": "CovidCare MS/Teststelle Kinderhaus<br /><br />(ALDI Parkplatz)",
         "address": "Idenbrockplatz 27",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Montags - Samstags, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testen365.de/buchen/2\">https://www.testen365.de/buchen/2</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Montags - Samstags<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-18 Uhr<br /><br />25.12.: 08-20 Uhr<br /><br />26.12.: 09-17 Uhr<br /><br />31.12.: 08-18 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testen365.de/buchen/2\">https://www.testen365.de/buchen/2</a>"
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +246,7 @@
       "properties": {
         "name": "Dehner Garten Center",
         "address": "Handorfer Straße 105",
-        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-test.de/\">https://muenster-test.de/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 10-16 Uhr<br /><br />25.12.: 10-16 Uhr<br /><br />26.12.: 10-16 Uhr<br /><br />31.12.: 10-19 Uhr<br /><br />01.01.: 11-16:30 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-test.de/\">https://muenster-test.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -561,7 +561,7 @@
       "properties": {
         "name": "DRK-Landesverband Westfalen-Lippe e.V.",
         "address": "Sperlichstraße 25",
-        "info": "Anmeldung online, Testcenter, <a href=\"mailto:schnelltests@drk-westfalen.de\">schnelltests@drk-westfalen.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.drk-nrw-testzentrum.de/oeffentliche-testzentren/M7oFKM\">https://www.drk-nrw-testzentrum.de/oeffentliche-testzentren/M7oFKM</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />31.12.: 08-13:30 Uhr<br /><br />01.01.: 12-16 Uhr<br /><br />, <a href=\"mailto:schnelltests@drk-westfalen.de\">schnelltests@drk-westfalen.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.drk-nrw-testzentrum.de/oeffentliche-testzentren/M7oFKM\">https://www.drk-nrw-testzentrum.de/oeffentliche-testzentren/M7oFKM</a>"
       },
       "geometry": {
         "type": "Point",
@@ -921,7 +921,7 @@
       "properties": {
         "name": "Hafen Teststation",
         "address": "Hafenweg 10",
-        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig – auch an Feiertagen, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/hafen-teststation/checkins/#/3410/2021-05-17\">https://app.no-q.info/hafen-teststation/checkins/#/3410/2021-05-17</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig – auch an Feiertagen<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09-14 Uhr<br /><br />25.12.: 09-14 Uhr<br /><br />26.12.: 09-14 Uhr <br /><br />31.12.: 09-20 Uhr <br /><br />01.01.: 09-14 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/hafen-teststation/checkins/#/3410/2021-05-17\">https://app.no-q.info/hafen-teststation/checkins/#/3410/2021-05-17</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1131,7 +1131,7 @@
       "properties": {
         "name": "Hohenzollern Apotheke am Ring",
         "address": "Hohenzollernring 57",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hza.de/corona-test\">https://www.hza.de/corona-test</a>"
+        "info": "Anmeldung online, Apotheke, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08:30-15 Uhr<br /><br />25.12.: 09-18 Uhr<br /><br />26.12.: 09-18 Uhr<br /><br />31.12.: 08:30-18 Uhr (vrsl.), <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hza.de/corona-test\">https://www.hza.de/corona-test</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1146,7 +1146,7 @@
       "properties": {
         "name": "Hohenzollern Apotheke an der Roxeler Straße",
         "address": "Pantaleonplatz 5",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hza.de/corona-test\">https://www.hza.de/corona-test</a>"
+        "info": "Anmeldung online, Apotheke, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08:30-15 Uhr<br /><br />25.12.: 10-15 Uhr<br /><br />26.12.: 10-15 Uhr<br /><br />31.12.: 08:30-18 Uhr (vrsl.), <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hza.de/corona-test\">https://www.hza.de/corona-test</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1191,7 +1191,7 @@
       "properties": {
         "name": "Jahreszeiten Apotheke",
         "address": "Catharina-Müller-Straße 2",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/jahreszeiten-apotheke-im-york-center/checkins#\">https://app.no-q.info/jahreszeiten-apotheke-im-york-center/checkins#</a>, X, <a href=\"tel:0251/2705027\">0251/2705027</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12: 08-14:30 Uhr<br /><br />25.12: 09-14 Uhr<br /><br />26.12: 09-14 Uhr<br /><br />31.12: 08-20 Uhr<br /><br />01.01.:14-20 Uhr (vrsl.), <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/jahreszeiten-apotheke-im-york-center/checkins#\">https://app.no-q.info/jahreszeiten-apotheke-im-york-center/checkins#</a>, X, <a href=\"tel:0251/2705027\">0251/2705027</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1251,7 +1251,7 @@
       "properties": {
         "name": "Kesslerweg",
         "address": "Kesslerweg 6",
-        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://kesslerweg.smart-testen.de/\">https://kesslerweg.smart-testen.de/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09-15 Uhr<br /><br />31.12.: 09-15 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://kesslerweg.smart-testen.de/\">https://kesslerweg.smart-testen.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1266,7 +1266,7 @@
       "properties": {
         "name": "Kiepenkerl Apotheke",
         "address": "Bergstraße 10",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kiepenkerl-apo-zentrum.de/\">https://www.kiepenkerl-apo-zentrum.de/</a>, <a href=\"tel:0251/46963\">0251/46963</a>"
+        "info": "Anmeldung online, Apotheke, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.:  07:30-16 Uhr<br /><br />25.12.:  10-14 Uhr<br /><br />26.12.:  10-14 Uhr<br /><br />31.12.:  07:30-18 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kiepenkerl-apo-zentrum.de/\">https://www.kiepenkerl-apo-zentrum.de/</a>, <a href=\"tel:0251/46963\">0251/46963</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1491,7 +1491,7 @@
       "properties": {
         "name": "MEDFORTIS,<br /><br />Marktkauf Gievenbeck",
         "address": "Roxeler Straße 416",
-        "info": "Anmeldung online, Hinweis: Mo. - Sa. 8:00 - 20:00<br /><br />24.12. von 8:00 - 14:00<br /><br />31.12. von 8:00 - 16:00<br /><br /><br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
+        "info": "Anmeldung online, Hinweis: Mo. - Sa. 8:00 - 20:00<br /><br /><br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-14 Uhr<br /><br />31.12.: 08-16 Uhr<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
       },
       "geometry": {
         "type": "Point",
@@ -1506,7 +1506,7 @@
       "properties": {
         "name": "MEDFORTIS,<br /><br />Marktkauf Loddenheide",
         "address": "Loddenheide 5",
-        "info": "Anmeldung online, Hinweis: Mo. - Sa. 8:00 - 20:00<br /><br />24.12. von 8:00 - 14:00<br /><br />31.12. von 8:00 - 14:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
+        "info": "Anmeldung online, Hinweis: Mo. - Sa. 8:00 - 20:00<br /><br /><br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-14 Uhr<br /><br />31.12.: 08-14 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
       },
       "geometry": {
         "type": "Point",
@@ -1521,7 +1521,7 @@
       "properties": {
         "name": "MEDFORTIS,<br /><br />Rossini / Karstadt",
         "address": "Salzstraße 46",
-        "info": "Anmeldung online, Hinweis: Mo. - Sa. 10:00 - 20:00<br /><br />24.12. + 31.12. geschlossen<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
+        "info": "Anmeldung online, Hinweis: Mo. - Sa. 10:00 - 20:00<br /><br /><br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: geschlossen<br /><br />31.12.: geschlossen<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
       },
       "geometry": {
         "type": "Point",
@@ -1534,24 +1534,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Münster Testet",
-        "address": "Grevener Straße 325",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.61238780469066,
-          51.9953310141878
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Münster testet GbR",
         "address": "Grevener Straße 325",
-        "info": "Anmeldung online, Testcenter, <a href=\"mailto:info@muenster-testet.de\">info@muenster-testet.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-testet.de\">https://muenster-testet.de</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-14 Uhr<br /><br />25.12.: 11-15 Uhr<br /><br />26.12.: 11-15 Uhr<br /><br />31.12.: 11-17 Uhr, <a href=\"mailto:info@muenster-testet.de\">info@muenster-testet.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-testet.de\">https://muenster-testet.de</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1566,7 +1551,7 @@
       "properties": {
         "name": "Münster testet GbR",
         "address": "Hafenstraße 64",
-        "info": "Anmeldung online, Testcenter, <a href=\"mailto:Münster testet GbR\">Münster testet GbR</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-testet.de\">https://muenster-testet.de</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-14 Uhr<br /><br />25.12.: 11-15 Uhr<br /><br />26.12.: 11-15 Uhr<br /><br />31.12.: 11-17 Uhr, <a href=\"mailto:Münster testet GbR\">Münster testet GbR</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-testet.de\">https://muenster-testet.de</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1596,7 +1581,7 @@
       "properties": {
         "name": "Park-Apotheke",
         "address": "Mondstraße 81",
-        "info": "Anmeldung nicht erforderlich, Apotheke, Hinweis: Anmeldeformular vor Ort, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/park-apotheke-muenster/checkins#/\">https://app.no-q.info/park-apotheke-muenster/checkins#/</a>"
+        "info": "Anmeldung nicht erforderlich, Apotheke, Hinweis: Anmeldeformular vor Ort<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 10-12 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/park-apotheke-muenster/checkins#/\">https://app.no-q.info/park-apotheke-muenster/checkins#/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1611,7 +1596,7 @@
       "properties": {
         "name": "PhysioWolff",
         "address": "Spiekerhof 23",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster.covidservicepoint.de/\">https://muenster.covidservicepoint.de/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 10:30-12:30 Uhr<br /><br />31.12.: 10:30-18:30 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster.covidservicepoint.de/\">https://muenster.covidservicepoint.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1626,7 +1611,7 @@
       "properties": {
         "name": "Pleistermühlenweg",
         "address": "Pleistermühlenweg 74",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster.smart-testen.de/\">https://muenster.smart-testen.de/</a>, <a href=\"tel:0163 2349589\">0163 2349589</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: An den Feiertagen geöffnet, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster.smart-testen.de/\">https://muenster.smart-testen.de/</a>, <a href=\"tel:0163 2349589\">0163 2349589</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1941,7 +1926,7 @@
       "properties": {
         "name": "Schnelltestzentrum Hansaring",
         "address": "Hansaring 33",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://mshansaring.chayns.net/\">https://mshansaring.chayns.net/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-16 Uhr<br /><br />25.12.: 09-16 Uhr<br /><br />26.12.: 09-16 Uhr<br /><br />31.12.: 09-16 Uhr<br /><br />01.01.: 10-17 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://mshansaring.chayns.net/\">https://mshansaring.chayns.net/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1971,7 +1956,7 @@
       "properties": {
         "name": "SportsPlace",
         "address": "Dieckstraße 71",
-        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig mit Terminvereinbarung, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testzentrum-mauritz.de/\">https://www.testzentrum-mauritz.de/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig mit Terminvereinbarung<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 10-14 Uhr <br /><br />26.12.: 10-18 Uhr <br /><br />31.12.: 10-14 Uhr <br /><br />01.01.: 14-18 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testzentrum-mauritz.de/\">https://www.testzentrum-mauritz.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2031,7 +2016,7 @@
       "properties": {
         "name": "Testcenter Am Hawerkamp",
         "address": "Am Hawerkamp 29",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://15minutentest.de/muenster/\">https://15minutentest.de/muenster/</a>, X"
+        "info": "Anmeldung online, Testcenter, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 07:30-12, 13-18 Uhr<br /><br />25.12.: 09-18 Uhr<br /><br />26.12.: 09-18 Uhr<br /><br />31.12.: 07:30-12, 13-20 Uhr<br /><br />01.01.: 09-18 Uhr<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://15minutentest.de/muenster/\">https://15minutentest.de/muenster/</a>, X"
       },
       "geometry": {
         "type": "Point",
@@ -2346,7 +2331,7 @@
       "properties": {
         "name": "Testzentrum am St. Franziskus-Hospital",
         "address": "Hohenzollernring 70",
-        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://franziskus.chayns.net/\">https://franziskus.chayns.net/</a>, <a href=\"tel:116117\">116117</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 10-16 Uhr<br /><br />25.12.: 10-16 Uhr<br /><br />26.12.: 10-16 Uhr<br /><br />31.12.: 10-16 Uhr<br /><br />01.01.: 10-16 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://franziskus.chayns.net/\">https://franziskus.chayns.net/</a>, <a href=\"tel:116117\">116117</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2391,7 +2376,7 @@
       "properties": {
         "name": "Testzentrum Malteser Hilfsdienst e.V. Münster",
         "address": "Daimlerweg 33",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.malteser-muenster.de/testzentrum\">https://www.malteser-muenster.de/testzentrum</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09-12:45<br /><br />31.12.: 09-12:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.malteser-muenster.de/testzentrum\">https://www.malteser-muenster.de/testzentrum</a>"
       },
       "geometry": {
         "type": "Point",
