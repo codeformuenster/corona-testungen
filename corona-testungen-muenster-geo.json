@@ -6,7 +6,7 @@
       "properties": {
         "name": "",
         "address": "Hogenbergstraße 9",
-        "info": "Anmeldung online, Testcenter, <a href=\"mailto:bf@testen365.de\">bf@testen365.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://bf.testen365.de/\">https://bf.testen365.de/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-18 Uhr<br /><br />25.12.: 10-15 Uhr<br /><br />26.12.: 10-15 Uhr<br /><br />01.01.: 10-15 Uhr<br /><br /><br /><br />, <a href=\"mailto:bf@testen365.de\">bf@testen365.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://bf.testen365.de/\">https://bf.testen365.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +66,7 @@
       "properties": {
         "name": "Apotheke am Clemenshospital",
         "address": "Düesbergweg 133",
-        "info": "Anmeldung nicht erforderlich, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://apo-am-clemens.de/corona/\">https://apo-am-clemens.de/corona/</a>, <a href=\"tel:0251/3900180\">0251/3900180</a>"
+        "info": "Anmeldung nicht erforderlich, Apotheke, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09-12 Uhr<br /><br />31.12.: 09-12 Uhr<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://apo-am-clemens.de/corona/\">https://apo-am-clemens.de/corona/</a>, <a href=\"tel:0251/3900180\">0251/3900180</a>"
       },
       "geometry": {
         "type": "Point",
@@ -141,7 +141,7 @@
       "properties": {
         "name": "Coerde-Apotheke",
         "address": "Hamannplatz 11",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"http://coerde-apotheke.de/corona-schnelltest-zentrum\">http://coerde-apotheke.de/corona-schnelltest-zentrum</a>, X, <a href=\"tel:0251/247171\">0251/247171</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: bis 12:30 Uhr<br /><br />31.12.: bis 12:30 Uhr<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"http://coerde-apotheke.de/corona-schnelltest-zentrum\">http://coerde-apotheke.de/corona-schnelltest-zentrum</a>, X, <a href=\"tel:0251/247171\">0251/247171</a>"
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +156,7 @@
       "properties": {
         "name": "Corona Testzentrum am Bült, <br /><br />Hörster Parkplatz",
         "address": "Bült 13",
-        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig – auch an Feiertagen, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.muenstertest.de/\">http://www.muenstertest.de/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig – auch an Feiertagen<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-12:30 Uhr<br /><br />25.12.: 09-13:30 Uhr<br /><br />26.12.: 09-13:30 Uhr<br /><br />31.12.: 08-12:30 Uhr<br /><br />01.01.: 09-13:30 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.muenstertest.de/\">http://www.muenstertest.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -238,6 +238,21 @@
         "coordinates": [
           7.55233294078663,
           51.9514839662367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dehner Garten Center",
+        "address": "Handorfer Straße 105",
+        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-test.de/\">https://muenster-test.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.70534644629226,
+          51.9777051758099
         ]
       }
     },
@@ -328,21 +343,6 @@
         "coordinates": [
           7.64338738267057,
           51.9778798483812
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dr. Eva Maria Grewe, Dr. Stefan Hermes",
-        "address": "Dechaneischanze 3",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@muensterhausarzt.de\">info@muensterhausarzt.de</a>, <a href=\"tel:0251/35535\">0251/35535</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.65344504668349,
-          51.964399992886
         ]
       }
     },
@@ -606,7 +606,7 @@
       "properties": {
         "name": "Engel-Apotheke, im Zibomo Museum",
         "address": "Neustraße 15",
-        "info": "Anmeldung online, Apotheke, <a href=\"mailto:testen@engel-apotheke-wolbeck.de\">testen@engel-apotheke-wolbeck.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/engel-apotheke-awo-dart-treff/checkins#/\">https://app.no-q.info/engel-apotheke-awo-dart-treff/checkins#/</a>"
+        "info": "Anmeldung online, Apotheke, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-13 Uhr<br /><br />25.12.: 09-13 Uhr<br /><br />26.12.: 09-13 Uhr<br /><br />31.12.: 09-14 Uhr<br /><br />01.01.: 09-13 Uhr, <a href=\"mailto:testen@engel-apotheke-wolbeck.de\">testen@engel-apotheke-wolbeck.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/engel-apotheke-awo-dart-treff/checkins#/\">https://app.no-q.info/engel-apotheke-awo-dart-treff/checkins#/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1206,7 +1206,7 @@
       "properties": {
         "name": "Johanniter Testzentrum, <br /><br />Gemeindehaus Jakobuskirche",
         "address": "Von-Ossietzky-Straße 16",
-        "info": "Anmeldung online, Testcenter, Hinweis: Mi. 9:00 - 13:00<br /><br />Do. 14:00 - 19:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Mi. 9:00 - 13:00<br /><br />Do. 14:00 - 19:00<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09-13 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1221,7 +1221,7 @@
       "properties": {
         "name": "Johanniter Testzentrum, <br /><br />SV Concordia Albachten",
         "address": "Hohe Geist 7",
-        "info": "Anmeldung online, Testcenter, Hinweis: Fr. 16:00 - 20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Fr. 16:00 - 20:00<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09-13 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1243,6 +1243,21 @@
         "coordinates": [
           7.62382836522869,
           51.9609194679778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kesslerweg",
+        "address": "Kesslerweg 6",
+        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://kesslerweg.smart-testen.de/\">https://kesslerweg.smart-testen.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64772882188041,
+          51.92459141785
         ]
       }
     },
@@ -1341,7 +1356,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />ARKADEN",
         "address": "Rothenburg 9",
-        "info": "Anmeldung online, Hinweis: mobile Teststation (1. OG), <br /><br />MO - SA von 9:00 - 20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation (1. OG), <br /><br />Mo. - Sa. von 9:00 - 20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1356,7 +1371,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />HILTRUP",
         "address": "Marktallee 36",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />MO - SA von 9:30 - 18:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Mo. - Sa. von 9:30 - 18:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1369,9 +1384,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Leezen Heroes, <br /><br />SÜD",
+        "address": "Schuckertstraße 21",
+        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Mo. - Fr.  12:00 - 15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63851436194379,
+          51.9272816016931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Leezen Heroes, <br /><br />UKM",
         "address": "Albert-Schweitzer-Campus 1",
-        "info": "Anmeldung online, Hinweis: mobile Teststation (Parkdeck Ebene 04)<br /><br />MO - FR   7:15 - 15:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation (Parkdeck Ebene 04)<br /><br />Mo. - So.   7:15 - 15:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1386,7 +1416,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />ZENTRUM NORD",
         "address": "Nevinghoff 16",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />MO - FR   10:15 - 15:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Mo. - Fr.   10:15 - 15:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1446,7 +1476,7 @@
       "properties": {
         "name": "Margareten-Apotheke, Wolbecker Straße 226,  in den Räumen des Gemeindehauses der Ev. Auferstehungsgemeinde",
         "address": "Laerer Landweg 159",
-        "info": "Anmeldung online, Apotheke, Hinweis: nur mit online Registrierung, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/margareten-apotheke-muenster/checkins#\">https://app.no-q.info/margareten-apotheke-muenster/checkins#</a>, <a href=\"tel:0251/314756\">0251/314756</a>"
+        "info": "Anmeldung online, Apotheke, Hinweis: nur mit online Registrierung<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />31.12.: geöffnet, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/margareten-apotheke-muenster/checkins#\">https://app.no-q.info/margareten-apotheke-muenster/checkins#</a>, <a href=\"tel:0251/314756\">0251/314756</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1551,7 +1581,7 @@
       "properties": {
         "name": "Naturheipraxis Ulrike Lürbke",
         "address": "Christoph-Bernhard-Graben 147",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"mailto:praxis@ulrike-luerbke.de\">praxis@ulrike-luerbke.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://ulrike-luerbke.de/\">https://ulrike-luerbke.de/</a>, <a href=\"tel:0251/3904458\">0251/3904458</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 10-13 Uhr<br /><br />25.12.: 10-13 Uhr<br /><br />26.12.: 10-13 Uhr<br /><br />31.12.: 10-13 Uhr<br /><br />01.01.: 10-13 Uhr, <a href=\"mailto:praxis@ulrike-luerbke.de\">praxis@ulrike-luerbke.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://ulrike-luerbke.de/\">https://ulrike-luerbke.de/</a>, <a href=\"tel:0251/3904458\">0251/3904458</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1588,6 +1618,21 @@
         "coordinates": [
           7.62410812111645,
           51.9641417439729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pleistermühlenweg",
+        "address": "Pleistermühlenweg 74",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster.smart-testen.de/\">https://muenster.smart-testen.de/</a>, <a href=\"tel:0163 2349589\">0163 2349589</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6763228689468,
+          51.9610807620755
         ]
       }
     },
@@ -1836,7 +1881,7 @@
       "properties": {
         "name": "Schnellteststelle Düne",
         "address": "Zum Hiltruper See 139",
-        "info": "Anmeldung nicht erforderlich, Testcenter, <a href=\"tel:015236323727\">015236323727</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-16 Uhr <br /><br />25.12.: 10-18 Uhr <br /><br />26.12.: 10-18 Uhr <br /><br />31.12.: 08-16 Uhr <br /><br />01.01.: 12-18 Uhr, <a href=\"tel:015236323727\">015236323727</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1881,28 +1926,13 @@
       "properties": {
         "name": "Schnelltestzentrum /<br /><br />Impfzentrum Münster Kreuzviertel",
         "address": "Wilhelmstraße 5",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/schnelltestzentrum-muenster-kreuzviertel/checkins\">https://app.no-q.info/schnelltestzentrum-muenster-kreuzviertel/checkins</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-14 Uhr<br /><br />25.12.: 09-13 Uhr<br /><br />26.12.: 09-13 Uhr<br /><br />31.12.: 08-18 Uhr<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/schnelltestzentrum-muenster-kreuzviertel/checkins\">https://app.no-q.info/schnelltestzentrum-muenster-kreuzviertel/checkins</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           7.61460044226673,
           51.9670604369058
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Schnelltestzentrum <br /><br />Dehner Garten Center",
-        "address": "Handorfer Straße 105",
-        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://medicarus.chayns.net/\">https://medicarus.chayns.net/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.70534644629226,
-          51.9777051758099
         ]
       }
     },
@@ -1926,7 +1956,7 @@
       "properties": {
         "name": "Schnelltestzentrum Münster Mauritz<br /><br />Dr. Eva-Maria Grewe",
         "address": "Dechaneischanze 3",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/schnelltestzentrum-muenster-mauritz/checkins#/\">https://app.no-q.info/schnelltestzentrum-muenster-mauritz/checkins#/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 07:30-13 Uhr<br /><br />25.12.: 09-13 Uhr<br /><br />26.12.: 09-13 Uhr<br /><br />31.12.: 07:30-18 Uhr<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/schnelltestzentrum-muenster-mauritz/checkins#/\">https://app.no-q.info/schnelltestzentrum-muenster-mauritz/checkins#/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2046,7 +2076,7 @@
       "properties": {
         "name": "Teststation am Heekweg",
         "address": "Heekweg 15",
-        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststation-am-heekweg/checkins\">https://app.no-q.info/teststation-am-heekweg/checkins</a>, <a href=\"tel:0174 / 205 48 64\">0174 / 205 48 64</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 10-18 Uhr <br /><br />25.12.: 10-18 Uhr <br /><br />26.12.: 10-18 Uhr <br /><br />31.12.: 10-18 Uhr <br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststation-am-heekweg/checkins\">https://app.no-q.info/teststation-am-heekweg/checkins</a>, <a href=\"tel:0174 / 205 48 64\">0174 / 205 48 64</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2068,6 +2098,21 @@
         "coordinates": [
           7.63713894711745,
           51.9587544576462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teststelle am HBF",
+        "address": "Berliner Platz 29",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://hbf.smart-testen.de/\">https://hbf.smart-testen.de/</a>, <a href=\"tel:015219289550\">015219289550</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6347865390885,
+          51.9561825702742
         ]
       }
     },
@@ -2106,7 +2151,7 @@
       "properties": {
         "name": "Teststelle Borussia",
         "address": "Grevingstraße 32",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: täglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://borussia.smart-testen.de/\">https://borussia.smart-testen.de/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: täglich<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-14 Uhr<br /><br />25.12.: 08-14 Uhr<br /><br />26.12.: 10-17 Uhr<br /><br />31.12.: 08-14 Uhr<br /><br />01.01.: 14-18 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://borussia.smart-testen.de/\">https://borussia.smart-testen.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2121,7 +2166,7 @@
       "properties": {
         "name": "Teststelle Coerdemarkt",
         "address": "Hamannplatz 29",
-        "info": "Anmeldung online, Testcenter, <a href=\"mailto:coerdemarkt@gmail.com\">coerdemarkt@gmail.com</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://coerde.smart-testen.de/\">https://coerde.smart-testen.de/</a>, <a href=\"tel:015734212895\">015734212895</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Öffnungszeiten <br /><br />über die Feiertage<br /><br />24.12.: 08-18 Uhr<br /><br />25.12.: 10-17 Uhr<br /><br />26.12.: 10-17 Uhr<br /><br />01.01.: 10-17 Uhr<br /><br />, <a href=\"mailto:coerdemarkt@gmail.com\">coerdemarkt@gmail.com</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://coerde.smart-testen.de/\">https://coerde.smart-testen.de/</a>, <a href=\"tel:015734212895\">015734212895</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2166,7 +2211,7 @@
       "properties": {
         "name": "Teststelle Hiltruper Bahnhof",
         "address": "Bergiusstraße 20",
-        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://hiltrupbhf.smart-testen.de/\">https://hiltrupbhf.smart-testen.de/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-15 Uhr<br /><br />25.12.: 08-18 Uhr<br /><br />31.12.: 08-18 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://hiltrupbhf.smart-testen.de/\">https://hiltrupbhf.smart-testen.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2224,21 +2269,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Teststelle smart testen",
-        "address": "Berliner Platz 29",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a href=\"tel:015219289550\">015219289550</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6347865390885,
-          51.9561825702742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Teststelle smart testen<br /><br />",
         "address": "Robert-Bosch-Straße 4",
         "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a href=\"tel:015217273394\">015217273394</a>"
@@ -2256,7 +2286,7 @@
       "properties": {
         "name": "Teststelle St. Joseph Kirche",
         "address": "Hammer Straße 65",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: täglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://kirchplatz.smart-testen.de/\">https://kirchplatz.smart-testen.de/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: täglich<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-17 Uhr<br /><br />25.12.: 12-17 Uhr<br /><br />26.12.: 10-17 Uhr<br /><br />31.12.: 08-20 Uhr <br /><br />01.01.: 10-15 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://kirchplatz.smart-testen.de/\">https://kirchplatz.smart-testen.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2286,7 +2316,7 @@
       "properties": {
         "name": "Teststelle TuS Hiltrup",
         "address": "Osttor 85",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://15minutentest.de/\">https://15minutentest.de/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 7:30-18 Uhr <br /><br />25.12.: 09-18 Uhr<br /><br />26.12.: 09-18 Uhr <br /><br />31.12.: 7:30-20 Uhr <br /><br />01.01.: 09-18 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://15minutentest.de/\">https://15minutentest.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2301,7 +2331,7 @@
       "properties": {
         "name": "Teststelle Zwanzig20",
         "address": "Hammer Straße 30",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://zwanzig20.smart-testen.de/\">https://zwanzig20.smart-testen.de/</a>, <a href=\"tel:0251 - 53555710\">0251 - 53555710</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09-15 Uhr <br /><br />25.12.: 10-16 Uhr <br /><br />26.12.: 10-16 Uhr <br /><br />31.12.: 07-17 Uhr <br /><br />01.01.: 10-17 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://zwanzig20.smart-testen.de/\">https://zwanzig20.smart-testen.de/</a>, <a href=\"tel:0251 - 53555710\">0251 - 53555710</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2406,7 +2436,7 @@
       "properties": {
         "name": "Vital Apotheke",
         "address": "Dieckmannstraße 200",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Herr Nils Hellenbrand, <a href=\"mailto:gievenbeck-testet.de\">gievenbeck-testet.de</a>, <a href=\"tel:0251/8725006\">0251/8725006</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Herr Nils Hellenbrand<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09-12 Uhr <br /><br />31.12.: 09-12 Uhr, <a href=\"mailto:gievenbeck-testet.de\">gievenbeck-testet.de</a>, <a href=\"tel:0251/8725006\">0251/8725006</a>"
       },
       "geometry": {
         "type": "Point",
