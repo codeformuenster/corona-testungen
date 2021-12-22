@@ -546,7 +546,7 @@
       "properties": {
         "name": "Drive-In",
         "address": "Brandhoveweg 101",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: ganzwöchig, <a href=\"mailto:info@kopfherzundhand.de\">info@kopfherzundhand.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: ganzwöchig<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />- geöffnet wie bisher -<br /><br />26.12.: - geschlossen -<br /><br />01.01.: - geschlossen -<br /><br />, <a href=\"mailto:info@kopfherzundhand.de\">info@kopfherzundhand.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -561,7 +561,7 @@
       "properties": {
         "name": "Drive-in Hallenbad Roxel",
         "address": "Tilbecker Straße 36",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: ganzwöchig<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />- geöffnet wie bisher –<br /><br />25.12.: - geschlossen –<br /><br />01.01.: - geschlossen –<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -606,7 +606,7 @@
       "properties": {
         "name": "Engel-Apotheke",
         "address": "Warendorfer Straße 3",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststelle-engel-apotheke-muenster/checkins#/\">https://app.no-q.info/teststelle-engel-apotheke-muenster/checkins#/</a>"
+        "info": "Anmeldung online, Apotheke, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 10-13 Uhr <br /><br />31.12.: 10-13 Uhr<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststelle-engel-apotheke-muenster/checkins#/\">https://app.no-q.info/teststelle-engel-apotheke-muenster/checkins#/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2046,7 +2046,7 @@
       "properties": {
         "name": "TestCov Münster Poco",
         "address": "Weseler Straße 579",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://testcov-muenster.ticketbird.de/\">https://testcov-muenster.ticketbird.de/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09-15 Uhr <br /><br />25.12.: 09-16 Uhr<br /><br />26.12.: 09-16 Uhr<br /><br />31.01.: 09-15 Uhr<br /><br />01.01.: 14-18 Uhr<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://testcov-muenster.ticketbird.de/\">https://testcov-muenster.ticketbird.de/</a>"
       },
       "geometry": {
         "type": "Point",
