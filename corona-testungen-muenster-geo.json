@@ -454,21 +454,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dr. med. Olaf Heinemann-Vechtel",
-        "address": "Windthorststraße 31",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@praxis-heinemann-vechtel.de\">info@praxis-heinemann-vechtel.de</a>, <a href=\"tel:0251/56354\">0251/56354</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62993084011405,
-          51.9579244913194
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Dr. Peter Robotta",
         "address": "Weseler Straße 77",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:corona-test@dr-robotta.de\">corona-test@dr-robotta.de</a>, <a href=\"tel:0251/776677\">0251/776677</a>"
@@ -816,7 +801,7 @@
       "properties": {
         "name": "Gemeinschaftspraxis Dres. Fuchs &amp; Hieronymus",
         "address": "Gartenstiege 1",
-        "info": "Anmeldung online, Arzt, <a target=\"_blank\" rel=\"noopener\" href=\"https://hausarzt-nienberge.probatix.de\">https://hausarzt-nienberge.probatix.de</a>, <a href=\"tel:02533/2022\">02533/2022</a>"
+        "info": "Anmeldung online, Arzt, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-13 Uhr<br /><br />25.12.: 08-12 Uhr<br /><br />26.12.: 08-12 Uhr<br /><br />31.12.: 08-17 Uhr<br /><br />01.01.: 11-15 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://hausarzt-nienberge.probatix.de\">https://hausarzt-nienberge.probatix.de</a>, <a href=\"tel:02533/2022\">02533/2022</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1371,7 +1356,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />ARKADEN",
         "address": "Rothenburg 9",
-        "info": "Anmeldung online, Hinweis: mobile Teststation (1. OG), <br /><br />Mo. - Sa. von 9:00 - 20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation (1. OG), <br /><br />Mo. - Sa. von 9:00 - 20:00<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09-14 Uhr<br /><br />25.12.: - geschlossen -<br /><br />26.12.: - geschlossen -<br /><br />31.12.: 09-16 Uhr<br /><br />01.01.: - geschlossen -<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1386,7 +1371,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />HILTRUP",
         "address": "Marktallee 36",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Mo. - Sa. von 9:30 - 18:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Mo. - Sa. von 9:30 - 18:00<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09:30-14 Uhr<br /><br />25.12.: - geschlossen -<br /><br />26.12.: - geschlossen -<br /><br />31.12.: 09:30-16 Uhr<br /><br />01.01.: - geschlossen -<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1401,7 +1386,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />SÜD",
         "address": "Schuckertstraße 21",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Mo. - Fr.  12:00 - 15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Mo. - Fr.  12:00 - 15:00<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: - geschlossen -<br /><br />25.12.: - geschlossen -<br /><br />26.12.: - geschlossen -<br /><br />31.12.: - geschlossen -<br /><br />01.01.: - geschlossen -, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1416,7 +1401,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />UKM",
         "address": "Albert-Schweitzer-Campus 1",
-        "info": "Anmeldung online, Hinweis: mobile Teststation (Parkdeck Ebene 04)<br /><br />Mo. - So.   7:15 - 15:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation (Parkdeck Ebene 04)<br /><br />Mo. - So.   7:15 - 15:45 <br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 07:15-14:00 Uhr<br /><br />25.12.: 07:15-15:45 Uhr<br /><br />26.12.: 07:15-15:45 Uhr<br /><br />31.12.: 07:15-15:45 Uhr<br /><br />01.01.: 07:15-15:45 Uhr<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1416,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />ZENTRUM NORD",
         "address": "Nevinghoff 16",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Mo. - Fr.   10:15 - 15:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Mo. - Fr.   10:15 - 15:45<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: - geschlossen -<br /><br />25.12.: - geschlossen -<br /><br />26.12.: - geschlossen -<br /><br />31.12.: - geschlossen -<br /><br />01.01.: - geschlossen -<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
