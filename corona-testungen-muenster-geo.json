@@ -2164,6 +2164,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Teststelle direkt bei Brief und Mehr",
+        "address": "Eulerstraße 15",
+        "info": "Testcenter, Hinweis: Ab 03.01.2022 Montag bis Freitag 8.00 - 16.00 Uhr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63912925823391,
+          51.9391667046603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Teststelle Drive-in <br /><br />Roadstop",
         "address": "Schifffahrter Damm 315",
         "info": "Anmeldung nicht erforderlich, Testcenter, <a href=\"mailto:muenster@coronaschnelltest.nrw\">muenster@coronaschnelltest.nrw</a>, <a target=\"_blank\" rel=\"noopener\" href=\"http://coronaschnelltest.nrw/\">http://coronaschnelltest.nrw/</a>, <a href=\"tel:02302/3984965\">02302/3984965</a>"
