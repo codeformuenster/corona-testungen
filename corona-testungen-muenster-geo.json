@@ -2166,7 +2166,7 @@
       "properties": {
         "name": "Teststelle direkt bei Brief und Mehr",
         "address": "Eulerstraße 15",
-        "info": "Anmeldung online, Testcenter, Hinweis: Ab 03.01.2022 Montag bis Freitag 8.00 - 16.00 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://euler.testen365.de/\">https://euler.testen365.de/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Ab 03.01.2022 Montag bis Freitag 8.00 - 16.00 Uhr, <a href=\"mailto:euler.testen@gmx.de\">euler.testen@gmx.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://euler.testen365.de/\">https://euler.testen365.de/</a>"
       },
       "geometry": {
         "type": "Point",
