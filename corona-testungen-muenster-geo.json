@@ -471,7 +471,7 @@
       "properties": {
         "name": "Dr. Robert Koss, Zahnarzt u. Oralchirurg, Praxis im FranziskusCarré",
         "address": "Hohenzollernring 70",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/44278\">0251/44278</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.drkoss.de/\">http://www.drkoss.de/</a>, <a href=\"tel:0251/44278\">0251/44278</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1356,7 +1356,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />ARKADEN",
         "address": "Rothenburg 9",
-        "info": "Anmeldung online, Hinweis: mobile Teststation (1. OG), <br /><br />Mo. - Sa. von 9:00 - 20:00<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09-14 Uhr<br /><br />25.12.: - geschlossen -<br /><br />26.12.: - geschlossen -<br /><br />31.12.: 09-16 Uhr<br /><br />01.01.: - geschlossen -<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: mobile Teststation (1. OG), <br /><br />Mo. - Sa. von 9:00 - 20:00<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09-14 Uhr<br /><br />25.12.: - geschlossen -<br /><br />26.12.: - geschlossen -<br /><br />31.12.: 09-16 Uhr<br /><br />01.01.: - geschlossen -<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1371,7 +1371,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />HILTRUP",
         "address": "Marktallee 36",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Mo. - Sa. von 9:30 - 18:00<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09:30-14 Uhr<br /><br />25.12.: - geschlossen -<br /><br />26.12.: - geschlossen -<br /><br />31.12.: 09:30-16 Uhr<br /><br />01.01.: - geschlossen -<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: mobile Teststation, <br /><br />Mo. - Sa. von 9:30 - 18:00<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09:30-14 Uhr<br /><br />25.12.: - geschlossen -<br /><br />26.12.: - geschlossen -<br /><br />31.12.: 09:30-16 Uhr<br /><br />01.01.: - geschlossen -<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1386,7 +1386,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />SÜD",
         "address": "Schuckertstraße 21",
-        "info": "Anmeldung online, Hinweis: mobile Teststation, <br /><br />Mo. - Fr.  12:00 - 15:00<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: - geschlossen -<br /><br />25.12.: - geschlossen -<br /><br />26.12.: - geschlossen -<br /><br />31.12.: - geschlossen -<br /><br />01.01.: - geschlossen -, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: mobile Teststation, <br /><br />Mo. - Fr.  12:00 - 15:00<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: - geschlossen -<br /><br />25.12.: - geschlossen -<br /><br />26.12.: - geschlossen -<br /><br />31.12.: - geschlossen -<br /><br />01.01.: - geschlossen -, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1401,7 +1401,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />UKM",
         "address": "Albert-Schweitzer-Campus 1",
-        "info": "Anmeldung online, Hinweis: mobile Teststation (Parkdeck Ebene 04)<br /><br />Mo. - So.   7:15 - 15:45 <br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 07:15-14:00 Uhr<br /><br />25.12.: 07:15-15:45 Uhr<br /><br />26.12.: 07:15-15:45 Uhr<br /><br />31.12.: 07:15-15:45 Uhr<br /><br />01.01.: 07:15-15:45 Uhr<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: mobile Teststation (Parkdeck Ebene 04)<br /><br />Mo. - So.   7:15 - 15:45 <br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 07:15-14:00 Uhr<br /><br />25.12.: 07:15-15:45 Uhr<br /><br />26.12.: 07:15-15:45 Uhr<br /><br />31.12.: 07:15-15:45 Uhr<br /><br />01.01.: 07:15-15:45 Uhr<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1416,7 +1416,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />ZENTRUM NORD",
         "address": "Nevinghoff 16",
-        "info": "Anmeldung online, Hinweis: mobile Teststation<br /><br />Mo. - Fr.   10:15 - 15:45<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: - geschlossen -<br /><br />25.12.: - geschlossen -<br /><br />26.12.: - geschlossen -<br /><br />31.12.: - geschlossen -<br /><br />01.01.: - geschlossen -<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: mobile Teststation<br /><br />Mo. - Fr.   10:15 - 15:45<br /><br /> <br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: - geschlossen -<br /><br />25.12.: - geschlossen -<br /><br />26.12.: - geschlossen -<br /><br />31.12.: - geschlossen -<br /><br />01.01.: - geschlossen -<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1491,7 +1491,7 @@
       "properties": {
         "name": "MEDFORTIS,<br /><br />Marktkauf Gievenbeck",
         "address": "Roxeler Straße 416",
-        "info": "Anmeldung online, Hinweis: Mo. - Sa. 8:00 - 20:00<br /><br /><br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-14 Uhr<br /><br />31.12.: 08-16 Uhr<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
+        "info": "Anmeldung online, Testcenter, Hinweis: Mo. - Sa. 8:00 - 20:00<br /><br /><br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-14 Uhr<br /><br />31.12.: 08-16 Uhr<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
       },
       "geometry": {
         "type": "Point",
@@ -1506,7 +1506,7 @@
       "properties": {
         "name": "MEDFORTIS,<br /><br />Marktkauf Loddenheide",
         "address": "Loddenheide 5",
-        "info": "Anmeldung online, Hinweis: Mo. - Sa. 8:00 - 20:00<br /><br /><br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-14 Uhr<br /><br />31.12.: 08-14 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
+        "info": "Anmeldung online, Testcenter, Hinweis: Mo. - Sa. 8:00 - 20:00<br /><br /><br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 08-14 Uhr<br /><br />31.12.: 08-14 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
       },
       "geometry": {
         "type": "Point",
@@ -1521,7 +1521,7 @@
       "properties": {
         "name": "MEDFORTIS,<br /><br />Rossini / Karstadt",
         "address": "Salzstraße 46",
-        "info": "Anmeldung online, Hinweis: Mo. - Sa. 10:00 - 20:00<br /><br /><br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: geschlossen<br /><br />31.12.: geschlossen<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
+        "info": "Anmeldung online, Testcenter, Hinweis: Mo. - Sa. 10:00 - 20:00<br /><br /><br /><br />Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: geschlossen<br /><br />31.12.: geschlossen<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
       },
       "geometry": {
         "type": "Point",
@@ -2166,7 +2166,7 @@
       "properties": {
         "name": "Teststelle direkt bei Brief und Mehr",
         "address": "Eulerstraße 15",
-        "info": "Anmeldung online, Testcenter, Hinweis: Ab 03.01.2022 Montag bis Freitag 8.00 - 16.00 Uhr, <a href=\"mailto:euler.testen@gmx.de\">euler.testen@gmx.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://euler.testen365.de/\">https://euler.testen365.de/</a>"
+        "info": "Anmeldung online, Testcenter, <a href=\"mailto:euler.testen@gmx.de\">euler.testen@gmx.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://euler.testen365.de/\">https://euler.testen365.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2263,6 +2263,21 @@
         "coordinates": [
           7.62700109392126,
           51.9552108511454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teststelle Piusallee smart-testen",
+        "address": "Piusallee 139",
+        "info": "Anmeldung online, Testcenter, Hinweis: Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12-31.12 08:00-16:00 Uhr<br /><br />01.01.2022 Geschlossen, <a target=\"_blank\" rel=\"noopener\" href=\"https://piusallee.smart-testen.de/\">https://piusallee.smart-testen.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64033763439257,
+          51.9718472726237
         ]
       }
     },
