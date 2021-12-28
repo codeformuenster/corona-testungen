@@ -2271,7 +2271,7 @@
       "properties": {
         "name": "Teststelle Piusallee smart-testen",
         "address": "Piusallee 139",
-        "info": "Anmeldung online, Testcenter, Hinweis: Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12-31.12 08:00-16:00 Uhr<br /><br />01.01.2022 Geschlossen, <a target=\"_blank\" rel=\"noopener\" href=\"https://piusallee.smart-testen.de/\">https://piusallee.smart-testen.de/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12-31.12 08:00-16:00 Uhr<br /><br />01.01.2022 09:00-18:30 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://piusallee.smart-testen.de/\">https://piusallee.smart-testen.de/</a>"
       },
       "geometry": {
         "type": "Point",
