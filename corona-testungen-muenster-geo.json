@@ -2271,7 +2271,7 @@
       "properties": {
         "name": "Teststelle Morthorststraße",
         "address": "Morthorststraße 37",
-        "info": "Anmeldung nicht erforderlich, Testcenter"
+        "info": "Anmeldung nicht erforderlich, Testcenter, <a href=\"mailto:artis-service@web.de\">artis-service@web.de</a>"
       },
       "geometry": {
         "type": "Point",
