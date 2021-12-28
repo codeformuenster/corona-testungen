@@ -2269,6 +2269,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Teststelle Morthorststraße",
+        "address": "Morthorststraße 37",
+        "info": "Anmeldung nicht erforderlich, Testcenter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64738342824313,
+          51.991197397546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Teststelle Piusallee smart-testen",
         "address": "Piusallee 139",
         "info": "Anmeldung online, Testcenter, Hinweis: Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12-31.12 08:00-16:00 Uhr<br /><br />01.01.2022 09:00-18:30 Uhr, <a target=\"_blank\" rel=\"noopener\" href=\"https://piusallee.smart-testen.de/\">https://piusallee.smart-testen.de/</a>"
@@ -2293,6 +2308,21 @@
         "coordinates": [
           7.63188591304689,
           51.9338585829198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teststelle Sprickmannplatz",
+        "address": "Sprickmannplatz 4",
+        "info": "Anmeldung online, Testcenter, Hinweis: Hinweis: Öffnungszeiten über die<br /><br />Feiertage<br /><br />31.12.2021 08:00-20:00 Uhr<br /><br />01.01.2022 08:00-20:00 Uhr, <a href=\"mailto:Covid-Test159@outlook.de\">Covid-Test159@outlook.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://covidtest159.de/\">https://covidtest159.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59485309556212,
+          51.9989625281555
         ]
       }
     },
