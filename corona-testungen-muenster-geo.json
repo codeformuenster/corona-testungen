@@ -66,7 +66,7 @@
       "properties": {
         "name": "Apotheke am Clemenshospital",
         "address": "Düesbergweg 133",
-        "info": "Anmeldung nicht erforderlich, Apotheke, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09-12 Uhr<br /><br />31.12.: 09-12 Uhr<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://apo-am-clemens.de/corona/\">https://apo-am-clemens.de/corona/</a>, <a href=\"tel:0251/3900180\">0251/3900180</a>"
+        "info": "Anmeldung online, Apotheke, Hinweis: Öffnungszeiten<br /><br />über die Feiertage<br /><br />24.12.: 09-12 Uhr<br /><br />31.12.: 09-12 Uhr<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://apo-am-clemens.de/corona/\">https://apo-am-clemens.de/corona/</a>, <a href=\"tel:0251/3900180\">0251/3900180</a>"
       },
       "geometry": {
         "type": "Point",
