@@ -1356,7 +1356,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />ARKADEN",
         "address": "Rothenburg 9",
-        "info": "Anmeldung online, Testcenter, Hinweis: mobile Teststation (1. OG), <br /><br />Mo. - Sa. von 9:00 - 20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: 1. OG<br /><br />Mo. - Sa. von 9:00 - 20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1371,7 +1371,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />HILTRUP",
         "address": "Marktallee 36",
-        "info": "Anmeldung online, Testcenter, Hinweis: mobile Teststation, <br /><br />Mo. - Sa. von 9:30 - 18:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Mo. - Sa. von 9:30 - 18:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1386,7 +1386,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />SÜD",
         "address": "Schuckertstraße 21",
-        "info": "Anmeldung online, Testcenter, Hinweis: mobile Teststation, <br /><br />Mo. - Fr.  12:00 - 15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Mo. - Fr.  12:00 - 15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1401,7 +1401,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />UKM",
         "address": "Albert-Schweitzer-Campus 1",
-        "info": "Anmeldung online, Testcenter, Hinweis: mobile Teststation (Parkdeck Ebene 04)<br /><br />Mo. - So.   7:15 - 15:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Parkdeck Ebene 04<br /><br />Mo. - So.   7:15 - 15:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1416,7 +1416,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />ZENTRUM NORD",
         "address": "Nevinghoff 16",
-        "info": "Anmeldung online, Testcenter, Hinweis: mobile Teststation<br /><br />Mo. - Fr.   10:15 - 15:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Mo. - Fr.   10:15 - 15:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
