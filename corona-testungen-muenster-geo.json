@@ -2074,6 +2074,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Testhelden",
+        "address": "Friedrich-Ebert-Straße 110",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: tägl. 07:00-22:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://testhelden-suedviertel.de\">https://testhelden-suedviertel.de</a>, X, <a href=\"tel:0251/97563992\">0251/97563992</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63054607278483,
+          51.9468089821929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Teststation ACE, Landhaus Eggert",
         "address": "Zur Haskenau 81",
         "info": "Anmeldung online, Testcenter, Hinweis: tägl. 15:00 - 18:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststation-ace-landhaus-eggert-handort/checkins#/2245/2021-11-26\">https://app.no-q.info/teststation-ace-landhaus-eggert-handort/checkins#/2245/2021-11-26</a>"
@@ -2218,6 +2233,21 @@
         "coordinates": [
           7.66278403076723,
           51.9885589138534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teststelle Edeka Aaseestadt",
+        "address": "Von-Witzleben-Straße 10",
+        "info": "Anmeldung online, Testcenter, Hinweis: Mo.-Sa. 08:30-13:00 + 14:00-18:30<br /><br />So. 10:00-15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://aasee.smart-testen.de/\">https://aasee.smart-testen.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6082117521393,
+          51.9472663806363
         ]
       }
     },
