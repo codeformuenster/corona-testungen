@@ -2374,6 +2374,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Teststelle Sprakel",
+        "address": "Marienstraße 10",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://sprakel.smart-testen.de/\">https://sprakel.smart-testen.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61734235792459,
+          52.0354377276362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Teststelle Sprickmannplatz",
         "address": "Sprickmannplatz 4",
         "info": "Anmeldung online, Testcenter, <a href=\"mailto:Covid-Test159@outlook.de\">Covid-Test159@outlook.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://covidtest159.de/\">https://covidtest159.de/</a>"
