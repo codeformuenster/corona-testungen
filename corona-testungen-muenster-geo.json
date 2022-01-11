@@ -336,7 +336,7 @@
       "properties": {
         "name": "Dr. Christian Berg - Dr. Illerhaus",
         "address": "Auf dem Dorn 21",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.medis-muenster.de/praxen/details/116\">https://www.medis-muenster.de/praxen/details/116</a>, X, <a href=\"tel:0157/38173113\">0157/38173113</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.medis-muenster.de/praxen/details/116\">https://www.medis-muenster.de/praxen/details/116</a>, <a href=\"tel:0157/38173113\">0157/38173113</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1896,7 +1896,7 @@
       "properties": {
         "name": "Schnellteststelle Düne",
         "address": "Zum Hiltruper See 139",
-        "info": "Anmeldung nicht erforderlich, Testcenter, <a href=\"tel:015236323727\">015236323727</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://duene.smart-testen.de/\">https://duene.smart-testen.de/</a>, <a href=\"tel:015210556331\">015210556331</a>"
       },
       "geometry": {
         "type": "Point",
