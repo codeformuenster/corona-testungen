@@ -1386,7 +1386,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />GREMMENDORF",
         "address": "Albersloher Weg 445",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Sa. von 7:45 - 19:15, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - So. von 7:45 - 19:15, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1446,7 +1446,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />ZENTRUM NORD",
         "address": "Nevinghoff 16",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Fr.   14:00 - 17:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Fr.   09:00 - 17:45<br /><br />Sa.  10:15 - 13:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
