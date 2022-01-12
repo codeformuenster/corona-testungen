@@ -261,7 +261,7 @@
       "properties": {
         "name": "Cytecs GmbH",
         "address": "Im Derdel 8",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://cytecs.covidservicepoint.de\">https://cytecs.covidservicepoint.de</a>, X"
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://cytecs.covidservicepoint.de\">https://cytecs.covidservicepoint.de</a>"
       },
       "geometry": {
         "type": "Point",
