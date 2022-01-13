@@ -679,6 +679,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Forma famos Cosmetics",
+        "address": "Hörsterstraße 37",
+        "info": "Anmeldung per Mail oder telefonisch, Testcenter, Hinweis: Whatsapp-Nummer 01706656321<br /><br />Mo.-Fr. 10:00 - 18:00<br /><br />Sa. 12:00 - 18:00, <a href=\"mailto:info@forma-famos.de\">info@forma-famos.de</a>, X, <a href=\"tel:0251-98161166\">0251-98161166</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63261324419028,
+          51.9649511657164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Gemeinschaftspraxis Am Kreuztor",
         "address": "Am Kreuztor 6",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251 270040\">0251 270040</a>"
