@@ -2150,14 +2150,14 @@
       "type": "Feature",
       "properties": {
         "name": "Teststelle am Bahnhof",
-        "address": "Wolbecker Straße 14",
+        "address": "Wolbecker Straße 11",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://bahnhof.smart-testen.de/\">https://bahnhof.smart-testen.de/</a>, <a href=\"tel:015215784647\">015215784647</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.63713894711745,
-          51.9587544576462
+          7.63746676146973,
+          51.9589830426787
         ]
       }
     },
