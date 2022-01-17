@@ -2059,6 +2059,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Stern-Apotheke",
+        "address": "Ludgeristraße 66",
+        "info": "Anmeldung nicht erforderlich, Apotheke, Hinweis: Mo. - Fr.  09:00 - 12:00 <br /><br />       und 15:00 - 18:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/stern-apotheke-muenster/checkins#/3306/2022-01-17\">https://app.no-q.info/stern-apotheke-muenster/checkins#/3306/2022-01-17</a>, <a href=\"tel:0251-44910\">0251-44910</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.62634530422857,
+          51.9566688395037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Süd-Apotheke",
         "address": "Hammer Straße 101",
         "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.suedviertel-apotheken-muenster.de/\">https://www.suedviertel-apotheken-muenster.de/</a>, <a href=\"tel:0251/7774880\">0251/7774880</a>"
@@ -2068,6 +2083,21 @@
         "coordinates": [
           7.62402381682661,
           51.9469307443689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Täschlein&amp;Böxchen",
+        "address": "Warendorfer Straße 57",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Do.  10:00 - 21:00<br /><br />Fr. - Sa.  10:00 -22:00<br /><br />So.  10:00 - 21:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://testzentrum.ms/\">https://testzentrum.ms/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64371333367065,
+          51.9622651777547
         ]
       }
     },
