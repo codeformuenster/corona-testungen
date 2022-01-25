@@ -2331,7 +2331,7 @@
       "properties": {
         "name": "Teststelle direkt bei Brief und Mehr",
         "address": "Eulerstraße 15",
-        "info": "Anmeldung online, Testcenter, <a href=\"mailto:euler.testen@gmx.de\">euler.testen@gmx.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://euler.testen365.de/\">https://euler.testen365.de/</a>"
+        "info": "Anmeldung online, Testcenter, <a href=\"mailto:euler.testen@gmx.de\">euler.testen@gmx.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://euler.smart-testen.de/\">https://euler.smart-testen.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2683,6 +2683,21 @@
         "coordinates": [
           7.57045563104883,
           51.9586290361504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Von-Galen-Apotheke",
+        "address": "Gasselstiege 25",
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.pcr-ms.de/\">http://www.pcr-ms.de/</a>, <a href=\"tel:0251 2705027\">0251 2705027</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60999478348907,
+          51.972419122013
         ]
       }
     },
