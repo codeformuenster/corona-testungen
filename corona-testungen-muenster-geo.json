@@ -2464,15 +2464,15 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Teststelle Piusallee smart-testen",
-        "address": "Piusallee 139",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://piusallee.smart-testen.de/\">https://piusallee.smart-testen.de/</a>"
+        "name": "Teststelle Piusallee smart-testen,<br /><br />Parkplatz KatHo",
+        "address": "Piusallee 89",
+        "info": "Anmeldung online, Testcenter, Hinweis: Mo. - Sa. 9:00-18:30, <a href=\"mailto:test.piusallee11@gmail.com\">test.piusallee11@gmail.com</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://piusallee.smart-testen.de/\">https://piusallee.smart-testen.de/</a>, <a href=\"tel:015237736714\">015237736714</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.64033763439257,
-          51.9718472726237
+          7.63957088264466,
+          51.9683226955378
         ]
       }
     },
