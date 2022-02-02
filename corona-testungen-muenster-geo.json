@@ -1236,7 +1236,7 @@
       "properties": {
         "name": "Johanniter Testzentrum, <br /><br />Gemeindehaus Jakobuskirche",
         "address": "Von-Ossietzky-Straße 16",
-        "info": "Anmeldung online, Testcenter, Hinweis: Mi. 9:00 - 13:00<br /><br />Do. 14:00 - 19:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Do. 14:00 - 19:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1251,7 +1251,7 @@
       "properties": {
         "name": "Johanniter Testzentrum, <br /><br />SV Concordia Albachten",
         "address": "Hohe Geist 7",
-        "info": "Anmeldung online, Testcenter, Hinweis: Fr. 16:00 - 20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Mo. 08:00 - 15:00<br /><br />Mi.  13:00 - 20:00<br /><br />Fr.  13:00 - 20:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1296,7 +1296,7 @@
       "properties": {
         "name": "Kiepenkerl Apotheke",
         "address": "Bergstraße 10",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kiepenkerl-apo-zentrum.de/\">https://www.kiepenkerl-apo-zentrum.de/</a>, <a href=\"tel:0251/46963\">0251/46963</a>"
+        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kiepenkerl-apo-zentrum.de/\">https://www.kiepenkerl-apo-zentrum.de/</a>, X, <a href=\"tel:0251/46963\">0251/46963</a>"
       },
       "geometry": {
         "type": "Point",
