@@ -231,7 +231,7 @@
       "properties": {
         "name": "Coronatestzentrum am Dom",
         "address": "Domplatz 31",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testzentrummuenster.de/\">https://www.testzentrummuenster.de/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testzentrummuenster.de/\">https://www.testzentrummuenster.de/</a>, X"
       },
       "geometry": {
         "type": "Point",
@@ -1386,7 +1386,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />ARKADEN",
         "address": "Rothenburg 9",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: 1. OG<br /><br />Mo. - Sa. von 9:00 - 20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: 1. OG<br /><br />Mo. - Sa. von 9:00 - 20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>, X"
       },
       "geometry": {
         "type": "Point",
@@ -1401,7 +1401,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />GREMMENDORF",
         "address": "Albersloher Weg 445",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - So. von 7:45 - 19:15, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - So. von 7:45 - 19:15, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>, X"
       },
       "geometry": {
         "type": "Point",
@@ -1416,7 +1416,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />HILTRUP",
         "address": "Westfalenstraße 143",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Sa. von 7:30 - 19:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - So. von 7:30 - 19:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>, X"
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1431,7 @@
       "properties": {
         "name": "Leezen Heroes, <br /><br />SÜD",
         "address": "Schuckertstraße 21",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Fr.  08:00 - 13:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Do.  08:00 - 16:30<br /><br />Fr.  08:00 - 13:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -1573,6 +1573,21 @@
         "coordinates": [
           7.63104942910094,
           51.9613363414896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MEDFORTIS,<br /><br />Technologiepark <br /><br />(Drive-in)",
+        "address": "Johann-Krane-Weg 44",
+        "info": "Anmeldung online, Testcenter, Hinweis: ab 10.02.22<br /><br /><br /><br />Mo. - Do.   6:30 - 20:00<br /><br />Fr.    6:30 - 21:30<br /><br />Sa.   9:00 - 21:30<br /><br />So.  10:00 - 16:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59681164412737,
+          51.976389921768
         ]
       }
     },
@@ -2254,6 +2269,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Teststelle Albachten",
+        "address": "Dülmener Straße 14",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: täglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://albachten.testen24.com/\">https://albachten.testen24.com/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.52602307546262,
+          51.9252971719497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Teststelle an der Stadtbücherei",
         "address": "Alter Steinweg 11",
         "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: ganzwöchig, mit und ohne Termin, <a target=\"_blank\" rel=\"noopener\" href=\"https://coronatest.ms/\">https://coronatest.ms/</a>"
@@ -2584,6 +2614,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Testzentrum Hiltrup",
+        "address": "Marktallee 88",
+        "info": "Anmeldung online, Testcenter, Hinweis: Mo. - Fr.  7:00 - 19:00<br /><br />Sa.   9:00 - 15:00, <a href=\"mailto:info@testzentrum-hiltrup.de\">info@testzentrum-hiltrup.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.testzentrum-hiltrup.de/\">http://www.testzentrum-hiltrup.de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65102786918957,
+          51.9047756386827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Testzentrum Hof Rotermund",
         "address": "Auf der Laer 76",
         "info": "Anmeldung online, Testcenter, <a href=\"mailto:test@hofrotermund.de\">test@hofrotermund.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://hofrotermund.de/\">https://hofrotermund.de/</a>, X, <a href=\"tel:0251/59065735\">0251/59065735</a>"
@@ -2698,6 +2743,21 @@
         "coordinates": [
           7.60999478348907,
           51.972419122013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West-Apotheke",
+        "address": "Sentruper Höhe 29",
+        "info": "Anmeldung online, Apotheke, Hinweis: täglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.sentruper-westapotheke-testet.de/\">https://www.sentruper-westapotheke-testet.de/</a>, X"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59351704591688,
+          51.956991571524
         ]
       }
     },
