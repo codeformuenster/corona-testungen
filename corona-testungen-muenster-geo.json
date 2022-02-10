@@ -1581,7 +1581,7 @@
       "properties": {
         "name": "MEDFORTIS,<br /><br />Technologiepark <br /><br />(Drive-in)",
         "address": "Johann-Krane-Weg 44",
-        "info": "Anmeldung online, Testcenter, Hinweis: ab 10.02.22<br /><br /><br /><br />Mo. - Do.   6:30 - 20:00<br /><br />Fr.    6:30 - 21:30<br /><br />Sa.   9:00 - 21:30<br /><br />So.  10:00 - 16:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
+        "info": "Anmeldung online, Testcenter, Hinweis: Mo. - Do.   6:30 - 20:00<br /><br />Fr.    6:30 - 21:30<br /><br />Sa.   9:00 - 21:30<br /><br />So.  10:00 - 16:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
       },
       "geometry": {
         "type": "Point",
