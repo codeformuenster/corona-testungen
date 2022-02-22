@@ -126,7 +126,7 @@
       "properties": {
         "name": "Bildungszentrum Gartenbau und Landwirtschaft",
         "address": "Münsterstraße 62",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Fr.: 07:15 - 09:15, <a target=\"_blank\" rel=\"noopener\" href=\"https://kopfherzundhand.de/\">https://kopfherzundhand.de/</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Fr.      07:00 - 13:00 <br /><br />Sa, So, FT.  09:30 - 13:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://kopfherzundhand.de/\">https://kopfherzundhand.de/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -568,21 +568,6 @@
         "coordinates": [
           7.64402611609647,
           51.9678166077372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Drive-In",
-        "address": "Brandhoveweg 101",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: ganzwöchig, <a href=\"mailto:info@kopfherzundhand.de\">info@kopfherzundhand.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kopfherzundhand.de/\">https://www.kopfherzundhand.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.71392196364281,
-          51.9156673123225
         ]
       }
     },
@@ -2016,7 +2001,7 @@
       "properties": {
         "name": "Schnelltestzentrum /<br /><br />Impfzentrum Münster Kreuzviertel",
         "address": "Wilhelmstraße 5",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/schnelltestzentrum-muenster-kreuzviertel/checkins\">https://app.no-q.info/schnelltestzentrum-muenster-kreuzviertel/checkins</a>"
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/schnelltestzentrum-muenster-kreuzviertel/checkins\">https://app.no-q.info/schnelltestzentrum-muenster-kreuzviertel/checkins</a>, X, <a href=\"tel:0152 38017722\">0152 38017722</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2254,9 +2239,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Testhelden",
+        "name": "Testhelden Südviertel",
         "address": "Friedrich-Ebert-Straße 110",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: tägl. 07:00-22:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://testhelden-suedviertel.de\">https://testhelden-suedviertel.de</a>, X, <a href=\"tel:0251/97563992\">0251/97563992</a>"
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Fr.  07:00-22:00<br /><br />Sa. - So. 08:30-22:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://testhelden-suedviertel.de\">https://testhelden-suedviertel.de</a>, X, <a href=\"tel:0251/97563992\">0251/97563992</a>"
       },
       "geometry": {
         "type": "Point",
@@ -2376,7 +2361,7 @@
       "properties": {
         "name": "Teststelle Coerdemarkt",
         "address": "Hamannplatz 29",
-        "info": "Anmeldung online, Testcenter, <a href=\"mailto:coerdemarkt@gmail.com\">coerdemarkt@gmail.com</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://coerde.smart-testen.de/\">https://coerde.smart-testen.de/</a>, <a href=\"tel:015734212895\">015734212895</a>"
+        "info": "Anmeldung online, Testcenter, <a href=\"mailto:coerdemarkt@gmail.com\">coerdemarkt@gmail.com</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://coerde.smart-testen.de/\">https://coerde.smart-testen.de/</a>, X, <a href=\"tel:015734212895\">015734212895</a>"
       },
       "geometry": {
         "type": "Point",
