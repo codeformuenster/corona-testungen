@@ -1249,6 +1249,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Johanniter PCR/POC Testzentrum",
+        "address": "Geringhoffstraße 45",
+        "info": "Anmeldung online, Testcenter, Hinweis: Mo. - Fr.  7:00 - 17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://covid.deineanmeldung.de/?ressource=4E6584AD-8FFE-4674-965D-DEA8D35392FF\">https://covid.deineanmeldung.de/?ressource=4E6584AD-8FFE-4674-965D-DEA8D35392FF</a>, X"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60172905731706,
+          51.930204251061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Johanniter Testzentrum, <br /><br />Gemeindehaus Jakobuskirche",
         "address": "Von-Ossietzky-Straße 16",
         "info": "Anmeldung online, Testcenter, Hinweis: Do. 14:00 - 19:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
