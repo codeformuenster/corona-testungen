@@ -9,7 +9,7 @@ const loadData = async () => {
   // endpoint is a jsonp endpoint, strip away stuff that makes JSON.parse fail
   let jsonStr = response.body;
   jsonStr = jsonStr.slice(0, jsonStr.lastIndexOf(";"));
-  jsonStr = jsonStr.replace(/var.*=/i, "");
+  jsonStr = jsonStr.replace(/var\s.*\s=\s{/i, "{");
   return JSON.parse(jsonStr);
 };
 
