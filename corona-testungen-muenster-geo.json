@@ -1594,21 +1594,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "MEDFORTIS,<br /><br />Technologiepark <br /><br />(Drive-in)",
-        "address": "Johann-Krane-Weg 44",
-        "info": "Anmeldung online, Testcenter, Hinweis: Mo. - Do.   6:30 - 20:00<br /><br />Fr.    6:30 - 21:30<br /><br />Sa.   9:00 - 21:30<br /><br />So.  10:00 - 16:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://medfortis.de/\">https://medfortis.de/</a>, X"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.59681164412737,
-          51.976389921768
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Münster testet GbR",
         "address": "Grevener Straße 325",
         "info": "Anmeldung online, Testcenter, <a href=\"mailto:info@muenster-testet.de\">info@muenster-testet.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-testet.de\">https://muenster-testet.de</a>"
