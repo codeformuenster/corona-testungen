@@ -2616,7 +2616,7 @@
       "properties": {
         "name": "Testzentrum Hiltrup",
         "address": "Marktallee 88",
-        "info": "Anmeldung online, Testcenter, Hinweis: Mo. - Fr.  7:00 - 19:00<br /><br />Sa.   9:00 - 15:00, <a href=\"mailto:info@testzentrum-hiltrup.de\">info@testzentrum-hiltrup.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.testzentrum-hiltrup.de/\">http://www.testzentrum-hiltrup.de/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Mo. - Fr.  7:00 - 19:00<br /><br />Sa.   9:00 - 15:00, <a href=\"mailto:info@testzentrum-hiltrup.de\">info@testzentrum-hiltrup.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.testzentrum-hiltrup.de/\">http://www.testzentrum-hiltrup.de/</a>, X"
       },
       "geometry": {
         "type": "Point",
