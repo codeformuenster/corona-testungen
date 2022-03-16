@@ -6,7 +6,7 @@
       "properties": {
         "name": "",
         "address": "Hogenbergstraße 9",
-        "info": "Anmeldung online, Testcenter, <a href=\"mailto:bf@testen365.de\">bf@testen365.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://bf.testen365.de/\">https://bf.testen365.de/</a>"
+        "info": "Anmeldung online, Testcenter, <a href=\"mailto:bf@testen365.de\">bf@testen365.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://bf.testen365.de/\">https://bf.testen365.de/</a>, X"
       },
       "geometry": {
         "type": "Point",
@@ -1310,14 +1310,14 @@
       "type": "Feature",
       "properties": {
         "name": "Kesslerweg",
-        "address": "Kesslerweg 6",
+        "address": "Kesslerweg 14",
         "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://kesslerweg.smart-testen.de/\">https://kesslerweg.smart-testen.de/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.64772882188041,
-          51.92459141785
+          7.64844756613859,
+          51.9224506637176
         ]
       }
     },
@@ -2361,7 +2361,7 @@
       "properties": {
         "name": "Teststelle direkt bei Brief und Mehr",
         "address": "Eulerstraße 15",
-        "info": "Anmeldung online, Testcenter, <a href=\"mailto:euler.testen@gmx.de\">euler.testen@gmx.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://euler.smart-testen.de/\">https://euler.smart-testen.de/</a>"
+        "info": "Anmeldung online, Testcenter, Hinweis: Mo.-Fr. 08:00-12:00, <a href=\"mailto:euler.testen@gmx.de\">euler.testen@gmx.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://euler.smart-testen.de/\">https://euler.smart-testen.de/</a>"
       },
       "geometry": {
         "type": "Point",
