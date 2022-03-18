@@ -154,6 +154,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bürgerteststelle Borussia",
+        "address": "Grevingstraße 32",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: täglich<br /><br />PCR Test unter:<br /><br />https://pcr-muenster.de/anmeldung/ms-borussia/?exclusive=1<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://borussia.smart-testen.de/\">https://borussia.smart-testen.de/</a>, X"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6227190319429,
+          51.937276417383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Bürgertestzentrum am Cafe Med",
         "address": "Hafenweg 26",
         "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: tägl. 17:00 - 22:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://cafe-med.de/\">https://cafe-med.de/</a>"
@@ -793,6 +808,21 @@
         "coordinates": [
           7.64082345332346,
           51.9913916177821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemeinschaftspraxis Dr. Hendrik Oen",
+        "address": "Handorfer Straße 20",
+        "info": "Anmeldung online, Arzt, Hinweis: Mo.-Fr.  11:00-12:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/handorf-test/\">https://app.no-q.info/handorf-test/</a>, X"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.69877746562506,
+          51.9863275932263
         ]
       }
     },
@@ -2308,21 +2338,6 @@
         "coordinates": [
           7.65918256146282,
           51.9365105119861
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Teststelle Borussia",
-        "address": "Grevingstraße 32",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: täglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://borussia.smart-testen.de/\">https://borussia.smart-testen.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6227190319429,
-          51.937276417383
         ]
       }
     },
