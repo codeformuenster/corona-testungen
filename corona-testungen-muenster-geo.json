@@ -1294,21 +1294,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Johanniter Testzentrum, <br /><br />Gemeindehaus Jakobuskirche",
-        "address": "Von-Ossietzky-Straße 16",
-        "info": "Anmeldung online, Testcenter, Hinweis: Do. 14:00 - 19:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.60258208429453,
-          51.9430095635229
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Johanniter Testzentrum, <br /><br />SV Concordia Albachten",
         "address": "Hohe Geist 7",
         "info": "Anmeldung online, Testcenter, Hinweis: Mo. 08:00 - 15:00<br /><br />Mi.  13:00 - 20:00<br /><br />Fr.  13:00 - 20:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
@@ -1954,21 +1939,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Schnelltest2000",
-        "address": "Theodor-Scheiwe-Straße 2",
-        "info": "Anmeldung online, Testcenter, Hinweis: Mo.-Fr. 8:30-18:30<br /><br />Sa. 10:00-18:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster2-schnelltest2000.chayns.net/\">https://muenster2-schnelltest2000.chayns.net/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64724794126741,
-          51.9454195613005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Schnellteststelle Coerde bei Weicon",
         "address": "August-Horch-Straße 11",
         "info": "Anmeldung online, Testcenter, Hinweis: Mo, Mi und Fr. von 07:00 - 10:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://coerde.chayns.net\">https://coerde.chayns.net</a>"
@@ -2210,14 +2180,14 @@
       "type": "Feature",
       "properties": {
         "name": "Testcentrum Netto",
-        "address": "Wolbecker Straße 11",
+        "address": "Bremer Platz 10",
         "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Fr.  06:30 - 23:00<br /><br />Sa. - So. 08:00 - 22:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://bahnhof.smart-testen.de/\">https://bahnhof.smart-testen.de/</a>, <a href=\"tel:015215784647\">015215784647</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.63746676146973,
-          51.9589830426787
+          7.63714603478581,
+          51.9585207572654
         ]
       }
     },
