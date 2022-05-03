@@ -1639,36 +1639,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Oxford",
-        "address": "Roxeler Straße 340",
-        "info": "Anmeldung online, Testcenter, Hinweis: Mo.-Fr.:  08:30-16:00<br /><br />Sa.-So.: 09:00-14:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://oxford.testen24.com/\">https://oxford.testen24.com/</a>, <a href=\"tel:017621837830\">017621837830</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.57632503724395,
-          51.9594194935375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Park-Apotheke",
-        "address": "Mondstraße 81",
-        "info": "Anmeldung nicht erforderlich, Apotheke, Hinweis: Anmeldeformular vor Ort, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/park-apotheke-muenster/checkins#/\">https://app.no-q.info/park-apotheke-muenster/checkins#/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.67602976639008,
-          51.960654861541
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "PhysioWolff",
         "address": "Spiekerhof 23",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster.covidservicepoint.de/\">https://muenster.covidservicepoint.de/</a>"
@@ -2593,21 +2563,6 @@
         "coordinates": [
           7.64866758492451,
           51.9606317202683
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Testzentrum Hiltrup",
-        "address": "Marktallee 88",
-        "info": "Anmeldung online, Testcenter, Hinweis: Mo. - Fr.  7:00 - 19:00<br /><br />Sa.   9:00 - 15:00, <a href=\"mailto:info@testzentrum-hiltrup.de\">info@testzentrum-hiltrup.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.testzentrum-hiltrup.de/\">http://www.testzentrum-hiltrup.de/</a>, X"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.65102786918957,
-          51.9047756386827
         ]
       }
     },
