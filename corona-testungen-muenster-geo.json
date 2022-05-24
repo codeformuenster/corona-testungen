@@ -1279,36 +1279,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Johanniter Testzentrum, <br /><br />SV Concordia Albachten",
-        "address": "Hohe Geist 7",
-        "info": "Anmeldung online, Testcenter, Hinweis: Mo. 08:00 - 15:00<br /><br />Mi.  13:00 - 20:00<br /><br />Fr.  13:00 - 20:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.52996480242307,
-          51.9235031556643
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Johanniter Testzentrum, <br /><br />Vorplatz LWL Museum",
-        "address": "Rothenburg 30",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Sa. 10:30 - 17:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/\">https://www.johanniter.de/juh/lv-nrw/rv-muensterland-soest/unsere-dienste-und-leistungen/johanniter-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62382836522869,
-          51.9609194679778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Kesslerweg",
         "address": "Kesslerweg 14",
         "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://kesslerweg.smart-testen.de/\">https://kesslerweg.smart-testen.de/</a>"
@@ -2548,21 +2518,6 @@
         "coordinates": [
           7.71217672165986,
           51.9441336435972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Testzentrum Höltenweg",
-        "address": "Höltenweg 99",
-        "info": "Anmeldung online, Testcenter, Hinweis: Mo:    6:30 - 13:30<br /><br />Di-Fr: 7:00 - 14:00<br /><br />Sa:    9:00 - 15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://kompakt-sound.de/testzentrum/\">https://kompakt-sound.de/testzentrum/</a>, X"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.65303117644483,
-          51.9243015433601
         ]
       }
     },
