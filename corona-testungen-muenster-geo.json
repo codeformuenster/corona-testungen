@@ -619,21 +619,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Engel-Apotheke",
-        "address": "Warendorfer Straße 3",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststelle-engel-apotheke-muenster/checkins#/\">https://app.no-q.info/teststelle-engel-apotheke-muenster/checkins#/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6368211855612,
-          51.9620327236491
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Engel-Apotheke, im Zibomo Museum",
         "address": "Neustraße 15",
         "info": "Anmeldung online, Apotheke, <a href=\"mailto:testen@engel-apotheke-wolbeck.de\">testen@engel-apotheke-wolbeck.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/engel-apotheke-awo-dart-treff/checkins#/\">https://app.no-q.info/engel-apotheke-awo-dart-treff/checkins#/</a>"
@@ -1453,21 +1438,6 @@
         "coordinates": [
           7.63395936328508,
           51.9833906045287
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Linden Apotheke <br /><br />in der Ev. Friedens-Kirchengemeinde",
-        "address": "Zum Erlenbusch 15",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.lindenapotheke-muenster.de/\">https://www.lindenapotheke-muenster.de/</a>, <a href=\"tel:0251/615082\">0251/615082</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.67372599543731,
-          51.9247883249607
         ]
       }
     },
