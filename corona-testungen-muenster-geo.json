@@ -1444,6 +1444,81 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "mobiler Impfbus<br /><br />Hamannplatz",
+        "address": "Hamannplatz 29",
+        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Donnerstag:<br /><br />14.07.22 von 09:30 - 14:30 <br /><br />Mittwoch:<br /><br />03.08.22 von 13:00 - 18:00<br /><br /><br /><br />impfen (BionTech) ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://impfen.ms/de/\">https://impfen.ms/de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64780717368746,
+          51.9940525923246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mobiler Impfbus<br /><br />Schulzentrum Hiltrup",
+        "address": "Westfalenstraße 201",
+        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Donnerstag:<br /><br />28.07.22 von 09:30 - 14:30 <br /><br /><br /><br />impfen (BionTech) ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://impfen.ms/de/\">https://impfen.ms/de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64079004101639,
+          51.9015377120243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mobiler Impfbus<br /><br />Sprickmannplatz",
+        "address": "Sprickmannplatz 8",
+        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Mittwoch:<br /><br />20.07.22 von 13:00 - 18:00 <br /><br />Donnerstag:<br /><br />04.08.22 von 14:30 - 19:00<br /><br /><br /><br />impfen (BionTech) ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://impfen.ms/de/\">https://impfen.ms/de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59551034631238,
+          51.9989074266214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mobiler Impfbus<br /><br />Testzentrum ASB<br /><br />Hotel Kaiserhof",
+        "address": "Bahnhofstraße 14",
+        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Mittwoch:<br /><br />06.07.22 von 13:00 - 18:00 <br /><br />13.07.22 von 13:00 - 18:00<br /><br /><br /><br />impfen (BionTech) ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://impfen.ms/de/\">https://impfen.ms/de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63422189990274,
+          51.9580013235769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mobiler Impfbus<br /><br />Testzentrum ASB<br /><br />Schlossplatz Nord",
+        "address": "Schlossplatz 8",
+        "info": "Anmeldung nicht erforderlich, Hinweis: <br /><br />Donnerstag:<br /><br />07.07.22 von 09:30 - 14:30 <br /><br />21.07.22 von 09:30 - 14:30<br /><br /><br /><br />impfen (BionTech) ohne Anmeldung<br /><br />Ausweisdokument und <br /><br />(falls vorhanden) Impfausweis mitbringen !!!, <a target=\"_blank\" rel=\"noopener\" href=\"https://impfen.ms/de/\">https://impfen.ms/de/</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.61674458250258,
+          51.9655031177999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Münster testet GbR",
         "address": "Grevener Straße 325",
         "info": "Anmeldung online, Testcenter, <a href=\"mailto:info@muenster-testet.de\">info@muenster-testet.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-testet.de\">https://muenster-testet.de</a>"
