@@ -1294,21 +1294,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kosmetikinstitut Lehnhardt",
-        "address": "Hamburger Straße 4",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, <a href=\"tel:02 51 - 66 39 00\">02 51 - 66 39 00</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63692447976321,
-          51.9557487690731
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Leezen Heroes, <br /><br />ARKADEN",
         "address": "Rothenburg 9",
         "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: 1. OG<br /><br />Mo. - Sa. von 9:00 - 20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>, X"
@@ -2503,21 +2488,6 @@
         "coordinates": [
           7.71217672165986,
           51.9441336435972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Testzentrum Höltenweg",
-        "address": "Höltenweg 99",
-        "info": "Anmeldung online, Testcenter, Hinweis: Mo:    6:30 - 13:30<br /><br />Di-Fr: 7:00 - 14:00<br /><br />Sa:    9:00 - 15:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://kompakt-sound.de/testzentrum/\">https://kompakt-sound.de/testzentrum/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.65303117644483,
-          51.9243015433601
         ]
       }
     },
