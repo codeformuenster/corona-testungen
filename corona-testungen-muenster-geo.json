@@ -319,21 +319,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dermatologie MS, Dr. Anja Brinkmann",
-        "address": "Hohenzollernring 10",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:termine@dermatologie.ms\">termine@dermatologie.ms</a>, <a href=\"tel:0251/87158080\">0251/87158080</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64678830134576,
-          51.9563391143974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Dermatologische Gemeinschaftspraxis, Dr. Ottilie Rödder-Wehrmann, Prof. Wolfgang Wehrmann",
         "address": "Warendorfer Straße 183",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/35051\">0251/35051</a>"
@@ -2503,21 +2488,6 @@
         "coordinates": [
           7.63283900479367,
           51.9608805792651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Testzentrum Malteser Hilfsdienst e.V. Münster",
-        "address": "Daimlerweg 33",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.malteser-muenster.de/testzentrum\">https://www.malteser-muenster.de/testzentrum</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.59537644463935,
-          51.9272962232148
         ]
       }
     },
