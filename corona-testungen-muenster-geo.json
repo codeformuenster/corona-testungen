@@ -1294,66 +1294,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Leezen Heroes, <br /><br />ARKADEN",
-        "address": "Rothenburg 9",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: 1. OG<br /><br />Mo. - Sa. von 9:00 - 20:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>, X"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62693239655813,
-          51.9603173027334
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leezen Heroes, <br /><br />GREMMENDORF",
-        "address": "Albersloher Weg 445",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - So. von 7:45 - 19:15, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>, X"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.66844539415661,
-          51.9277858646289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leezen Heroes, <br /><br />HILTRUP",
-        "address": "Westfalenstraße 143",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - So. von 7:30 - 19:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>, X"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63576852300653,
-          51.9055978081121
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leezen Heroes, <br /><br />SÜD",
-        "address": "Schuckertstraße 21",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Do.  08:00 - 16:30<br /><br />Fr.  08:00 - 13:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63851436194379,
-          51.9272816016931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Leezen Heroes, <br /><br />UKM",
         "address": "Albert-Schweitzer-Campus 1",
         "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Parkdeck Ebene 04<br /><br />Mo. - So.   7:15 - 19:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>, X"
@@ -1363,21 +1303,6 @@
         "coordinates": [
           7.5962110823358,
           51.9611329177855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leezen Heroes, <br /><br />ZENTRUM NORD",
-        "address": "Nevinghoff 16",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Fr.   09:00 - 17:45<br /><br />Sa.  10:15 - 13:45, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63395936328508,
-          51.9833906045287
         ]
       }
     },
