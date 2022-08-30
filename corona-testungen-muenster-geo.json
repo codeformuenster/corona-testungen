@@ -2406,7 +2406,7 @@
       "properties": {
         "name": "Zahnarztpraxis Dr. Bernd Lücke",
         "address": "Von-Esmarch-Straße 168",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"mailto:dr.luecke@hotmail.de\">dr.luecke@hotmail.de</a>, <a href=\"tel:0251/8715555\">0251/8715555</a>"
+        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:dr.luecke@hotmail.de\">dr.luecke@hotmail.de</a>, <a href=\"tel:0251/8715555\">0251/8715555</a>"
       },
       "geometry": {
         "type": "Point",
