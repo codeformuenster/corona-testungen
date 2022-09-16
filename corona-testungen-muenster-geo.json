@@ -2119,21 +2119,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Teststelle Kreuzviertel",
-        "address": "Hoyastraße 12",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://mehr-info-service.de/info-de/abstrich-sofort/\">https://mehr-info-service.de/info-de/abstrich-sofort/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62398214808009,
-          51.9701556731223
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Teststelle Lambertikirche",
         "address": "Lambertikirchplatz 1",
         "info": "Anmeldung online, Testcenter, Hinweis: Testungen auch abends und nachts, <br /><br />Öffnungszeiten siehe Internetseite, <a href=\"mailto:info@testlab-ms.de\">info@testlab-ms.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testlab-ms.de/\">https://www.testlab-ms.de/</a>, X, <a href=\"tel:0251 - 59065735\">0251 - 59065735</a>"
