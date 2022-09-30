@@ -1730,14 +1730,14 @@
       "type": "Feature",
       "properties": {
         "name": "Schnelltestzentrum Münster Mauritz<br /><br />Dr. Eva-Maria Grewe",
-        "address": "Dechaneischanze 3",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/schnelltestzentrum-muenster-mauritz/checkins#/\">https://app.no-q.info/schnelltestzentrum-muenster-mauritz/checkins#/</a>"
+        "address": "Propsteistraße 2",
+        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/schnelltestzentrum-muenster-mauritz/checkins#/\">https://app.no-q.info/schnelltestzentrum-muenster-mauritz/checkins#/</a>, X"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.65346094461821,
-          51.9643552166599
+          7.6513734154545,
+          51.9645561142934
         ]
       }
     },
