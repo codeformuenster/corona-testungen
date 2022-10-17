@@ -1294,6 +1294,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Leezen Heroes, <br /><br />HILTRUP",
+        "address": "Westfalenstraße 143",
+        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Sa. von 7:00 - 15:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>, X"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63576852300653,
+          51.9055978081121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Leezen Heroes, <br /><br />UKM",
         "address": "Albert-Schweitzer-Campus 1",
         "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Parkdeck Ebene 04<br /><br />Mo. - So.   7:15 - 19:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>, X"
