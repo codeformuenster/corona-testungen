@@ -634,21 +634,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Erlebniswelt Sport, <br /><br />Testungen beim SC Gremmendorf",
-        "address": "Am Hohen Ufer 111",
-        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://corona.chayns.de/\">https://corona.chayns.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.69194952816533,
-          51.929254293485
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Fachärzte für Kindermedizin Dr. Markus Stange und Martin Stegat",
         "address": "Am Berler Kamp 5",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02506/7237\">02506/7237</a>"
@@ -1969,21 +1954,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Teststation ACE, Landhaus Eggert",
-        "address": "Zur Haskenau 81",
-        "info": "Anmeldung online, Testcenter, Hinweis: tägl. 15:00 - 18:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststation-ace-landhaus-eggert-handort/checkins#/2245/2021-11-26\">https://app.no-q.info/teststation-ace-landhaus-eggert-handort/checkins#/2245/2021-11-26</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.69023073850803,
-          52.0162105850683
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Teststation am Heekweg",
         "address": "Heekweg 15",
         "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststation-am-heekweg/checkins\">https://app.no-q.info/teststation-am-heekweg/checkins</a>, <a href=\"tel:0174 / 205 48 64\">0174 / 205 48 64</a>"
@@ -2038,21 +2008,6 @@
         "coordinates": [
           7.65918256146282,
           51.9365105119861
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Teststelle Bürgerbad Handorf",
-        "address": "Hobbeltstraße 144",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://brgerbad-handorf---bba.chayns.net/\">https://brgerbad-handorf---bba.chayns.net/</a>, <a href=\"tel:0800 0008650\">0800 0008650</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.71399487321788,
-          51.9939846877956
         ]
       }
     },
@@ -2338,21 +2293,6 @@
         "coordinates": [
           7.62940855167202,
           51.960256238122
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Testzentrum Wacker Mecklenbeck",
-        "address": "Egelshove 1",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.covisa.de\">https://www.covisa.de</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.57335006977654,
-          51.9362208469668
         ]
       }
     },
