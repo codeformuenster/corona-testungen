@@ -304,21 +304,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dehner Garten Center",
-        "address": "Handorfer Straße 105",
-        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-test.de/\">https://muenster-test.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.70534644629226,
-          51.9777051758099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Dermatologie MS, Dr. Anja Brinkmann",
         "address": "Hohenzollernring 10",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:termine@dermatologie.ms\">termine@dermatologie.ms</a>, <a href=\"tel:0251/87158080\">0251/87158080</a>"
