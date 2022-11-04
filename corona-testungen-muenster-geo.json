@@ -289,21 +289,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cytecs GmbH",
-        "address": "Im Derdel 8",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://cytecs.covidservicepoint.de\">https://cytecs.covidservicepoint.de</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.55256654758065,
-          51.9514598635523
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Dermatologie MS, Dr. Anja Brinkmann",
         "address": "Hohenzollernring 10",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:termine@dermatologie.ms\">termine@dermatologie.ms</a>, <a href=\"tel:0251/87158080\">0251/87158080</a>"
