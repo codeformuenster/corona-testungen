@@ -259,21 +259,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Coronatestzentrum am Dom",
-        "address": "Domplatz 31",
-        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testzentrummuenster.de/\">https://www.testzentrummuenster.de/</a>, X"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62499632175609,
-          51.9631810234756
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "CovidCare MS/Teststelle Kinderhaus<br /><br />(ALDI Parkplatz)",
         "address": "Idenbrockplatz 27",
         "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: täglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://ccms.testen365.de\">https://ccms.testen365.de</a>"
@@ -598,21 +583,6 @@
         "coordinates": [
           7.60238209401217,
           51.9952936229742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Fachärzte für Kindermedizin Dr. Markus Stange und Martin Stegat",
-        "address": "Am Berler Kamp 5",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02506/7237\">02506/7237</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.72376333009486,
-          51.9157474673651
         ]
       }
     },
@@ -1114,21 +1084,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hohenzollern Apotheke am Ring",
-        "address": "Hohenzollernring 57",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hza.de/corona-test\">https://www.hza.de/corona-test</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64704951439943,
-          51.9592643943486
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Hohenzollern Apotheke an der Roxeler Straße",
         "address": "Pantaleonplatz 5",
         "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hza.de/corona-test\">https://www.hza.de/corona-test</a>"
@@ -1243,21 +1198,6 @@
         "coordinates": [
           7.68915160374153,
           51.9149624270839
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Leezen Heroes, <br /><br />HILTRUP",
-        "address": "Westfalenstraße 143",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Sa. von 7:00 - 15:30, <a target=\"_blank\" rel=\"noopener\" href=\"https://leezenheroes.de/covid19-testzentren/\">https://leezenheroes.de/covid19-testzentren/</a>, X"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63576852300653,
-          51.9055978081121
         ]
       }
     },
@@ -2293,21 +2233,6 @@
         "coordinates": [
           7.60999478348907,
           51.972419122013
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "West-Apotheke",
-        "address": "Sentruper Höhe 29",
-        "info": "Anmeldung online, Apotheke, Hinweis: täglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.sentruper-westapotheke-testet.de/\">https://www.sentruper-westapotheke-testet.de/</a>, X"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.59351704591688,
-          51.956991571524
         ]
       }
     },
