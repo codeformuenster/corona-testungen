@@ -1789,21 +1789,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Testcentrum Netto",
-        "address": "Bremer Platz 10",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Fr.  06:30 - 23:00<br /><br />Sa. - So. 08:00 - 22:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://bahnhof.smart-testen.de/\">https://bahnhof.smart-testen.de/</a>, <a href=\"tel:015215784647\">015215784647</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63714603478581,
-          51.9585207572654
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Testcentrum Ninfly<br /><br />",
         "address": "Robert-Bosch-Straße 16",
         "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Fr.  15:00 - 21:00<br /><br />Sa. - So. 10:00 - 19:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://ninfly.smart-testen.de\">https://ninfly.smart-testen.de</a>, <a href=\"tel:015217273394\">015217273394</a>"
