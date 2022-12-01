@@ -1699,21 +1699,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Stern-Apotheke",
-        "address": "Ludgeristraße 66",
-        "info": "Anmeldung nicht erforderlich, Apotheke, Hinweis: Mo. - Fr.  09:00 - 12:00 <br /><br />       und 15:00 - 18:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/stern-apotheke-muenster/checkins#/3306/2022-01-17\">https://app.no-q.info/stern-apotheke-muenster/checkins#/3306/2022-01-17</a>, <a href=\"tel:0251-44910\">0251-44910</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62634530422857,
-          51.9566688395037
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Süd-Apotheke",
         "address": "Hammer Straße 101",
         "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.suedviertel-apotheken-muenster.de/\">https://www.suedviertel-apotheken-muenster.de/</a>, <a href=\"tel:0251/7774880\">0251/7774880</a>"
