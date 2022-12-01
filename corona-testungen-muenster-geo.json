@@ -1159,21 +1159,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kiepenkerl Apotheke",
-        "address": "Meesenstiege 54",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.kiepenkerl-apo-hiltrup.de/\">https://www.kiepenkerl-apo-hiltrup.de/</a>, <a href=\"tel:02501/921577\">02501/921577</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62522235525132,
-          51.9029663852966
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Kinderarztpraxis Mauritz",
         "address": "Warendorfer Straße 185",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:mail@kinderarztpraxis-mauritz.de\">mail@kinderarztpraxis-mauritz.de</a>, <a href=\"tel:0251/ 30343\">0251/ 30343</a>"
