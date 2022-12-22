@@ -1549,21 +1549,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Schnellteststelle Düne",
-        "address": "Zum Hiltruper See 139",
-        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://duene.smart-testen.de/\">https://duene.smart-testen.de/</a>, <a href=\"tel:015210556331\">015210556331</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.66020922985685,
-          51.8917796225985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Schnellteststelle Hiltrup bei Möllers + Reismann",
         "address": "Fuggerstraße 23",
         "info": "Anmeldung online, Testcenter, Hinweis: Di. + Do. von 07:00 - 10:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://hiltrup.chayns.net\">https://hiltrup.chayns.net</a>"
