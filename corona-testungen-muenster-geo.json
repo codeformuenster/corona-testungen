@@ -79,36 +79,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "ASB Münster, <br /><br />im Hotel Kaiserhof",
-        "address": "Bahnhofstraße 14",
-        "info": "Anmeldung online, Testcenter, Hinweis: im ehem. Kosmetikstudio, direkt von der Bahnhofsstr. zugänglich<br /><br />ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>, X"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63422189990274,
-          51.9580013235769
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "ASB Münster, <br /><br />Parkplatz Schlossplatz Nord",
-        "address": "Schlossplatz 24",
-        "info": "Anmeldung online, Testcenter, Hinweis: Drive-In Testzentrum<br /><br />mit Auto oder Fahrrad nutzbar<br /><br />ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-coronatest.de/\">https://muenster-coronatest.de/</a>, X"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6168328802433,
-          51.9659447454749
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Augenarztpraxis Dr. Baumgart und Dr. Heinrich",
         "address": "Arnheimweg 53",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:Augenarztpraxis.dr.baumgart@live.de\">Augenarztpraxis.dr.baumgart@live.de</a>, <a href=\"tel:0251/868600\">0251/868600</a>"
@@ -148,21 +118,6 @@
         "coordinates": [
           7.62174422105089,
           51.9500961167765
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bürgerteststelle Borussia",
-        "address": "Grevingstraße 32",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: täglich<br /><br />PCR Test unter:<br /><br />https://pcr-muenster.de/anmeldung/ms-borussia/?exclusive=1<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://borussia.smart-testen.de/\">https://borussia.smart-testen.de/</a>, X"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6227190319429,
-          51.937276417383
         ]
       }
     },
@@ -1084,21 +1039,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hohenzollern Apotheke an der Roxeler Straße",
-        "address": "Pantaleonplatz 5",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.hza.de/corona-test\">https://www.hza.de/corona-test</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.53443030684391,
-          51.9533845017826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Hubertus-Apotheke Handorf",
         "address": "Handorfer Straße 4",
         "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/hubertus-apotheke-handorf/checkins#\">https://app.no-q.info/hubertus-apotheke-handorf/checkins#</a>, <a href=\"tel:0251/328955\">0251/328955</a>"
@@ -1624,21 +1564,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "SportsPlace",
-        "address": "Dieckstraße 71",
-        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig mit Terminvereinbarung, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testzentrum-mauritz.de/\">https://www.testzentrum-mauritz.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.65471860434522,
-          51.9748537990579
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "St. Georg Apotheke",
         "address": "Hammer Straße 13",
         "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.suedviertel-apotheken-muenster.de/\">https://www.suedviertel-apotheken-muenster.de/</a>, X, <a href=\"tel:0251/531480\">0251/531480</a>"
@@ -1924,21 +1849,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Teststelle Hiltruper Bahnhof",
-        "address": "Bergiusstraße 20",
-        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://hiltrupbhf.smart-testen.de/\">https://hiltrupbhf.smart-testen.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.65420000507456,
-          51.9032114367942
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Teststelle Lambertikirche",
         "address": "Lambertikirchplatz 1",
         "info": "Anmeldung online, Testcenter, Hinweis: Testungen auch abends und nachts, <br /><br />Öffnungszeiten siehe Internetseite, <a href=\"mailto:info@testlab-ms.de\">info@testlab-ms.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testlab-ms.de/\">https://www.testlab-ms.de/</a>, X, <a href=\"tel:0251 - 59065735\">0251 - 59065735</a>"
@@ -1948,21 +1858,6 @@
         "coordinates": [
           7.62921016711602,
           51.9629424272432
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Teststelle Ludgeriplatz<br /><br />Stadthaus 2",
-        "address": "Ludgeriplatz 4",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://schnelltest2000.chayns.net/\">https://schnelltest2000.chayns.net/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62700109392126,
-          51.9552108511454
         ]
       }
     },
@@ -2074,21 +1969,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Teststelle Zwanzig20",
-        "address": "Hammer Straße 30",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://zwanzig20.smart-testen.de/\">https://zwanzig20.smart-testen.de/</a>, <a href=\"tel:0251 - 53555710\">0251 - 53555710</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62520581094792,
-          51.9525283721008
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Testzentrum am St. Franziskus-Hospital",
         "address": "Hohenzollernring 70",
         "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://franziskus.chayns.net/\">https://franziskus.chayns.net/</a>, <a href=\"tel:0160 / 91953390\">0160 / 91953390</a>"
@@ -2149,21 +2029,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vital Apotheke",
-        "address": "Dieckmannstraße 200",
-        "info": "Anmeldung per Mail oder telefonisch, Apotheke, Hinweis: Herr Nils Hellenbrand, <a href=\"mailto:gievenbeck-testet.de\">gievenbeck-testet.de</a>, <a href=\"tel:0251/8725006\">0251/8725006</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.57045563104883,
-          51.9586290361504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Von-Galen-Apotheke",
         "address": "Gasselstiege 25",
         "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.pcr-ms.de/\">http://www.pcr-ms.de/</a>, <a href=\"tel:0251 2705027\">0251 2705027</a>"
@@ -2188,21 +2053,6 @@
         "coordinates": [
           7.58085378829921,
           51.9671800368791
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Zahnarztpraxis van den Bosch",
-        "address": "Himmelreichallee 43",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@zahnarzt-vandenbosch.de\">info@zahnarzt-vandenbosch.de</a>, <a href=\"tel:0251 80435\">0251 80435</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6121718541391,
-          51.9594428853541
         ]
       }
     },
