@@ -64,21 +64,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Apotheke am Clemenshospital",
-        "address": "Düesbergweg 133",
-        "info": "Anmeldung online, Apotheke, <a target=\"_blank\" rel=\"noopener\" href=\"https://apo-am-clemens.de/corona/\">https://apo-am-clemens.de/corona/</a>, <a href=\"tel:0251/3900180\">0251/3900180</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6152092759605,
-          51.9312448046367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Augenarztpraxis Dr. Baumgart und Dr. Heinrich",
         "address": "Arnheimweg 53",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:Augenarztpraxis.dr.baumgart@live.de\">Augenarztpraxis.dr.baumgart@live.de</a>, <a href=\"tel:0251/868600\">0251/868600</a>"
