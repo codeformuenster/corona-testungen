@@ -1819,21 +1819,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Teststelle Lambertikirche",
-        "address": "Lambertikirchplatz 1",
-        "info": "Anmeldung online, Testcenter, Hinweis: Testungen auch abends und nachts, <br /><br />Öffnungszeiten siehe Internetseite, <a href=\"mailto:info@testlab-ms.de\">info@testlab-ms.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.testlab-ms.de/\">https://www.testlab-ms.de/</a>, X, <a href=\"tel:0251 - 59065735\">0251 - 59065735</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62921016711602,
-          51.9629424272432
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Teststelle Morthorststraße",
         "address": "Morthorststraße 37",
         "info": "Anmeldung nicht erforderlich, Testcenter, <a href=\"mailto:artis-service@web.de\">artis-service@web.de</a>"
@@ -1956,7 +1941,7 @@
       "properties": {
         "name": "Testzentrum Hof Rotermund",
         "address": "Auf der Laer 76",
-        "info": "Anmeldung online, Testcenter, <a href=\"mailto:test@hofrotermund.de\">test@hofrotermund.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://hofrotermund.de/\">https://hofrotermund.de/</a>, X, <a href=\"tel:0251/59065735\">0251/59065735</a>"
+        "info": "Anmeldung online, Testcenter, <a href=\"mailto:test@hofrotermund.de\">test@hofrotermund.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://hofrotermund.de/\">https://hofrotermund.de/</a>, <a href=\"tel:0251/59065735\">0251/59065735</a>"
       },
       "geometry": {
         "type": "Point",
