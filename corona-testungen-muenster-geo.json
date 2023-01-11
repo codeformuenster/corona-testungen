@@ -499,21 +499,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Engel-Apotheke, im Zibomo Museum",
-        "address": "Neustraße 15",
-        "info": "Anmeldung online, Apotheke, <a href=\"mailto:testen@engel-apotheke-wolbeck.de\">testen@engel-apotheke-wolbeck.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/engel-apotheke-awo-dart-treff/checkins#/\">https://app.no-q.info/engel-apotheke-awo-dart-treff/checkins#/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.72964085436996,
-          51.9176903026233
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "EP Dr. Veronika Engelbertz von Eiff",
         "address": "Idenbrockplatz 24",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-213340\">0251-213340</a>"
