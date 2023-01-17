@@ -79,21 +79,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bildungszentrum Gartenbau und Landwirtschaft",
-        "address": "Münsterstraße 62",
-        "info": "Anmeldung nicht erforderlich, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://kopfherzundhand.de/\">https://kopfherzundhand.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.72393384684516,
-          51.9266561406996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Burg Apotheke",
         "address": "Burgstraße 31",
         "info": "Anmeldung per Mail oder telefonisch, Apotheke, <a href=\"tel:0251-524276\">0251-524276</a>"
@@ -133,21 +118,6 @@
         "coordinates": [
           7.64712018991134,
           51.9936490734998
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Corona Testzentrum am Bült, <br /><br />Hörster Parkplatz",
-        "address": "Bült 13",
-        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig – auch an Feiertagen<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.muenstertest.de/\">http://www.muenstertest.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63131758062643,
-          51.9640009818764
         ]
       }
     },
@@ -499,21 +469,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Engel-Apotheke",
-        "address": "Münsterstraße 9",
-        "info": "Anmeldung online, Apotheke, <a href=\"mailto:testen@engel-apotheke-wolbeck.de\">testen@engel-apotheke-wolbeck.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.engel-apotheke-wolbeck.de/\">https://www.engel-apotheke-wolbeck.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.72808978993323,
-          51.9175206932399
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "EP Dr. Veronika Engelbertz von Eiff",
         "address": "Idenbrockplatz 24",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-213340\">0251-213340</a>"
@@ -523,21 +478,6 @@
         "coordinates": [
           7.60238209401217,
           51.9952936229742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Forma famos Cosmetics",
-        "address": "Hörsterstraße 37",
-        "info": "Anmeldung per Mail oder telefonisch, Testcenter, Hinweis: Whatsapp-Nummer 01706656321<br /><br />Mo.-Fr. 10:00 - 18:00<br /><br />Sa. 12:00 - 18:00, <a href=\"mailto:info@forma-famos.de\">info@forma-famos.de</a>, X, <a href=\"tel:0251-98161166\">0251-98161166</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63261324419028,
-          51.9649511657164
         ]
       }
     },
@@ -1144,36 +1084,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Münster testet GbR",
-        "address": "Grevener Straße 325",
-        "info": "Anmeldung online, Testcenter, <a href=\"mailto:info@muenster-testet.de\">info@muenster-testet.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-testet.de\">https://muenster-testet.de</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.61238780469066,
-          51.9953310141878
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Münster testet GbR",
-        "address": "Hafenstraße 64",
-        "info": "Anmeldung online, Testcenter, <a href=\"mailto:Münster testet GbR\">Münster testet GbR</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://muenster-testet.de\">https://muenster-testet.de</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63443295188958,
-          51.9505766766757
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Naturheipraxis Ulrike Lürbke",
         "address": "Christoph-Bernhard-Graben 147",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"mailto:praxis@ulrike-luerbke.de\">praxis@ulrike-luerbke.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://ulrike-luerbke.de/\">https://ulrike-luerbke.de/</a>, <a href=\"tel:0251/3904458\">0251/3904458</a>"
@@ -1459,36 +1369,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Schnellteststelle Hiltrup bei Möllers + Reismann",
-        "address": "Fuggerstraße 23",
-        "info": "Anmeldung online, Testcenter, Hinweis: Di. + Do. von 07:00 - 10:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://hiltrup.chayns.net\">https://hiltrup.chayns.net</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62833019713198,
-          51.893039818244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Schnelltestzentrum /<br /><br />Impfzentrum Münster City",
-        "address": "Bolandsgasse 5",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/schnelltestzentrum-muenster-city/checkins\">https://app.no-q.info/schnelltestzentrum-muenster-city/checkins</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63031267762638,
-          51.9625866014073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Schnelltestzentrum /<br /><br />Impfzentrum Münster Kreuzviertel",
         "address": "Wilhelmstraße 5",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/schnelltestzentrum-muenster-kreuzviertel/checkins\">https://app.no-q.info/schnelltestzentrum-muenster-kreuzviertel/checkins</a>, X, <a href=\"tel:0152 38017722\">0152 38017722</a>"
@@ -1498,21 +1378,6 @@
         "coordinates": [
           7.61460044226673,
           51.9670604369058
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Schnelltestzentrum Hansaring",
-        "address": "Hansaring 33",
-        "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.schnelltest-hansaring.de/\">https://www.schnelltest-hansaring.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64082483527152,
-          51.9533391462439
         ]
       }
     },
@@ -1579,21 +1444,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Täschlein&amp;Böxchen",
-        "address": "Warendorfer Straße 57",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Do.  10:00 - 21:00<br /><br />Fr. - Sa.  10:00 -22:00<br /><br />So.  10:00 - 21:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://testzentrum.ms/\">https://testzentrum.ms/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64371333367065,
-          51.9622651777547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Testcenter Am Hawerkamp",
         "address": "Am Hawerkamp 29",
         "info": "Anmeldung online, Testcenter, <a target=\"_blank\" rel=\"noopener\" href=\"https://15minutentest.de/muenster/\">https://15minutentest.de/muenster/</a>, X"
@@ -1633,21 +1483,6 @@
         "coordinates": [
           7.59419404729564,
           51.8901911671198
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Testcentrum Ninfly<br /><br />",
-        "address": "Robert-Bosch-Straße 16",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Mo. - Fr.  15:00 - 21:00<br /><br />Sa. - So. 10:00 - 19:00<br /><br />, <a target=\"_blank\" rel=\"noopener\" href=\"https://ninfly.smart-testen.de\">https://ninfly.smart-testen.de</a>, <a href=\"tel:015217273394\">015217273394</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63497874948056,
-          51.9354770238147
         ]
       }
     },
@@ -1699,21 +1534,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Teststation am Heekweg",
-        "address": "Heekweg 15",
-        "info": "Anmeldung online, Testcenter, Hinweis: ganzwöchig, <a target=\"_blank\" rel=\"noopener\" href=\"https://app.no-q.info/teststation-am-heekweg/checkins\">https://app.no-q.info/teststation-am-heekweg/checkins</a>, <a href=\"tel:0174 / 205 48 64\">0174 / 205 48 64</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.56415894162825,
-          51.9730380208655
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Teststelle Albachten",
         "address": "Dülmener Straße 14",
         "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: täglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://albachten.testen24.com/\">https://albachten.testen24.com/</a>"
@@ -1738,21 +1558,6 @@
         "coordinates": [
           7.63041647608402,
           51.963001423953
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Teststelle bei Coler <br /><br />am Albersloher Weg",
-        "address": "Haferlandweg 3",
-        "info": "Anmeldung online, Testcenter, Hinweis: Di. + Do., <a target=\"_blank\" rel=\"noopener\" href=\"https://gremmendorf.chayns.net/\">https://gremmendorf.chayns.net/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.65918256146282,
-          51.9365105119861
         ]
       }
     },
@@ -1798,36 +1603,6 @@
         "coordinates": [
           7.6082117521393,
           51.9472663806363
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Teststelle FH Münster",
-        "address": "Corrensstraße 25",
-        "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: Testung auch ohne Terminvergabe möglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://corona.chayns.de/\">https://corona.chayns.de/</a>, <a href=\"tel:015156867356\">015156867356</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.59544122019375,
-          51.9685328644127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Teststelle Morthorststraße",
-        "address": "Morthorststraße 37",
-        "info": "Anmeldung nicht erforderlich, Testcenter, <a href=\"mailto:artis-service@web.de\">artis-service@web.de</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64738342824313,
-          51.991197397546
         ]
       }
     },
@@ -1948,36 +1723,6 @@
         "coordinates": [
           7.71217672165986,
           51.9441336435972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Testzentrum im Salzhof",
-        "address": "Salzstraße 26",
-        "info": "Anmeldung online, Testcenter, Hinweis: Montags - Samstags, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.corona-muenster.de/\">https://www.corona-muenster.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63283900479367,
-          51.9608805792651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Testzentrum Stubengasse",
-        "address": "Stubengasse 20",
-        "info": "Anmeldung online, Testcenter, Hinweis: Montags - Samstags, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.cts-muenster.de/\">https://www.cts-muenster.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62940855167202,
-          51.960256238122
         ]
       }
     },
