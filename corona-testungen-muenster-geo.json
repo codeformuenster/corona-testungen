@@ -184,21 +184,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dermatologie MS, Dr. Anja Brinkmann",
-        "address": "Hohenzollernring 10",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:termine@dermatologie.ms\">termine@dermatologie.ms</a>, <a href=\"tel:0251/87158080\">0251/87158080</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64678830134576,
-          51.9563391143974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Dermatologische Gemeinschaftspraxis, Dr. Ottilie Rödder-Wehrmann, Prof. Wolfgang Wehrmann",
         "address": "Warendorfer Straße 183",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/35051\">0251/35051</a>"
@@ -238,21 +223,6 @@
         "coordinates": [
           7.62965653155636,
           51.9449643327504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dr. Christian Berg - Dr. Illerhaus",
-        "address": "Auf dem Dorn 21",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a target=\"_blank\" rel=\"noopener\" href=\"https://www.medis-muenster.de/praxen/details/116\">https://www.medis-muenster.de/praxen/details/116</a>, <a href=\"tel:0157/38173113\">0157/38173113</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.53164281816434,
-          51.9545186927283
         ]
       }
     },
@@ -334,21 +304,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dr. med. Arndt Möllers",
-        "address": "Salzstraße 54",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251-44629\">0251-44629</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.62977182988607,
-          51.9621846764142
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Dr. med. Heide Böggemeyer",
         "address": "Am Pastorenbusch 2",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02533/93210\">02533/93210</a>"
@@ -379,21 +334,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dr. Robert Koss, Zahnarzt u. Oralchirurg, Praxis im FranziskusCarré",
-        "address": "Hohenzollernring 70",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a target=\"_blank\" rel=\"noopener\" href=\"http://www.drkoss.de/\">http://www.drkoss.de/</a>, <a href=\"tel:0251/44278\">0251/44278</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64889902897785,
-          51.9606793345651
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Dr. Sabine Ludt",
         "address": "Kanalstraße 15",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@praxis-ludt.de\">info@praxis-ludt.de</a>"
@@ -403,21 +343,6 @@
         "coordinates": [
           7.63065519163534,
           51.9694961549446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dr. Saskia Holstiege Praxis",
-        "address": "Mauritzstraße 23",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, Hinweis: nur eigene Patientinnen und Patienten, <a href=\"mailto:praxis@dr-holstiege.de\">praxis@dr-holstiege.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://dr-holstiege.de/\">https://dr-holstiege.de/</a>, <a href=\"tel:0251 48168768\">0251 48168768</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.63344972938973,
-          51.9623353220368
         ]
       }
     },
@@ -658,21 +583,6 @@
         "coordinates": [
           7.57060025913707,
           51.9586577672758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gemeinschaftspraxis Harald Kuiper, Dr. Miriam Kempin",
-        "address": "Marktallee 19",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251/6055\">0251/6055</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64043836687847,
-          51.9035567842641
         ]
       }
     },
@@ -1348,21 +1258,6 @@
         "coordinates": [
           7.61019473265907,
           51.9716032432988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Schnellteststelle Coerde bei Weicon",
-        "address": "August-Horch-Straße 11",
-        "info": "Anmeldung online, Testcenter, Hinweis: Mo, Mi und Fr. von 07:00 - 10:00, <a target=\"_blank\" rel=\"noopener\" href=\"https://coerde.chayns.net\">https://coerde.chayns.net</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6652712234347,
-          51.9950340769904
         ]
       }
     },
