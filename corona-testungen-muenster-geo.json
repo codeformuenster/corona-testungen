@@ -829,21 +829,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "HNO münsterland, Dr. Schwering, Dr. Meuth",
-        "address": "Westfalenstraße 132",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@hno-muensterland.de\">info@hno-muensterland.de</a>, <a href=\"tel:02501/3009\">02501/3009</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6338595506433,
-          51.9067086178205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "HNO Praxis Enver Camuz",
         "address": "Heekweg 15",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:0251 42007\">0251 42007</a>"
@@ -1069,21 +1054,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Praxis Dr. Josefa Neuhaus-Mertens",
-        "address": "Marktallee 42",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02501/16045\">02501/16045</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64414861872343,
-          51.9039232928594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Praxis Dr. Knickenberg",
         "address": "Dieckmannstraße 200",
         "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"mailto:info@praxis-dr-knickenberg.de\">info@praxis-dr-knickenberg.de</a>, <a href=\"tel:0251/521099\">0251/521099</a>"
@@ -1138,21 +1108,6 @@
         "coordinates": [
           7.58183497595982,
           51.9669940424627
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Praxis für Kinder- und Jugendmedizin, Burkhard Frase, Dr. Catrin Schulze Höping",
-        "address": "Marktallee 53",
-        "info": "Anmeldung per Mail oder telefonisch, Arzt, <a href=\"tel:02501/44840\">02501/44840</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64574537902719,
-          51.9044811816673
         ]
       }
     },
