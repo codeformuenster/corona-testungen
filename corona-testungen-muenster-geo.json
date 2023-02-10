@@ -1414,21 +1414,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Teststelle Sprickmannplatz",
-        "address": "Sprickmannplatz 4",
-        "info": "Anmeldung online, Testcenter, <a href=\"mailto:Covid-Test159@outlook.de\">Covid-Test159@outlook.de</a>, <a target=\"_blank\" rel=\"noopener\" href=\"https://covidtest159.de/\">https://covidtest159.de/</a>"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.59485309556212,
-          51.9989625281555
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Teststelle St. Joseph Kirche",
         "address": "Hammer Straße 65",
         "info": "Anmeldung nicht erforderlich, Testcenter, Hinweis: täglich, <a target=\"_blank\" rel=\"noopener\" href=\"https://kirchplatz.smart-testen.de/\">https://kirchplatz.smart-testen.de/</a>"
