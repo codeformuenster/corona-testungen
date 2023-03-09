@@ -7,8 +7,6 @@ on:
   pull_request:
     branches:
       - main
-  schedule:
-    - cron: '15,30 6-19 * * *'
   # Allows to run this workflow manually from the Actions tab
   workflow_dispatch:
 
